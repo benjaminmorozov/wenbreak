@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/player/custom_player/caleon1/prisonguard/t_sp_prisonguard_body"
+	"$bumpmap"		"models/player/custom_player/caleon1/prisonguard/t_sp_prisonguard_body_n"
+}

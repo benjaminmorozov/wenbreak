@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/custom_player/kodua/negan/hands"
+	"$bumpmap"	"models/player/custom_player/kodua/negan/hands_n"
+
+	"$phong" "1"
+	//"$phongexponenttexture" "models/player/custom_player/kodua/negan/"
+	"$phongexponent" "55"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[.1 .5 1]"
+	"$PhongAlbedoTint" "0"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "5"
+	"$rimlightboost" ".5"
+	"$rimmask" "0"
+}

@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/custom_player/kodua/negan/eyes"
+	"$bumpmap"	"models/player/custom_player/kodua/negan/eyes_n"
+
+	"$phong" "1"
+	//"$phongexponenttexture" "models/player/custom_player/kodua/negan/"
+	"$phongexponent" "100"
+	"$phongboost" "10"
+	"$phongfresnelranges" "[.5 1 1]"
+	"$PhongAlbedoTint" "0"
+
+	//"$envmap" "env_cubemap" 
+	//"$envmaptint" "[.25 .25 .25]"
+}

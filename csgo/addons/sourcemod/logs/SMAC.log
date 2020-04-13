@@ -1,0 +1,26 @@
+L 04/12/2020 - 01:47:02: [smac_eyetest.smx | 0.8.7.3] MilkA (ID: STEAM_1:0:242076907 | IP: 194.61.48.242) is suspected of tampering with an old movement command (tickcount). CmdNum: 81362 | [83148:81998:83149]
+	Map: jb_summer_jail_v3 | Origin: -1248 -86 -7 | Angles: 44 94 0 | Weapon: weapon_usp_silencer | Team: 3 | Latency: 34ms
+L 04/12/2020 - 01:57:33: [smac_eyetest.smx | 0.8.7.3] Androméďa (ID: STEAM_1:0:93774482 | IP: 78.99.61.50) is suspected of tampering with an old movement command (tickcount). CmdNum: 163299 | [163990:163971:163991]
+	Map: jb_summer_jail_v3 | Origin: -872 -541 140 | Angles: 30 -84 0 | Weapon: weapon_knife | Team: 2 | Latency: 46ms
+L 04/12/2020 - 02:00:51: [smac_eyetest.smx | 0.8.7.3] Androméďa (ID: STEAM_1:0:93774482 | IP: 78.99.61.50) is suspected of tampering with an old movement command (tickcount). CmdNum: 188596 | [189271:189255:189272]
+	Map: jb_summer_jail_v3 | Origin: 376 -661 -143 | Angles: 0 90 0 | Weapon: weapon_knife | Team: 2 | Latency: 46ms
+L 04/12/2020 - 15:06:52: [smac_eyetest.smx | 0.8.7.3] Androméďa (ID: STEAM_1:0:93774482 | IP: 78.99.61.50) is suspected of tampering with an old movement command (tickcount). CmdNum: 108697 | [115935:115914:115936]
+	Map: jb_summer_jail_v3 | Origin: 53 -544 140 | Angles: 31 22 0 | Weapon: weapon_knife | Team: 2 | Latency: 46ms
+L 04/12/2020 - 15:12:30: [smac_eyetest.smx | 0.8.7.3] Androméďa (ID: STEAM_1:0:93774482 | IP: 78.99.61.50) is suspected of tampering with an old movement command (tickcount). CmdNum: 151930 | [159206:159187:159207]
+	Map: jb_summer_jail_v3 | Origin: -173 -463 0 | Angles: 36 -136 0 | Weapon: weapon_knife | Team: 2 | Latency: 44ms
+L 04/12/2020 - 15:46:13: [smac_eyetest.smx | 0.8.7.3] Androméďa (ID: STEAM_1:0:93774482 | IP: 78.99.61.50) is suspected of tampering with an old movement command (tickcount). CmdNum: 411100 | [418149:418126:418150]
+	Map: jb_summer_jail_v3 | Origin: -24 -661 -143 | Angles: 0 90 0 | Weapon: weapon_knife | Team: 2 | Latency: 45ms
+L 04/12/2020 - 16:24:51: [smac_eyetest.smx | 0.8.7.3] Androméďa (ID: STEAM_1:0:93774482 | IP: 78.99.61.50) is suspected of tampering with an old movement command (tickcount). CmdNum: 144464 | [144826:144804:144827]
+	Map: jb_summer_jail_v3 | Origin: -824 -587 -143 | Angles: 0 90 0 | Weapon: weapon_knife | Team: 2 | Latency: 51ms
+L 04/12/2020 - 16:26:29: [smac_eyetest.smx | 0.8.7.3] Androméďa (ID: STEAM_1:0:93774482 | IP: 78.99.61.50) is suspected of tampering with an old movement command (tickcount). CmdNum: 157009 | [157378:157351:157379]
+	Map: jb_summer_jail_v3 | Origin: -824 -587 -143 | Angles: 0 90 0 | Weapon: weapon_knife | Team: 2 | Latency: 47ms
+L 04/12/2020 - 16:34:02: [smac_eyetest.smx | 0.8.7.3] Androméďa (ID: STEAM_1:0:93774482 | IP: 78.99.61.50) is suspected of tampering with an old movement command (tickcount). CmdNum: 214886 | [215256:215206:215257]
+	Map: jb_summer_jail_v3 | Origin: -624 -661 0 | Angles: 1 91 0 | Weapon: weapon_knife | Team: 2 | Latency: 51ms
+L 04/12/2020 - 17:04:13: [smac_eyetest.smx | 0.8.7.3] Androméďa (ID: STEAM_1:0:93774482 | IP: 78.99.61.50) is suspected of tampering with an old movement command (tickcount). CmdNum: 72689 | [82928:82850:82929]
+	Map: jb_summer_jail_v3 | Origin: -912 -493 140 | Angles: 5 -27 0 | Weapon: weapon_knife | Team: 3 | Latency: 48ms
+L 04/12/2020 - 17:42:19: [smac_eyetest.smx | 0.8.7.3] Androméďa (ID: STEAM_1:0:93774482 | IP: 78.99.61.50) is suspected of tampering with an old movement command (tickcount). CmdNum: 36234 | [36951:36910:36952]
+	Map: jb_summer_jail_v3 | Origin: -897 -543 140 | Angles: 19 -64 0 | Weapon: weapon_knife | Team: 2 | Latency: 43ms
+L 04/12/2020 - 17:48:47: [smac_eyetest.smx | 0.8.7.3] Androméďa (ID: STEAM_1:0:93774482 | IP: 78.99.61.50) is suspected of tampering with an old movement command (tickcount). CmdNum: 16952 | [9112:9089:9113]
+	Map: jb_arctic_jail_v3 | Origin: 556 703 16 | Angles: -0 -153 0 | Weapon: weapon_knife | Team: 2 | Latency: 46ms
+L 04/13/2020 - 01:10:30: [smac_cvars.smx | 0.8.7.3] Androméďa (ID: STEAM_1:0:93774482 | IP: 78.99.61.50) was banned for failing checks on convar "sv_cheats". result "Okay" | CompType: "replicated" | cvarValue "1" | value: "0" | value2: ""
+	Map: jb_summer_jail_v3 | Origin: 377 -604 0 | Angles: 8 108 0 | Weapon: weapon_knife | Team: 2 | Latency: 45ms

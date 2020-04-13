@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/player/darnias/leon/hair"
+	$alphatest 1
+	$alphatestreference 0.17
+	$color "[0.8 0.8 0.8]"
+}

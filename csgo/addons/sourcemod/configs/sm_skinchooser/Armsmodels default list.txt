@@ -1,0 +1,12 @@
+models/weapons/ct_arms.mdl
+models/weapons/ct_arms_fbi.mdl
+models/weapons/ct_arms_gign.mdl
+models/weapons/ct_arms_gsg9.mdl
+models/weapons/ct_arms_idf.mdl
+models/weapons/ct_arms_st6.mdl
+models/weapons/ct_arms_sas.mdl
+models/weapons/ct_arms_swat.mdl
+
+models/player/custom_player/hekut/maverick/maverick_hekut_arms.dx90.vtx
+models/player/custom_player/hekut/maverick/maverick_hekut_arms.mdl
+models/player/custom_player/hekut/maverick/maverick_hekut_arms.vvd

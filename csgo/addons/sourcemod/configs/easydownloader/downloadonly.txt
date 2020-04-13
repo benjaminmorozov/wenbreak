@@ -1,0 +1,18 @@
+//Download Only (no precaching)
+materials\models\player\custom_player\hekut\maverick\Maverick_Bag.vmt
+materials\models\player\custom_player\hekut\maverick\Maverick_Bag_D.vtf
+materials\models\player\custom_player\hekut\maverick\Maverick_Bag_N.vtf
+materials\models\player\custom_player\hekut\maverick\Maverick_Hair.vmt
+materials\models\player\custom_player\hekut\maverick\Maverick_Hair_D.vtf
+materials\models\player\custom_player\hekut\maverick\Maverick_Hair_N.vtf
+materials\models\player\custom_player\hekut\maverick\Maverick_Head.vmt
+materials\models\player\custom_player\hekut\maverick\Maverick_Head_D.vtf
+materials\models\player\custom_player\hekut\maverick\Maverick_Head_N.vtf
+materials\models\player\custom_player\hekut\maverick\Maverick_HekuT.vmt
+materials\models\player\custom_player\hekut\maverick\Maverick_HekuT_D.vtf
+materials\models\player\custom_player\hekut\maverick\Maverick_HekuT_N.vtf
+models\player\custom_player\hekut\maverick\maverick_hekut.dx90.vtx
+models\player\custom_player\hekut\maverick\maverick_hekut.phy
+models\player\custom_player\hekut\maverick\maverick_hekut.vvd
+models\player\custom_player\hekut\maverick\maverick_hekut_arms.dx90.vtx
+models\player\custom_player\hekut\maverick\maverick_hekut_arms.vvd

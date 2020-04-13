@@ -1,0 +1,3 @@
+//Models
+models\player\custom_player\hekut\maverick\maverick_hekut.mdl
+models\player\custom_player\hekut\maverick\maverick_hekut_arms.mdl

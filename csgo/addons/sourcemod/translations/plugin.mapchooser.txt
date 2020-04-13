@@ -1,0 +1,39 @@
+"Phrases"
+{
+	"Choose Next Map"
+	{
+		"en"			"Choose the next map:"
+		"de"      		"Nächste Karte auswählen"
+		"fr"      		"Choisissez la prochaine map:"
+	}
+	
+	"Selected Map"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} voted for {2}."
+		"de"      		"{1} stimmte für {2}."
+		"fr"			"{1} a vote pour {2}."
+		}
+	
+	"No Map Chosen"
+	{
+		"en"			"No one voted for the next map."
+		"de"    		"Keiner hat für die nächste Karte gestimmt"
+		"fr"			"Pas de vote pour la prochaine map."
+	}
+	
+	"Current Map Extended"
+	{
+		"en"			"The current map has been extended."
+		"de"    		"Die aktuelle Karte wurde verlängert"
+		"fr"			"La map en cours a ete prolongee."
+	}
+	
+	"Next Map Chosen"
+	{
+		"#format"		"{1:s}"
+		"en"			"Vote finished. The next map will be {1}."
+		"de"      		"Abstimmung beendet. Die nächste Karte wird {1}."
+		"fr"      		"Vote termine. La prochaine map sera {1}."		
+	}
+}

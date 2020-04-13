@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/player/kirby/kirbys_robber/kirby_phoenix_regular"
+        "$envmap" 			"env_cubemap"
+        "$bumpmap" "models/player/kirby/kirbys_robber/kirby_phoenix_regular_normal"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 0.3
+	"$envmapsaturation" 0.7
+	"$envmaptint" "[ 0.36 0.36 0.36 ]"
+}

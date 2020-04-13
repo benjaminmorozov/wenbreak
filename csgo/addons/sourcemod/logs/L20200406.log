@@ -1,0 +1,8 @@
+L 04/06/2020 - 14:42:35: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200406.log") (Version "1.10.0.6478")
+L 04/06/2020 - 14:42:35: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/06/2020 - 14:42:36: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/06/2020 - 14:42:36: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/06/2020 - 16:21:00: -------- Mapchange to jb_obama_v5_beta --------
+L 04/06/2020 - 16:21:03: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/06/2020 - 16:21:03: [chat-processor.smx] Successfully hooked a SayText2 chat hook.

@@ -1,0 +1,29 @@
+"Phrases"
+{
+	"NEXT_MAP"
+	{
+		"en"			"Next Map:"
+		"fr"			"Prochaine Carte:"
+		"de"      		"Nächste Map:"
+		"es"			"Proximo Mapa:"
+		"pl"			"Następna Mapa:"
+	}
+	
+	"PLAYED_MAP"
+	{
+		"en"			"Played map"
+		"fr"			"Carte jouee"
+		"de"      		"Gespielte Maps"
+		"es"			"Mapa actual"
+		"pl"			"Obecna mapa"
+	}
+	
+	"FRIEND_FIRE"
+	{
+		"en"			"Friendly fire"
+		"fr"			"Friendly fire"
+		"de"      		"Friendly fire"
+		"es"			"Fuego amigo"
+		"pl"			"Friendly fire"
+	}
+}

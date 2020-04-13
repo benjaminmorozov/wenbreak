@@ -1,0 +1,655 @@
+L 04/08/2020 - 10:40:52: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200408.log") (Version "1.10.0.6478")
+L 04/08/2020 - 10:40:52: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/08/2020 - 11:28:53: -------- Mapchange to jb_obama_v5_beta --------
+L 04/08/2020 - 11:28:57: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/08/2020 - 11:28:57: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/08/2020 - 11:29:27: [hextags.smx] Peace0ut48<2><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:31:27: [hextags.smx] Peace0ut48<2><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:31:47: [hextags.smx] Peace0ut48<2><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:34:22: [hextags.smx] Smoweday<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:34:47: [hextags.smx] Smoweday<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:35:22: [playercommands.smx] "Peace0ut48<4><STEAM_1:1:527843285><>" renamed "Smoweday<3><STEAM_1:0:505070462><>" (to "dySwayey")
+L 04/08/2020 - 11:35:23: [playercommands.smx] "Peace0ut48<4><STEAM_1:1:527843285><>" renamed "dySwayey<3><STEAM_1:0:505070462><>" (to "eydSadaS")
+L 04/08/2020 - 11:35:24: [playercommands.smx] "Peace0ut48<4><STEAM_1:1:527843285><>" renamed "eydSadaS<3><STEAM_1:0:505070462><>" (to "dSSdyada")
+L 04/08/2020 - 11:35:25: [playercommands.smx] "Peace0ut48<4><STEAM_1:1:527843285><>" renamed "dSSdyada<3><STEAM_1:0:505070462><>" (to "SdSaddda")
+L 04/08/2020 - 11:35:34: [playercommands.smx] "SdSaddda<3><STEAM_1:0:505070462><>" renamed "Peace0ut48<4><STEAM_1:1:527843285><>" (to "8u8ccteeaP")
+L 04/08/2020 - 11:36:27: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:42:53: [movecommands.smx] "8u8ccteeaP<4><STEAM_1:1:527843285><>" was moved to CT by "SdSaddda<3><STEAM_1:0:505070462><>"
+L 04/08/2020 - 11:42:53: [movecommands.smx] "SdSaddda<3><STEAM_1:0:505070462><>" was moved to T by "SdSaddda<3><STEAM_1:0:505070462><>"
+L 04/08/2020 - 11:43:43: [hextags.smx] 8u8ccteeaP<4><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:45:28: [hextags.smx] 8u8ccteeaP<4><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:45:43: [hextags.smx] 8u8ccteeaP<4><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:46:08: [hextags.smx] 8u8ccteeaP<4><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:46:18: [hextags.smx] 8u8ccteeaP<4><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:46:43: [hextags.smx] 8u8ccteeaP<4><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:47:38: [hextags.smx] 8u8ccteeaP<4><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:48:23: [hextags.smx] 8u8ccteeaP<4><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:49:48: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:50:18: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:50:53: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:51:08: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:51:48: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:52:18: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:53:58: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:55:28: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:55:47: [playercommands.smx] "8u8ccteeaP<4><STEAM_1:1:527843285><>" slayed "vivi gaming live<5><STEAM_1:0:240660074><>"
+L 04/08/2020 - 11:55:58: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:57:33: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:57:53: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:58:58: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 11:59:18: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:00:23: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:00:33: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:01:08: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:01:33: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:02:08: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:02:23: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:02:43: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:03:53: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:04:03: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:06:28: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:06:43: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:07:53: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:09:19: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:10:59: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:12:19: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:12:24: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:12:44: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:15:49: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:17:54: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:18:44: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:20:09: [extendedcomm.smx] SdSaddda<3><STEAM_1:0:505070462><> issued an extended gag on Vasilij Zajcev<7><STEAM_1:0:513557709><> for 5 minutes.
+L 04/08/2020 - 12:20:29: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:20:39: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:21:04: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:23:04: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:24:46: [movecommands.smx] "8u8ccteeaP<4><STEAM_1:1:527843285><>" was moved to Spec by "SdSaddda<3><STEAM_1:0:505070462><>"
+L 04/08/2020 - 12:24:54: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:25:59: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:26:49: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:27:14: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:27:44: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:29:29: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:29:44: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:30:14: [hextags.smx] SdSaddda<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:30:31: [basecommands.smx] "SdSaddda<3><STEAM_1:0:505070462><>" changed map to "jb_spy_vs_spy_beta7"
+L 04/08/2020 - 12:30:34: [SM] Changed map to "jb_spy_vs_spy_beta7"
+L 04/08/2020 - 12:30:35: -------- Mapchange to jb_spy_vs_spy_beta7 --------
+L 04/08/2020 - 12:30:38: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/08/2020 - 12:30:38: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/08/2020 - 12:30:54: [hextags.smx] Smoweday<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:31:14: [hextags.smx] Smoweday<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:32:34: [hextags.smx] Smoweday<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:40:23: [movecommands.smx] "U So Bad<8><STEAM_1:1:542102704><>" was moved to T by "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/08/2020 - 12:41:21: [movecommands.smx] "Peace0ut48<4><STEAM_1:1:527843285><>" was moved to CT by "Peace0ut48<4><STEAM_1:1:527843285><>"
+L 04/08/2020 - 12:41:44: [hextags.smx] Peace0ut48<4><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:42:32: [sm_hosties.smx] "Smoweday<3><STEAM_1:0:505070462><>" respawned "TJOS<11><STEAM_1:1:535914003><>"
+L 04/08/2020 - 12:42:44: [hextags.smx] Peace0ut48<4><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 12:44:09: [sm_hosties.smx] "Smoweday<3><STEAM_1:0:505070462><>" banned "U So Bad<8><STEAM_1:1:542102704><>" (minutes "0") (reason "Aimbot")
+L 04/08/2020 - 12:50:24: [funcommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" drugged "Peace0ut48<4><STEAM_1:1:527843285><>"
+L 04/08/2020 - 12:50:24: [funcommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" drugged "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/08/2020 - 12:50:25: [funcommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" drugged "vivi gaming live<5><STEAM_1:0:240660074><>"
+L 04/08/2020 - 12:50:25: [funcommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" drugged "Vasilij Zajcev<7><STEAM_1:0:513557709><>"
+L 04/08/2020 - 12:51:10: [funcommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" undrugged "Peace0ut48<4><STEAM_1:1:527843285><>"
+L 04/08/2020 - 12:51:11: [funcommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" undrugged "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/08/2020 - 12:51:11: [funcommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" undrugged "vivi gaming live<5><STEAM_1:0:240660074><>"
+L 04/08/2020 - 12:51:11: [funcommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" undrugged "Vasilij Zajcev<7><STEAM_1:0:513557709><>"
+L 04/08/2020 - 12:55:58: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/08/2020 - 12:56:05: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/08/2020 - 12:57:28: [admin_stealth.smx] Smoweday has toggled stealth mode.
+L 04/08/2020 - 12:57:37: [admin_stealth.smx] Smoweday has toggled stealth mode.
+L 04/08/2020 - 12:58:06: [funcommands.smx] "Peace0ut48<4><STEAM_1:1:527843285><>" froze "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/08/2020 - 12:58:17: [funcommands.smx] "Peace0ut48<4><STEAM_1:1:527843285><>" froze "Vasilij Zajcev<7><STEAM_1:0:513557709><>"
+L 04/08/2020 - 12:58:24: [funcommands.smx] "Peace0ut48<4><STEAM_1:1:527843285><>" froze "Vasilij Zajcev<7><STEAM_1:0:513557709><>"
+L 04/08/2020 - 12:58:34: [funcommands.smx] "Peace0ut48<4><STEAM_1:1:527843285><>" froze "Kapi<13><STEAM_1:0:200388109><>"
+L 04/08/2020 - 12:58:40: [funcommands.smx] "Peace0ut48<4><STEAM_1:1:527843285><>" froze "Kapi<13><STEAM_1:0:200388109><>"
+L 04/08/2020 - 12:59:14: [SM] Changed map to "jb_spy_vs_spy_beta7"
+L 04/08/2020 - 12:59:15: -------- Mapchange to jb_spy_vs_spy_beta7 --------
+L 04/08/2020 - 12:59:19: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/08/2020 - 12:59:19: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/08/2020 - 12:59:30: [basecommands.smx] "Peace0ut48<4><STEAM_1:1:527843285><>" changed map to "ba_2016_minecraft_beta5"
+L 04/08/2020 - 12:59:33: [SM] Changed map to "ba_2016_minecraft_beta5"
+L 04/08/2020 - 12:59:34: -------- Mapchange to ba_2016_minecraft_beta5 --------
+L 04/08/2020 - 12:59:51: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200408.log") (Version "1.10.0.6478")
+L 04/08/2020 - 12:59:51: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/08/2020 - 13:00:15: -------- Mapchange to jb_obama_v5_beta --------
+L 04/08/2020 - 13:00:18: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/08/2020 - 13:00:18: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/08/2020 - 13:00:56: -------- Mapchange to jb_hostile2_default --------
+L 04/08/2020 - 13:00:58: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/08/2020 - 13:00:58: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/08/2020 - 13:02:03: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:03: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:03: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:03: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:04: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:05: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:05: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:05: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:06: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:06: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:06: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:06: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:06: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:07: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:07: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:07: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:07: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:07: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:08: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:08: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:08: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:08: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:08: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:08: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:09: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:09: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:09: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:09: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 13:02:09: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 19:24:34: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200408.log") (Version "1.10.0.6478")
+L 04/08/2020 - 19:24:34: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/08/2020 - 19:25:08: -------- Mapchange to jb_obama_v5_beta --------
+L 04/08/2020 - 19:25:11: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/08/2020 - 19:25:11: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/08/2020 - 19:26:42: [hextags.smx] MilkA<2><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 19:27:02: [hextags.smx] MilkA<2><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 19:27:12: [hextags.smx] MilkA<2><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 19:29:42: [hextags.smx] MilkA<2><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 19:31:12: [hextags.smx] Androméďa<4><STEAM_1:0:93774482><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 19:34:38: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slayed "MilkA<2><STEAM_1:0:242076907><>"
+L 04/08/2020 - 19:35:20: [sm_hosties.smx] "Androméďa<4><STEAM_1:0:93774482><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 19:35:32: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 19:35:34: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 19:35:53: [admin_stealth.smx] Smoweday has toggled stealth mode.
+L 04/08/2020 - 19:35:58: [admin_stealth.smx] Smoweday has toggled stealth mode.
+L 04/08/2020 - 19:36:15: [admin_stealth.smx] MilkA has toggled stealth mode.
+L 04/08/2020 - 19:36:23: [admin_stealth.smx] MilkA has toggled stealth mode.
+L 04/08/2020 - 19:37:19: [sm_hosties.smx] "Smoweday<3><STEAM_1:0:505070462><>" respawned "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/08/2020 - 19:38:28: [sm_hosties.smx] "Smoweday<3><STEAM_1:0:505070462><>" respawned "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/08/2020 - 19:40:42: [basecommands.smx] "MilkA<2><STEAM_1:0:242076907><>" changed map to "jb_marioworld_rsc"
+L 04/08/2020 - 19:40:45: [SM] Changed map to "jb_marioworld_rsc"
+L 04/08/2020 - 19:40:47: -------- Mapchange to jb_marioworld_rsc --------
+L 04/08/2020 - 19:40:51: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/08/2020 - 19:40:51: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/08/2020 - 19:41:09: [hextags.smx] Smoweday<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 19:41:43: [sm_hosties.smx] "Androméďa<4><STEAM_1:0:93774482><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 19:41:48: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:41:48: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:41:48: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:41:48: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:41:49: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:41:49: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:41:49: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:41:49: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:41:51: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "Smoweday<3><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 19:41:51: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "Smoweday<3><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 19:41:51: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "Smoweday<3><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 19:41:51: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "Smoweday<3><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 19:41:52: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "Smoweday<3><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 19:41:52: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "Smoweday<3><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 19:41:52: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "Smoweday<3><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 19:41:52: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "Smoweday<3><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 19:41:52: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "Smoweday<3><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 19:41:52: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "Smoweday<3><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 19:41:58: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "Smoweday<3><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 19:41:58: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "Smoweday<3><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 19:41:59: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "Smoweday<3><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 19:41:59: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "Smoweday<3><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 19:41:59: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "Smoweday<3><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 19:42:01: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:42:01: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:42:01: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:42:01: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:42:02: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:42:02: [funcommands.smx] "Androméďa<4><STEAM_1:0:93774482><>" toggled noclip on "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 19:42:02: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:42:02: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:42:02: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:42:02: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:42:03: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:42:03: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:42:03: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:42:03: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:42:04: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:42:04: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:42:04: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:42:05: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:42:05: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:42:05: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slapped "MilkA<2><STEAM_1:0:242076907><>" (damage "0")
+L 04/08/2020 - 19:42:26: [funcommands.smx] "MilkA<2><STEAM_1:0:242076907><>" toggled noclip on "MilkA<2><STEAM_1:0:242076907><>"
+L 04/08/2020 - 19:42:32: [funcommands.smx] "Androméďa<4><STEAM_1:0:93774482><>" toggled noclip on "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 19:42:32: [funcommands.smx] "Androméďa<4><STEAM_1:0:93774482><>" toggled noclip on "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 19:42:33: [funcommands.smx] "Androméďa<4><STEAM_1:0:93774482><>" toggled noclip on "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 19:42:48: [funcommands.smx] "MilkA<2><STEAM_1:0:242076907><>" toggled noclip on "MilkA<2><STEAM_1:0:242076907><>"
+L 04/08/2020 - 19:43:16: [sm_hosties.smx] "Androméďa<4><STEAM_1:0:93774482><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 19:43:27: [funcommands.smx] "Androméďa<4><STEAM_1:0:93774482><>" toggled noclip on "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 19:43:47: [sm_hosties.smx] "Androméďa<4><STEAM_1:0:93774482><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 19:43:58: [funcommands.smx] "Androméďa<4><STEAM_1:0:93774482><>" toggled noclip on "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 19:43:59: [funcommands.smx] "MilkA<2><STEAM_1:0:242076907><>" toggled noclip on "MilkA<2><STEAM_1:0:242076907><>"
+L 04/08/2020 - 19:43:59: [funcommands.smx] "Androméďa<4><STEAM_1:0:93774482><>" toggled noclip on "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 19:44:04: [hextags.smx] MilkA<2><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 19:44:12: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slayed "MilkA<2><STEAM_1:0:242076907><>"
+L 04/08/2020 - 19:44:14: [hextags.smx] MilkA<2><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 19:44:39: [funcommands.smx] "Androméďa<4><STEAM_1:0:93774482><>" toggled noclip on "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 19:44:57: [funcommands.smx] "Androméďa<4><STEAM_1:0:93774482><>" toggled noclip on "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 19:46:21: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slayed "MilkA<2><STEAM_1:0:242076907><>"
+L 04/08/2020 - 19:48:35: [hextags.smx] MilkA<2><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 19:49:20: [hextags.smx] MilkA<2><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 19:49:35: [sm_hosties.smx] "Smoweday<3><STEAM_1:0:505070462><>" respawned "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/08/2020 - 19:50:39: [funcommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/08/2020 - 19:50:40: [funcommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/08/2020 - 19:50:41: [funcommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" toggled noclip on "MilkA<2><STEAM_1:0:242076907><>"
+L 04/08/2020 - 19:50:42: [funcommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" toggled noclip on "MilkA<2><STEAM_1:0:242076907><>"
+L 04/08/2020 - 19:50:43: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 19:50:49: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 19:51:52: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 19:51:54: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 19:52:55: [funcommands.smx] "MilkA<2><STEAM_1:0:242076907><>" toggled noclip on "MilkA<2><STEAM_1:0:242076907><>"
+L 04/08/2020 - 19:53:00: [funcommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" toggled noclip on "MilkA<2><STEAM_1:0:242076907><>"
+L 04/08/2020 - 19:53:01: [funcommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/08/2020 - 19:53:01: [funcommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/08/2020 - 19:53:03: [funcommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/08/2020 - 19:53:11: [funcommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/08/2020 - 19:53:13: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 19:53:17: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 19:53:46: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" renamed "Smoweday<3><STEAM_1:0:505070462><>" (to "wemddway")
+L 04/08/2020 - 19:53:49: [playercommands.smx] "wemddway<3><STEAM_1:0:505070462><>" renamed "MilkA<2><STEAM_1:0:242076907><>" (to "kkiAM")
+L 04/08/2020 - 19:53:49: [playercommands.smx] "wemddway<3><STEAM_1:0:505070462><>" renamed "Androméďa<4><STEAM_1:0:93774482><>" (to "onaooĩ��a�")
+L 04/08/2020 - 19:53:54: [funcommands.smx] "wemddway<3><STEAM_1:0:505070462><>" toggled noclip on "wemddway<3><STEAM_1:0:505070462><>"
+L 04/08/2020 - 19:54:00: [funcommands.smx] "wemddway<3><STEAM_1:0:505070462><>" toggled noclip on "wemddway<3><STEAM_1:0:505070462><>"
+L 04/08/2020 - 19:54:01: [funcommands.smx] "wemddway<3><STEAM_1:0:505070462><>" toggled noclip on "wemddway<3><STEAM_1:0:505070462><>"
+L 04/08/2020 - 19:54:02: [funcommands.smx] "wemddway<3><STEAM_1:0:505070462><>" toggled noclip on "wemddway<3><STEAM_1:0:505070462><>"
+L 04/08/2020 - 19:54:02: [funcommands.smx] "wemddway<3><STEAM_1:0:505070462><>" toggled noclip on "wemddway<3><STEAM_1:0:505070462><>"
+L 04/08/2020 - 19:54:06: [funcommands.smx] "wemddway<3><STEAM_1:0:505070462><>" toggled noclip on "wemddway<3><STEAM_1:0:505070462><>"
+L 04/08/2020 - 19:54:46: [admin_stealth.smx] unnamed has toggled stealth mode.
+L 04/08/2020 - 19:54:49: [admin_stealth.smx] unnamed has toggled stealth mode.
+L 04/08/2020 - 19:55:14: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200408.log") (Version "1.10.0.6478")
+L 04/08/2020 - 19:55:14: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/08/2020 - 19:55:23: Log file closed.
+L 04/08/2020 - 19:55:40: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200408.log") (Version "1.10.0.6478")
+L 04/08/2020 - 19:55:40: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/08/2020 - 19:55:46: Log file closed.
+L 04/08/2020 - 19:56:05: Log file closed.
+L 04/08/2020 - 19:56:21: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200408.log") (Version "1.10.0.6478")
+L 04/08/2020 - 19:56:21: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/08/2020 - 19:56:33: -------- Mapchange to jb_obama_v5_beta --------
+L 04/08/2020 - 19:56:36: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/08/2020 - 19:56:36: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/08/2020 - 19:58:42: [hextags.smx] Smoweday<4><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 19:58:52: [hextags.smx] Smoweday<4><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 19:59:45: [playercommands.smx] "Peace0ut48<3><STEAM_1:1:527843285><>" slapped "Smoweday<4><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 19:59:45: [playercommands.smx] "Peace0ut48<3><STEAM_1:1:527843285><>" slapped "Smoweday<4><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 19:59:45: [playercommands.smx] "Peace0ut48<3><STEAM_1:1:527843285><>" slapped "Smoweday<4><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 19:59:45: [playercommands.smx] "Peace0ut48<3><STEAM_1:1:527843285><>" slapped "Smoweday<4><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 19:59:46: [playercommands.smx] "Peace0ut48<3><STEAM_1:1:527843285><>" slapped "Smoweday<4><STEAM_1:0:505070462><>" (damage "0")
+L 04/08/2020 - 20:02:35: [funcommands.smx] "Peace0ut48<3><STEAM_1:1:527843285><>" toggled noclip on "Peace0ut48<3><STEAM_1:1:527843285><>"
+L 04/08/2020 - 20:03:00: [funcommands.smx] "Peace0ut48<3><STEAM_1:1:527843285><>" toggled noclip on "Peace0ut48<3><STEAM_1:1:527843285><>"
+L 04/08/2020 - 20:03:26: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 20:03:29: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 20:04:12: [hextags.smx] Smoweday<4><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 20:05:32: [hextags.smx] Smoweday<4><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 20:05:50: [sm_hosties.smx] "Androméďa<2><STEAM_1:0:93774482><>" respawned "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/08/2020 - 20:07:39: [sm_hosties.smx] "MilkA<6><STEAM_1:0:242076907><>" respawned "MilkA<6><STEAM_1:0:242076907><>"
+L 04/08/2020 - 20:07:52: [hextags.smx] Smoweday<4><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 20:08:18: [sm_hosties.smx] "Androméďa<2><STEAM_1:0:93774482><>" respawned "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/08/2020 - 20:09:03: [sm_hosties.smx] "Androméďa<2><STEAM_1:0:93774482><>" respawned "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/08/2020 - 20:09:07: [hextags.smx] Smoweday<4><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 20:09:08: [sm_hosties.smx] "Peace0ut48<3><STEAM_1:1:527843285><>" respawned "Peace0ut48<3><STEAM_1:1:527843285><>"
+L 04/08/2020 - 20:09:09: [sm_hosties.smx] "Peace0ut48<3><STEAM_1:1:527843285><>" respawned "MilkA<6><STEAM_1:0:242076907><>"
+L 04/08/2020 - 20:11:19: [sm_hosties.smx] "Androméďa<2><STEAM_1:0:93774482><>" respawned "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/08/2020 - 20:11:44: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 20:11:46: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 20:12:27: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 20:12:29: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 20:12:55: [playercommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" slayed "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/08/2020 - 20:12:55: [playercommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" slayed "Peace0ut48<3><STEAM_1:1:527843285><>"
+L 04/08/2020 - 20:12:55: [playercommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" slayed "MilkA<6><STEAM_1:0:242076907><>"
+L 04/08/2020 - 20:13:03: [hextags.smx] Smoweday<4><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 20:13:08: [hextags.smx] Smoweday<4><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 20:13:22: [sm_hosties.smx] "Androméďa<2><STEAM_1:0:93774482><>" respawned "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/08/2020 - 20:13:28: [playercommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" slayed "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/08/2020 - 20:13:28: [playercommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" slayed "MilkA<6><STEAM_1:0:242076907><>"
+L 04/08/2020 - 20:15:26: [funcommands.smx] "Peace0ut48<3><STEAM_1:1:527843285><>" toggled noclip on "Peace0ut48<3><STEAM_1:1:527843285><>"
+L 04/08/2020 - 20:15:35: [funcommands.smx] "Peace0ut48<3><STEAM_1:1:527843285><>" toggled noclip on "Peace0ut48<3><STEAM_1:1:527843285><>"
+L 04/08/2020 - 20:15:44: [sm_hosties.smx] "MilkA<6><STEAM_1:0:242076907><>" slayed "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/08/2020 - 20:15:53: [hextags.smx] Smoweday<4><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 20:16:08: [hextags.smx] Smoweday<4><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 20:16:25: [movecommands.smx] "Androméďa<2><STEAM_1:0:93774482><>" was moved to CT by "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/08/2020 - 20:16:25: [movecommands.smx] "Peace0ut48<3><STEAM_1:1:527843285><>" was moved to CT by "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/08/2020 - 20:16:25: [movecommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" was moved to T by "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/08/2020 - 20:16:25: [movecommands.smx] "MilkA<6><STEAM_1:0:242076907><>" was moved to CT by "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/08/2020 - 20:17:14: [sm_hosties.smx] "MilkA<6><STEAM_1:0:242076907><>" respawned "MilkA<6><STEAM_1:0:242076907><>"
+L 04/08/2020 - 20:17:28: [sm_hosties.smx] "MilkA<6><STEAM_1:0:242076907><>" respawned "MilkA<6><STEAM_1:0:242076907><>"
+L 04/08/2020 - 20:18:03: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200408.log") (Version "1.10.0.6478")
+L 04/08/2020 - 20:18:03: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/08/2020 - 20:18:15: Log file closed.
+L 04/08/2020 - 20:18:31: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200408.log") (Version "1.10.0.6478")
+L 04/08/2020 - 20:18:31: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/08/2020 - 20:18:50: -------- Mapchange to jb_obama_v5_beta --------
+L 04/08/2020 - 20:18:53: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/08/2020 - 20:18:53: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/08/2020 - 20:19:52: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 20:19:56: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 20:20:08: [hextags.smx] MilkA<4><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 20:20:31: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 20:20:31: [basecommands.smx] "MilkA<4><STEAM_1:0:242076907><>" changed map to "jb_summer_jail_v3"
+L 04/08/2020 - 20:20:34: [SM] Changed map to "jb_summer_jail_v3"
+L 04/08/2020 - 20:20:36: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/08/2020 - 20:20:40: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/08/2020 - 20:20:40: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/08/2020 - 20:21:14: [hextags.smx] Peace0ut48<5><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 20:21:31: [basecommands.smx] "MilkA<4><STEAM_1:0:242076907><>" changed map to "jb_mcrunner_v1"
+L 04/08/2020 - 20:21:32: [sm_hosties.smx] "Androméďa<2><STEAM_1:0:93774482><>" respawned "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/08/2020 - 20:21:34: [SM] Changed map to "jb_mcrunner_v1"
+L 04/08/2020 - 20:21:35: -------- Mapchange to jb_mcrunner_v1 --------
+L 04/08/2020 - 20:21:38: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/08/2020 - 20:21:38: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/08/2020 - 20:21:49: [hextags.smx] MilkA<4><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 20:21:59: [hextags.smx] Smoweday<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 20:22:15: [basecommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" changed map to "jb_clouds_final5"
+L 04/08/2020 - 20:22:18: [SM] Changed map to "jb_clouds_final5"
+L 04/08/2020 - 20:22:21: -------- Mapchange to jb_clouds_final5 --------
+L 04/08/2020 - 20:22:25: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/08/2020 - 20:22:25: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/08/2020 - 20:22:51: [hextags.smx] Peace0ut48<5><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 20:23:58: [sm_hosties.smx] "Androméďa<2><STEAM_1:0:93774482><>" respawned "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/08/2020 - 20:25:05: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200408.log") (Version "1.10.0.6478")
+L 04/08/2020 - 20:25:05: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/08/2020 - 20:26:42: -------- Mapchange to jb_obama_v5_beta --------
+L 04/08/2020 - 20:26:45: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/08/2020 - 20:26:45: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/08/2020 - 20:33:13: Log file closed.
+L 04/08/2020 - 20:33:29: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200408.log") (Version "1.10.0.6478")
+L 04/08/2020 - 20:33:29: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/08/2020 - 20:33:40: Log file closed.
+L 04/08/2020 - 20:33:57: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200408.log") (Version "1.10.0.6478")
+L 04/08/2020 - 20:33:57: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/08/2020 - 20:34:14: Log file closed.
+L 04/08/2020 - 20:34:31: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200408.log") (Version "1.10.0.6478")
+L 04/08/2020 - 20:34:31: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/08/2020 - 20:34:44: -------- Mapchange to jb_obama_v5_beta --------
+L 04/08/2020 - 20:34:47: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/08/2020 - 20:34:47: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/08/2020 - 20:36:25: [sm_hosties.smx] "Smoweday<4><STEAM_1:0:505070462><>" respawned "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/08/2020 - 20:36:25: [sm_hosties.smx] "Smoweday<4><STEAM_1:0:505070462><>" respawned "MilkA<5><STEAM_1:0:242076907><>"
+L 04/08/2020 - 20:37:22: [hextags.smx] Peace0ut48<2><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 20:37:30: [funcommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/08/2020 - 20:37:31: [funcommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/08/2020 - 20:37:31: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 20:37:34: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 20:38:17: [hextags.smx] Peace0ut48<2><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 20:40:43: [hextags.smx] Peace0ut48<2><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 20:40:58: [hextags.smx] Peace0ut48<2><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 20:43:05: [sm_hosties.smx] "Smoweday<8><STEAM_1:0:505070462><>" respawned "Smoweday<8><STEAM_1:0:505070462><>"
+L 04/08/2020 - 20:43:38: [hextags.smx] MilkA<9><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 20:43:39: [sm_hosties.smx] "Smoweday<8><STEAM_1:0:505070462><>" respawned "Smoweday<8><STEAM_1:0:505070462><>"
+L 04/08/2020 - 20:45:13: [hextags.smx] Peace0ut48<2><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 20:47:27: [sm_hosties.smx] "Androméďa<12><STEAM_1:0:93774482><>" respawned "Androméďa<12><STEAM_1:0:93774482><>"
+L 04/08/2020 - 20:47:50: [sm_hosties.smx] "MilkA<9><STEAM_1:0:242076907><>" respawned "MilkA<9><STEAM_1:0:242076907><>"
+L 04/08/2020 - 20:48:53: [hextags.smx] Peace0ut48<2><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 20:51:35: [playercommands.smx] "Smoweday<15><STEAM_1:0:505070462><>" slayed "Androméďa<12><STEAM_1:0:93774482><>"
+L 04/08/2020 - 20:51:41: [sm_hosties.smx] "Androméďa<12><STEAM_1:0:93774482><>" respawned "Androméďa<12><STEAM_1:0:93774482><>"
+L 04/08/2020 - 20:51:49: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 20:51:53: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 20:51:55: [sm_hosties.smx] "Smoweday<15><STEAM_1:0:505070462><>" respawned "Smoweday<15><STEAM_1:0:505070462><>"
+L 04/08/2020 - 20:52:11: [sm_hosties.smx] "Androméďa<12><STEAM_1:0:93774482><>" respawned "Androméďa<12><STEAM_1:0:93774482><>"
+L 04/08/2020 - 20:52:20: [sm_hosties.smx] "Smoweday<15><STEAM_1:0:505070462><>" respawned "Smoweday<15><STEAM_1:0:505070462><>"
+L 04/08/2020 - 20:52:21: [sm_hosties.smx] "Smoweday<15><STEAM_1:0:505070462><>" respawned "Error404<16><STEAM_1:0:190047340><>"
+L 04/08/2020 - 20:52:31: [playercommands.smx] "Smoweday<15><STEAM_1:0:505070462><>" slayed "MilkA<9><STEAM_1:0:242076907><>"
+L 04/08/2020 - 20:52:36: [sm_hosties.smx] "MilkA<9><STEAM_1:0:242076907><>" respawned "Androméďa<12><STEAM_1:0:93774482><>"
+L 04/08/2020 - 20:52:37: [sm_hosties.smx] "MilkA<9><STEAM_1:0:242076907><>" respawned "MilkA<9><STEAM_1:0:242076907><>"
+L 04/08/2020 - 20:52:44: [playercommands.smx] "Smoweday<15><STEAM_1:0:505070462><>" slayed "Error404<16><STEAM_1:0:190047340><>"
+L 04/08/2020 - 20:53:06: [sm_hosties.smx] "Smoweday<15><STEAM_1:0:505070462><>" respawned "Error404<16><STEAM_1:0:190047340><>"
+L 04/08/2020 - 20:54:23: [sm_hosties.smx] "MilkA<9><STEAM_1:0:242076907><>" respawned "Androméďa<12><STEAM_1:0:93774482><>"
+L 04/08/2020 - 20:54:24: [sm_hosties.smx] "MilkA<9><STEAM_1:0:242076907><>" respawned "Error404<16><STEAM_1:0:190047340><>"
+L 04/08/2020 - 20:54:39: [sm_hosties.smx] "Smoweday<17><STEAM_1:0:505070462><>" respawned "Androméďa<12><STEAM_1:0:93774482><>"
+L 04/08/2020 - 20:54:40: [sm_hosties.smx] "Smoweday<17><STEAM_1:0:505070462><>" respawned "Smoweday<17><STEAM_1:0:505070462><>"
+L 04/08/2020 - 20:54:43: [playercommands.smx] "Smoweday<17><STEAM_1:0:505070462><>" slayed "Androméďa<12><STEAM_1:0:93774482><>"
+L 04/08/2020 - 20:55:20: [playercommands.smx] "Smoweday<17><STEAM_1:0:505070462><>" slayed "Androméďa<12><STEAM_1:0:93774482><>"
+L 04/08/2020 - 20:55:34: [sm_hosties.smx] "Smoweday<17><STEAM_1:0:505070462><>" respawned "Error404<16><STEAM_1:0:190047340><>"
+L 04/08/2020 - 20:56:50: [sm_hosties.smx] "Smoweday<17><STEAM_1:0:505070462><>" respawned "Androméďa<12><STEAM_1:0:93774482><>"
+L 04/08/2020 - 20:56:50: [sm_hosties.smx] "Smoweday<17><STEAM_1:0:505070462><>" respawned "Androméďa<12><STEAM_1:0:93774482><>"
+L 04/08/2020 - 20:56:51: [sm_hosties.smx] "Smoweday<17><STEAM_1:0:505070462><>" respawned "Error404<16><STEAM_1:0:190047340><>"
+L 04/08/2020 - 20:57:16: [sm_hosties.smx] "Smoweday<17><STEAM_1:0:505070462><>" respawned "Androméďa<12><STEAM_1:0:93774482><>"
+L 04/08/2020 - 20:57:17: [sm_hosties.smx] "Smoweday<17><STEAM_1:0:505070462><>" respawned "Androméďa<12><STEAM_1:0:93774482><>"
+L 04/08/2020 - 20:57:17: [sm_hosties.smx] "Smoweday<17><STEAM_1:0:505070462><>" respawned "Smoweday<17><STEAM_1:0:505070462><>"
+L 04/08/2020 - 20:58:08: [hextags.smx] MilkA<9><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 20:59:03: [hextags.smx] MilkA<9><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 20:59:08: [hextags.smx] MilkA<9><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 21:00:18: [hextags.smx] MilkA<9><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 21:00:33: [hextags.smx] MilkA<9><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 21:01:36: [sm_hosties.smx] "Smoweday<17><STEAM_1:0:505070462><>" respawned "Androméďa<12><STEAM_1:0:93774482><>"
+L 04/08/2020 - 21:01:37: [sm_hosties.smx] "Smoweday<17><STEAM_1:0:505070462><>" respawned "Smoweday<17><STEAM_1:0:505070462><>"
+L 04/08/2020 - 21:01:58: Log file closed.
+L 04/08/2020 - 21:02:13: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200408.log") (Version "1.10.0.6478")
+L 04/08/2020 - 21:02:13: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/08/2020 - 21:02:22: -------- Mapchange to jb_obama_v5_beta --------
+L 04/08/2020 - 21:02:25: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/08/2020 - 21:02:25: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/08/2020 - 21:03:23: [sm_hosties.smx] "MilkA<3><STEAM_1:0:242076907><>" respawned "ten co hraje 24/7<6><STEAM_1:0:538526570><>"
+L 04/08/2020 - 21:03:53: [sm_hosties.smx] "Androméďa<4><STEAM_1:0:93774482><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 21:03:53: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/08/2020 - 21:04:23: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/08/2020 - 21:04:23: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "ten co hraje 24/7<6><STEAM_1:0:538526570><>"
+L 04/08/2020 - 21:04:24: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Error404<5><STEAM_1:0:190047340><>"
+L 04/08/2020 - 21:05:08: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/08/2020 - 21:05:26: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/08/2020 - 21:05:27: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Error404<5><STEAM_1:0:190047340><>"
+L 04/08/2020 - 21:05:27: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "ten co hraje 24/7<6><STEAM_1:0:538526570><>"
+L 04/08/2020 - 21:05:32: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/08/2020 - 21:05:38: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "ten co hraje 24/7<6><STEAM_1:0:538526570><>"
+L 04/08/2020 - 21:05:43: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/08/2020 - 21:07:11: [funcommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" drugged "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/08/2020 - 21:07:12: [funcommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" drugged "MilkA<3><STEAM_1:0:242076907><>"
+L 04/08/2020 - 21:07:12: [funcommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" drugged "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 21:07:12: [funcommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" drugged "Error404<5><STEAM_1:0:190047340><>"
+L 04/08/2020 - 21:07:12: [funcommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" drugged "ten co hraje 24/7<6><STEAM_1:0:538526570><>"
+L 04/08/2020 - 21:07:36: [funcommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" undrugged "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/08/2020 - 21:07:36: [funcommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" undrugged "Error404<5><STEAM_1:0:190047340><>"
+L 04/08/2020 - 21:07:39: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slayed "Error404<5><STEAM_1:0:190047340><>"
+L 04/08/2020 - 21:07:45: [sm_hosties.smx] "Androméďa<4><STEAM_1:0:93774482><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 21:07:49: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/08/2020 - 21:07:54: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slayed "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 21:08:00: [sm_hosties.smx] "Androméďa<4><STEAM_1:0:93774482><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 21:08:11: [funcommands.smx] "MilkA<3><STEAM_1:0:242076907><>" set a TimeBomb on "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/08/2020 - 21:08:11: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slayed "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/08/2020 - 21:08:11: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slayed "MilkA<3><STEAM_1:0:242076907><>"
+L 04/08/2020 - 21:08:11: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slayed "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 21:08:34: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slapped "Androméďa<4><STEAM_1:0:93774482><>" (damage "0")
+L 04/08/2020 - 21:08:35: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slapped "Error404<5><STEAM_1:0:190047340><>" (damage "0")
+L 04/08/2020 - 21:08:35: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slapped "Error404<5><STEAM_1:0:190047340><>" (damage "0")
+L 04/08/2020 - 21:08:35: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slapped "Error404<5><STEAM_1:0:190047340><>" (damage "0")
+L 04/08/2020 - 21:08:35: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slapped "Error404<5><STEAM_1:0:190047340><>" (damage "0")
+L 04/08/2020 - 21:08:35: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slapped "Error404<5><STEAM_1:0:190047340><>" (damage "0")
+L 04/08/2020 - 21:08:37: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slapped "Error404<5><STEAM_1:0:190047340><>" (damage "0")
+L 04/08/2020 - 21:08:37: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slapped "Error404<5><STEAM_1:0:190047340><>" (damage "0")
+L 04/08/2020 - 21:08:37: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slapped "Error404<5><STEAM_1:0:190047340><>" (damage "0")
+L 04/08/2020 - 21:08:38: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slapped "Error404<5><STEAM_1:0:190047340><>" (damage "0")
+L 04/08/2020 - 21:08:38: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slapped "Error404<5><STEAM_1:0:190047340><>" (damage "0")
+L 04/08/2020 - 21:08:38: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slapped "Error404<5><STEAM_1:0:190047340><>" (damage "0")
+L 04/08/2020 - 21:08:39: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slapped "Error404<5><STEAM_1:0:190047340><>" (damage "0")
+L 04/08/2020 - 21:08:39: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slapped "Error404<5><STEAM_1:0:190047340><>" (damage "0")
+L 04/08/2020 - 21:08:39: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slapped "Error404<5><STEAM_1:0:190047340><>" (damage "0")
+L 04/08/2020 - 21:08:41: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 21:08:44: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 21:08:44: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 21:08:45: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Error404<5><STEAM_1:0:190047340><>"
+L 04/08/2020 - 21:08:49: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 21:08:52: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/08/2020 - 21:08:55: [admin_stealth.smx] Smoweday has toggled stealth mode.
+L 04/08/2020 - 21:09:16: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200408.log") (Version "1.10.0.6478")
+L 04/08/2020 - 21:09:16: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/08/2020 - 21:09:39: -------- Mapchange to jb_obama_v5_beta --------
+L 04/08/2020 - 21:09:42: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/08/2020 - 21:09:42: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/08/2020 - 21:10:47: [sm_hosties.smx] "Androméďa<4><STEAM_1:0:93774482><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 21:11:02: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 21:11:35: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 21:11:36: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "Smoweday<5><STEAM_1:0:505070462><>"
+L 04/08/2020 - 21:12:52: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 21:13:37: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 21:13:47: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 21:14:32: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 21:15:19: [sm_hosties.smx] "Androméďa<4><STEAM_1:0:93774482><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 21:20:28: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 21:22:33: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 21:22:45: [playercommands.smx] "MilkA<6><STEAM_1:0:242076907><>" slayed "s1mple*_*<9><STEAM_1:1:542176979><>"
+L 04/08/2020 - 21:24:12: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "MilkA<6><STEAM_1:0:242076907><>"
+L 04/08/2020 - 21:24:30: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "s1mple*_*<9><STEAM_1:1:542176979><>"
+L 04/08/2020 - 21:26:11: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "Error404<3><STEAM_1:0:190047340><>"
+L 04/08/2020 - 21:26:29: [movecommands.smx] "s1mple*_*<9><STEAM_1:1:542176979><>" was moved to CT by "Smoweday<5><STEAM_1:0:505070462><>"
+L 04/08/2020 - 21:26:30: [playercommands.smx] "Smoweday<5><STEAM_1:0:505070462><>" slayed "ten co hraje 24/7<2><STEAM_1:0:538526570><>"
+L 04/08/2020 - 21:26:31: [playercommands.smx] "Smoweday<5><STEAM_1:0:505070462><>" slayed "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 21:26:31: [playercommands.smx] "Smoweday<5><STEAM_1:0:505070462><>" slayed "Smoweday<5><STEAM_1:0:505070462><>"
+L 04/08/2020 - 21:26:31: [playercommands.smx] "Smoweday<5><STEAM_1:0:505070462><>" slayed "MilkA<6><STEAM_1:0:242076907><>"
+L 04/08/2020 - 21:26:31: [playercommands.smx] "Smoweday<5><STEAM_1:0:505070462><>" slayed "s1mple*_*<9><STEAM_1:1:542176979><>"
+L 04/08/2020 - 21:26:43: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 21:28:58: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 21:29:38: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 21:33:53: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 21:41:13: [playercommands.smx] "Smoweday<5><STEAM_1:0:505070462><>" slayed "s1mple*_*<9><STEAM_1:1:542176979><>"
+L 04/08/2020 - 21:41:18: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 21:43:43: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 21:45:12: [funcommands.smx] "Smoweday<5><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<5><STEAM_1:0:505070462><>"
+L 04/08/2020 - 21:45:21: [funcommands.smx] "Smoweday<5><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<5><STEAM_1:0:505070462><>"
+L 04/08/2020 - 21:54:13: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 21:57:38: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 21:57:47: [playercommands.smx] "Smoweday<5><STEAM_1:0:505070462><>" slayed "Tendy<10><STEAM_1:1:195825768><>"
+L 04/08/2020 - 22:05:06: [basecommands.smx] "Smoweday<5><STEAM_1:0:505070462><>" changed map to "jb_spy_vs_spy_beta7"
+L 04/08/2020 - 22:05:09: [SM] Changed map to "jb_spy_vs_spy_beta7"
+L 04/08/2020 - 22:05:10: -------- Mapchange to jb_spy_vs_spy_beta7 --------
+L 04/08/2020 - 22:05:13: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/08/2020 - 22:05:13: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/08/2020 - 22:05:42: [hextags.smx] MilkA<6><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:05:52: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:05:57: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:12:22: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:14:37: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:16:06: [playercommands.smx] "Smoweday<5><STEAM_1:0:505070462><>" slayed "Oliver_G27<12><STEAM_1:0:526494826><>"
+L 04/08/2020 - 22:16:23: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "Oliver_G27<12><STEAM_1:0:526494826><>"
+L 04/08/2020 - 22:16:27: [playercommands.smx] "Smoweday<5><STEAM_1:0:505070462><>" slayed "Oliver_G27<12><STEAM_1:0:526494826><>"
+L 04/08/2020 - 22:16:31: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "Oliver_G27<12><STEAM_1:0:526494826><>"
+L 04/08/2020 - 22:16:37: [playercommands.smx] "Smoweday<5><STEAM_1:0:505070462><>" slayed "Oliver_G27<12><STEAM_1:0:526494826><>"
+L 04/08/2020 - 22:16:43: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "Oliver_G27<12><STEAM_1:0:526494826><>"
+L 04/08/2020 - 22:18:00: [movecommands.smx] "s1mple*_*<9><STEAM_1:1:542176979><>" was moved to CT by "Smoweday<5><STEAM_1:0:505070462><>" on Player Death
+L 04/08/2020 - 22:21:15: [playercommands.smx] "Smoweday<5><STEAM_1:0:505070462><>" slayed "Oliver_G27<15><STEAM_1:0:526494826><>"
+L 04/08/2020 - 22:21:17: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "Oliver_G27<15><STEAM_1:0:526494826><>"
+L 04/08/2020 - 22:22:54: [playercommands.smx] "Smoweday<5><STEAM_1:0:505070462><>" slayed "s1mple*_*<9><STEAM_1:1:542176979><>"
+L 04/08/2020 - 22:22:58: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "s1mple*_*<9><STEAM_1:1:542176979><>"
+L 04/08/2020 - 22:24:15: [movecommands.smx] "ten co hraje 24/7<2><STEAM_1:0:538526570><>" was moved to T by "Smoweday<5><STEAM_1:0:505070462><>" on Round End
+L 04/08/2020 - 22:24:16: [movecommands.smx] "s1mple*_*<9><STEAM_1:1:542176979><>" was moved to CT by "Smoweday<5><STEAM_1:0:505070462><>" on Round End
+L 04/08/2020 - 22:26:08: [movecommands.smx] "Smoweday<5><STEAM_1:0:505070462><>" was moved to CT by "Smoweday<5><STEAM_1:0:505070462><>" on Round End
+L 04/08/2020 - 22:26:09: [movecommands.smx] "s1mple*_*<9><STEAM_1:1:542176979><>" was moved to T by "Smoweday<5><STEAM_1:0:505070462><>" on Round End
+L 04/08/2020 - 22:28:12: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:28:47: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:28:52: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:30:52: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:30:57: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:32:47: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:32:57: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:33:37: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:35:37: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:38:12: [movecommands.smx] "Peace0ut48<17><STEAM_1:1:527843285><>" was moved to CT by "Peace0ut48<17><STEAM_1:1:527843285><>"
+L 04/08/2020 - 22:39:42: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:40:34: [playercommands.smx] "Smoweday<5><STEAM_1:0:505070462><>" slayed "Peace0ut48<17><STEAM_1:1:527843285><>"
+L 04/08/2020 - 22:40:37: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "Peace0ut48<17><STEAM_1:1:527843285><>"
+L 04/08/2020 - 22:40:42: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:41:47: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:42:47: [hextags.smx] Androméďa<4><STEAM_1:0:93774482><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:44:42: [hextags.smx] Androméďa<4><STEAM_1:0:93774482><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:46:57: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:48:32: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:48:37: [movecommands.smx] "ten co hraje 24/7<2><STEAM_1:0:538526570><>" was moved to T by "Peace0ut48<17><STEAM_1:1:527843285><>"
+L 04/08/2020 - 22:48:43: [movecommands.smx] "Peace0ut48<17><STEAM_1:1:527843285><>" was moved to CT by "Peace0ut48<17><STEAM_1:1:527843285><>"
+L 04/08/2020 - 22:49:58: [SM] Changed map to "jb_spy_vs_spy_beta7"
+L 04/08/2020 - 22:49:59: -------- Mapchange to jb_spy_vs_spy_beta7 --------
+L 04/08/2020 - 22:50:03: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/08/2020 - 22:50:03: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/08/2020 - 22:50:26: [basecommands.smx] "Peace0ut48<17><STEAM_1:1:527843285><>" changed map to "jb_hostile2_default"
+L 04/08/2020 - 22:50:29: [basecommands.smx] "MilkA<6><STEAM_1:0:242076907><>" changed map to "jb_marioworld_rsc"
+L 04/08/2020 - 22:50:29: [SM] Changed map to "jb_hostile2_default"
+L 04/08/2020 - 22:50:30: -------- Mapchange to jb_hostile2_default --------
+L 04/08/2020 - 22:50:33: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/08/2020 - 22:50:33: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/08/2020 - 22:50:36: [SM] Changed map to "jb_marioworld_rsc"
+L 04/08/2020 - 22:50:38: -------- Mapchange to jb_marioworld_rsc --------
+L 04/08/2020 - 22:50:41: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/08/2020 - 22:50:41: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/08/2020 - 22:51:03: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:51:25: [sm_hosties.smx] "MilkA<6><STEAM_1:0:242076907><>" respawned "Axxxeroth<18><STEAM_1:0:506730101><>"
+L 04/08/2020 - 22:51:26: [sm_hosties.smx] "MilkA<6><STEAM_1:0:242076907><>" respawned "ADMIN200142<21><STEAM_1:1:531145064><>"
+L 04/08/2020 - 22:51:26: [sm_hosties.smx] "MilkA<6><STEAM_1:0:242076907><>" respawned "Tobi/CZ<22><STEAM_1:1:36469425><>"
+L 04/08/2020 - 22:51:53: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/08/2020 - 22:51:53: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "ZMNC<19><STEAM_1:1:38301887><>"
+L 04/08/2020 - 22:52:13: [hextags.smx] Peace0ut48<17><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:52:40: [sm_hosties.smx] "Peace0ut48<17><STEAM_1:1:527843285><>" respawned "Peace0ut48<17><STEAM_1:1:527843285><>"
+L 04/08/2020 - 22:52:49: [playercommands.smx] "MilkA<6><STEAM_1:0:242076907><>" slayed "MilkA<6><STEAM_1:0:242076907><>"
+L 04/08/2020 - 22:52:49: [playercommands.smx] "MilkA<6><STEAM_1:0:242076907><>" slayed "Peace0ut48<17><STEAM_1:1:527843285><>"
+L 04/08/2020 - 22:52:49: [playercommands.smx] "MilkA<6><STEAM_1:0:242076907><>" slayed "ADMIN200142<21><STEAM_1:1:531145064><>"
+L 04/08/2020 - 22:54:17: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "ten co hraje 24/7<2><STEAM_1:0:538526570><>"
+L 04/08/2020 - 22:54:17: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "Oliver_G27<15><STEAM_1:0:526494826><>"
+L 04/08/2020 - 22:54:17: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "Smoweday<5><STEAM_1:0:505070462><>"
+L 04/08/2020 - 22:54:17: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "ZMNC<19><STEAM_1:1:38301887><>"
+L 04/08/2020 - 22:54:36: [sm_hosties.smx] "MilkA<6><STEAM_1:0:242076907><>" respawned "HOROWIENKA Key-Drop.pl<24><STEAM_1:1:527566152><>"
+L 04/08/2020 - 22:54:43: [hextags.smx] MilkA<6><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:54:48: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "Tobi/CZ<22><STEAM_1:1:36469425><>"
+L 04/08/2020 - 22:55:08: [playercommands.smx] "MilkA<6><STEAM_1:0:242076907><>" slayed "ten co hraje 24/7<2><STEAM_1:0:538526570><>"
+L 04/08/2020 - 22:55:11: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "ten co hraje 24/7<2><STEAM_1:0:538526570><>"
+L 04/08/2020 - 22:55:27: [playercommands.smx] "Smoweday<5><STEAM_1:0:505070462><>" slayed "ten co hraje 24/7<2><STEAM_1:0:538526570><>"
+L 04/08/2020 - 22:56:23: [hextags.smx] MilkA<6><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:56:49: [hextags.smx] Peace0ut48<17><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 22:59:26: [movecommands.smx] "Smoweday<5><STEAM_1:0:505070462><>" was moved to CT by "Smoweday<5><STEAM_1:0:505070462><>"
+L 04/08/2020 - 22:59:30: [movecommands.smx] "ADMIN200142<21><STEAM_1:1:531145064><>" was moved to T by "Smoweday<5><STEAM_1:0:505070462><>"
+L 04/08/2020 - 23:03:09: [hextags.smx] Peace0ut48<17><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:05:19: [hextags.smx] MilkA<6><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:08:19: [hextags.smx] MilkA<6><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:08:29: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:14:29: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:14:29: [hextags.smx] MilkA<6><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:17:24: [hextags.smx] MilkA<6><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:18:19: [hextags.smx] Peace0ut48<17><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:19:04: [hextags.smx] Peace0ut48<17><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:19:54: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:22:54: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:23:55: [hextags.smx] Peace0ut48<17><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:24:50: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:24:50: [hextags.smx] Peace0ut48<17><STEAM_1:1:527843285><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:25:15: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:25:25: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/08/2020 - 23:25:25: [hextags.smx] MilkA<6><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:25:30: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/08/2020 - 23:26:00: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:26:00: [hextags.smx] MilkA<6><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:26:10: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:26:34: [playercommands.smx] "Peace0ut48<17><STEAM_1:1:527843285><>" slayed "Peace0ut48<17><STEAM_1:1:527843285><>"
+L 04/08/2020 - 23:26:36: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/08/2020 - 23:27:06: [sm_hosties.smx] "Peace0ut48<17><STEAM_1:1:527843285><>" respawned "Peace0ut48<17><STEAM_1:1:527843285><>"
+L 04/08/2020 - 23:27:21: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/08/2020 - 23:27:25: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/08/2020 - 23:28:12: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/08/2020 - 23:28:28: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/08/2020 - 23:28:30: [hextags.smx] MilkA<6><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:28:35: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/08/2020 - 23:30:30: [hextags.smx] MilkA<6><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:31:06: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:33:21: [hextags.smx] Smoweday<5><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:33:46: [hextags.smx] MilkA<6><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:35:01: [hextags.smx] MilkA<6><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/08/2020 - 23:35:10: [basecommands.smx] "Smoweday<5><STEAM_1:0:505070462><>" changed map to "ba_2016_minecraft_beta5"
+L 04/08/2020 - 23:35:13: [SM] Changed map to "ba_2016_minecraft_beta5"
+L 04/08/2020 - 23:35:14: -------- Mapchange to ba_2016_minecraft_beta5 --------
+L 04/08/2020 - 23:44:58: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200408.log") (Version "1.10.0.6478")
+L 04/08/2020 - 23:44:58: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/08/2020 - 23:45:09: -------- Mapchange to jb_obama_v5_beta --------
+L 04/08/2020 - 23:45:12: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/08/2020 - 23:45:12: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/08/2020 - 23:52:42: Log file closed.
+L 04/08/2020 - 23:52:58: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200408.log") (Version "1.10.0.6478")
+L 04/08/2020 - 23:52:58: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/08/2020 - 23:53:14: [UPDATER] Successfully updated gamedata file "sdktools.games/game.nucleardawn.txt"
+L 04/08/2020 - 23:53:14: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 04/08/2020 - 23:53:15: -------- Mapchange to jb_obama_v5_beta --------
+L 04/08/2020 - 23:53:18: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/08/2020 - 23:53:18: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 00:20:36: Log file closed.

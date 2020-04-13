@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/custom_player/kodua/negan/beard_2"
+	"$translucent" "1"
+}

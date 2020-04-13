@@ -1,0 +1,1978 @@
+L 04/11/2020 - 00:19:10: SourceMod error session started
+L 04/11/2020 - 00:19:10: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 00:19:10: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 00:19:10: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 00:19:10: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 00:19:10: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 00:19:10: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 00:19:10: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 00:19:10: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 00:19:10: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 00:19:10: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 00:19:10: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 00:19:10: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 00:19:10: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 00:19:10: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 00:19:10: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 00:19:13: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 00:19:13: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 00:19:13: [SM] Call stack trace:
+L 04/11/2020 - 00:19:13: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 00:19:13: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 00:19:13: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 00:19:13: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 00:20:56: Error log file session closed.
+L 04/11/2020 - 00:20:56: SourceMod error session started
+L 04/11/2020 - 00:20:56: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 00:20:56: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 00:20:56: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 00:20:56: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 00:20:56: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 00:20:56: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 00:20:56: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 00:20:56: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 00:20:56: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 00:20:56: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 00:20:56: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 00:20:56: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 00:20:59: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 00:20:59: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 00:20:59: [SM] Call stack trace:
+L 04/11/2020 - 00:20:59: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 00:20:59: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 00:20:59: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 00:20:59: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 00:29:57: Error log file session closed.
+L 04/11/2020 - 00:31:30: SourceMod error session started
+L 04/11/2020 - 00:31:30: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 00:31:30: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 00:31:30: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 00:31:30: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 00:31:30: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 00:31:30: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 00:31:30: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 00:31:30: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 00:31:30: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 00:31:30: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 00:31:30: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 00:31:30: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 00:31:30: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 00:31:30: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 00:31:30: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 00:31:33: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 00:31:33: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 00:31:33: [SM] Call stack trace:
+L 04/11/2020 - 00:31:33: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 00:31:33: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 00:31:33: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 00:31:33: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 00:32:04: Error log file session closed.
+L 04/11/2020 - 00:32:04: SourceMod error session started
+L 04/11/2020 - 00:32:04: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 00:32:04: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 00:32:04: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 00:32:04: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 00:32:04: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 00:32:04: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 00:32:04: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 00:32:04: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 00:32:04: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 00:32:04: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 00:32:04: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 00:32:04: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 00:32:07: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 00:32:07: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 00:32:07: [SM] Call stack trace:
+L 04/11/2020 - 00:32:07: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 00:32:07: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 00:32:07: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 00:32:07: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 00:38:39: Error log file session closed.
+L 04/11/2020 - 00:39:29: SourceMod error session started
+L 04/11/2020 - 00:39:29: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 00:39:29: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 00:39:29: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 00:39:29: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 00:39:29: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 00:39:29: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 00:39:29: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 00:39:29: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 00:39:29: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 00:39:29: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 00:39:29: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 00:39:29: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 00:39:29: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 00:39:29: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 00:39:29: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 00:39:32: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 00:39:32: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 00:39:32: [SM] Call stack trace:
+L 04/11/2020 - 00:39:32: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 00:39:32: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 00:39:32: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 00:39:32: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 00:42:06: Error log file session closed.
+L 04/11/2020 - 00:42:22: SourceMod error session started
+L 04/11/2020 - 00:42:22: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 00:42:22: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 00:42:22: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 00:42:22: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 00:42:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 00:42:22: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 00:42:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 00:42:22: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 00:42:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 00:42:22: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 00:42:22: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 00:42:22: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 00:42:22: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 00:42:22: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 00:42:22: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 00:42:25: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 00:42:25: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 00:42:25: [SM] Call stack trace:
+L 04/11/2020 - 00:42:25: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 00:42:25: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 00:42:25: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 00:42:25: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 00:42:33: Error log file session closed.
+L 04/11/2020 - 01:03:08: SourceMod error session started
+L 04/11/2020 - 01:03:08: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 01:03:08: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 01:03:08: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 01:03:08: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 01:03:08: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 01:03:08: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 01:03:08: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 01:03:08: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 01:03:08: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 01:03:08: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 01:03:08: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 01:03:08: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 01:03:08: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 01:03:08: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 01:03:08: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 01:03:14: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 01:03:14: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 01:03:14: [SM] Call stack trace:
+L 04/11/2020 - 01:03:14: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 01:03:14: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 01:03:14: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 01:03:14: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 01:04:48: Error log file session closed.
+L 04/11/2020 - 01:04:48: SourceMod error session started
+L 04/11/2020 - 01:04:48: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 01:04:48: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 01:04:48: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 01:04:48: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 01:04:48: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 01:04:48: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 01:04:48: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 01:04:48: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 01:04:48: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 01:04:48: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 01:04:48: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 01:04:48: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 01:04:51: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 01:04:51: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 01:04:51: [SM] Call stack trace:
+L 04/11/2020 - 01:04:51: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 01:04:51: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 01:04:51: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 01:04:51: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 01:05:25: Error log file session closed.
+L 04/11/2020 - 01:05:40: SourceMod error session started
+L 04/11/2020 - 01:05:40: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 01:05:40: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 01:05:40: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 01:05:40: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 01:05:40: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 01:05:40: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 01:05:40: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 01:05:40: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 01:05:40: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 01:05:40: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 01:05:40: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 01:05:40: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 01:05:40: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 01:05:40: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 01:05:40: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 01:05:43: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 01:05:43: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 01:05:43: [SM] Call stack trace:
+L 04/11/2020 - 01:05:43: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 01:05:43: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 01:05:43: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 01:05:43: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 01:05:55: Error log file session closed.
+L 04/11/2020 - 01:28:37: SourceMod error session started
+L 04/11/2020 - 01:28:37: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 01:28:37: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 01:28:37: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 01:28:37: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 01:28:37: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 01:28:37: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 01:28:37: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 01:28:37: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 01:28:37: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 01:28:37: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 01:28:37: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 01:28:37: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 01:28:37: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 01:28:37: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 01:28:37: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 01:28:43: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 01:28:43: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 01:28:43: [SM] Call stack trace:
+L 04/11/2020 - 01:28:43: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 01:28:43: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 01:28:43: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 01:28:43: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 01:29:12: Error log file session closed.
+L 04/11/2020 - 01:29:28: SourceMod error session started
+L 04/11/2020 - 01:29:28: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 01:29:28: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 01:29:28: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 01:29:28: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 01:29:28: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 01:29:28: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 01:29:28: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 01:29:28: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 01:29:28: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 01:29:28: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 01:29:28: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 01:29:28: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 01:29:28: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 01:29:28: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 01:29:28: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 01:29:31: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 01:29:31: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 01:29:31: [SM] Call stack trace:
+L 04/11/2020 - 01:29:31: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 01:29:31: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 01:29:31: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 01:29:31: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 01:30:51: Error log file session closed.
+L 04/11/2020 - 13:41:22: SourceMod error session started
+L 04/11/2020 - 13:41:22: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 13:41:22: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 13:41:22: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 13:41:22: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 13:41:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 13:41:22: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 13:41:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 13:41:22: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 13:41:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 13:41:22: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 13:41:22: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 13:41:22: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 13:41:22: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 13:41:22: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 13:41:22: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 13:41:26: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 13:41:26: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 13:41:26: [SM] Call stack trace:
+L 04/11/2020 - 13:41:26: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 13:41:26: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 13:41:26: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 13:41:26: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 13:42:16: Error log file session closed.
+L 04/11/2020 - 14:04:35: SourceMod error session started
+L 04/11/2020 - 14:04:35: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 14:04:35: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 14:04:36: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 14:04:36: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 14:04:36: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 14:04:36: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 14:04:36: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 14:04:36: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 14:04:36: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 14:04:36: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 14:04:36: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 14:04:36: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 14:04:36: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 14:04:36: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 14:04:36: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 14:04:40: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 14:04:40: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 14:04:40: [SM] Call stack trace:
+L 04/11/2020 - 14:04:40: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 14:04:40: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 14:04:40: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 14:04:40: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 14:05:51: Error log file session closed.
+L 04/11/2020 - 14:05:51: SourceMod error session started
+L 04/11/2020 - 14:05:51: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 14:05:51: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 14:05:51: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 14:05:51: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 14:05:51: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 14:05:51: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 14:05:51: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 14:05:51: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 14:05:51: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 14:05:51: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 14:05:51: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 14:05:51: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 14:05:53: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 14:05:53: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 14:05:53: [SM] Call stack trace:
+L 04/11/2020 - 14:05:53: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 14:05:53: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 14:05:53: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 14:05:53: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 14:30:54: Error log file session closed.
+L 04/11/2020 - 14:32:08: SourceMod error session started
+L 04/11/2020 - 14:32:08: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 14:32:08: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 14:32:08: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 14:32:08: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 14:32:08: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 14:32:08: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 14:32:08: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 14:32:08: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 14:32:08: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 14:32:08: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 14:32:08: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 14:32:08: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 14:32:08: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 14:32:08: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 14:32:08: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 14:32:11: [SM] Exception reported: File Not Found: addons/sourcemod/configs/advertisements.txt
+L 04/11/2020 - 14:32:11: [SM] Blaming: advertisements.smx
+L 04/11/2020 - 14:32:11: [SM] Call stack trace:
+L 04/11/2020 - 14:32:11: [SM]   [0] SetFailState
+L 04/11/2020 - 14:32:11: [SM]   [1] Line 248, advertisements.sp::ParseAds
+L 04/11/2020 - 14:32:11: [SM]   [2] Line 57, advertisements.sp::OnMapStart
+L 04/11/2020 - 14:32:11: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 14:32:11: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 14:32:11: [SM] Call stack trace:
+L 04/11/2020 - 14:32:11: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 14:32:11: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 14:32:11: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 14:32:11: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 14:34:19: Error log file session closed.
+L 04/11/2020 - 14:35:07: SourceMod error session started
+L 04/11/2020 - 14:35:07: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 14:35:07: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 14:35:07: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 14:35:07: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 14:35:07: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 14:35:07: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 14:35:07: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 14:35:07: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 14:35:07: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 14:35:07: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 14:35:07: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 14:35:07: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 14:35:07: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 14:35:07: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 14:35:07: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 14:35:10: [SM] Exception reported: File Not Found: addons/sourcemod/configs/advertisements.txt
+L 04/11/2020 - 14:35:10: [SM] Blaming: advertisements.smx
+L 04/11/2020 - 14:35:10: [SM] Call stack trace:
+L 04/11/2020 - 14:35:10: [SM]   [0] SetFailState
+L 04/11/2020 - 14:35:10: [SM]   [1] Line 248, advertisements.sp::ParseAds
+L 04/11/2020 - 14:35:10: [SM]   [2] Line 57, advertisements.sp::OnMapStart
+L 04/11/2020 - 14:35:10: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 14:35:10: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 14:35:10: [SM] Call stack trace:
+L 04/11/2020 - 14:35:10: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 14:35:10: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 14:35:10: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 14:35:10: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 14:35:21: Error log file session closed.
+L 04/11/2020 - 14:35:21: SourceMod error session started
+L 04/11/2020 - 14:35:21: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 14:35:21: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 14:35:21: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 14:35:21: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 14:35:21: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 14:35:21: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 14:35:21: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 14:35:21: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 14:35:21: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 14:35:21: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 14:35:21: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 14:35:21: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 14:35:23: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 14:35:23: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 14:35:23: [SM] Call stack trace:
+L 04/11/2020 - 14:35:23: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 14:35:23: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 14:35:23: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 14:35:23: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 14:35:23: [SM] Exception reported: File Not Found: addons/sourcemod/configs/advertisements.txt
+L 04/11/2020 - 14:35:23: [SM] Blaming: advertisements.smx
+L 04/11/2020 - 14:35:23: [SM] Call stack trace:
+L 04/11/2020 - 14:35:23: [SM]   [0] SetFailState
+L 04/11/2020 - 14:35:23: [SM]   [1] Line 248, advertisements.sp::ParseAds
+L 04/11/2020 - 14:35:23: [SM]   [2] Line 57, advertisements.sp::OnMapStart
+L 04/11/2020 - 14:36:52: Error log file session closed.
+L 04/11/2020 - 14:37:39: SourceMod error session started
+L 04/11/2020 - 14:37:39: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 14:37:39: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 14:37:39: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 14:37:39: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 14:37:39: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 14:37:39: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 14:37:39: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 14:37:39: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 14:37:39: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 14:37:39: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 14:37:39: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 14:37:39: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 14:37:39: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 14:37:39: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 14:37:39: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 14:37:42: [SM] Exception reported: File Not Found: addons/sourcemod/configs/advertisements.txt
+L 04/11/2020 - 14:37:42: [SM] Blaming: advertisements.smx
+L 04/11/2020 - 14:37:42: [SM] Call stack trace:
+L 04/11/2020 - 14:37:42: [SM]   [0] SetFailState
+L 04/11/2020 - 14:37:42: [SM]   [1] Line 248, advertisements.sp::ParseAds
+L 04/11/2020 - 14:37:42: [SM]   [2] Line 57, advertisements.sp::OnMapStart
+L 04/11/2020 - 14:37:42: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 14:37:42: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 14:37:42: [SM] Call stack trace:
+L 04/11/2020 - 14:37:42: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 14:37:42: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 14:37:42: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 14:37:42: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 14:37:49: Error log file session closed.
+L 04/11/2020 - 14:37:49: SourceMod error session started
+L 04/11/2020 - 14:37:49: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 14:37:49: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 14:37:49: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 14:37:49: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 14:37:49: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 14:37:49: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 14:37:49: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 14:37:49: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 14:37:49: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 14:37:49: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 14:37:49: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 14:37:49: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 14:37:52: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 14:37:52: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 14:37:52: [SM] Call stack trace:
+L 04/11/2020 - 14:37:52: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 14:37:52: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 14:37:52: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 14:37:52: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 14:37:52: [SM] Exception reported: File Not Found: addons/sourcemod/configs/advertisements.txt
+L 04/11/2020 - 14:37:52: [SM] Blaming: advertisements.smx
+L 04/11/2020 - 14:37:52: [SM] Call stack trace:
+L 04/11/2020 - 14:37:52: [SM]   [0] SetFailState
+L 04/11/2020 - 14:37:52: [SM]   [1] Line 248, advertisements.sp::ParseAds
+L 04/11/2020 - 14:37:52: [SM]   [2] Line 57, advertisements.sp::OnMapStart
+L 04/11/2020 - 14:46:29: Error log file session closed.
+L 04/11/2020 - 14:46:47: SourceMod error session started
+L 04/11/2020 - 14:46:47: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 14:46:47: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 14:46:47: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 14:46:47: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 14:46:47: [SM] Exception reported: Convar "sm_noblock" was not created. A console command with the same might already exist.
+L 04/11/2020 - 14:46:47: [SM] Blaming: noblock.smx
+L 04/11/2020 - 14:46:47: [SM] Call stack trace:
+L 04/11/2020 - 14:46:47: [SM]   [0] CreateConVar
+L 04/11/2020 - 14:46:47: [SM]   [1] Line 73, /home/forums/content/files/2/5/1/4/5/9/155338.attach::OnPluginStart
+L 04/11/2020 - 14:46:47: [SM] Unable to load plugin "noblock.smx": Error detected in plugin startup (see error logs)
+L 04/11/2020 - 14:46:47: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 14:46:47: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 14:46:47: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 14:46:47: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 14:46:47: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 14:46:47: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 14:46:47: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 14:46:47: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 14:46:47: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 14:46:47: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 14:46:47: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 14:46:50: [SM] Exception reported: File Not Found: addons/sourcemod/configs/advertisements.txt
+L 04/11/2020 - 14:46:50: [SM] Blaming: advertisements.smx
+L 04/11/2020 - 14:46:50: [SM] Call stack trace:
+L 04/11/2020 - 14:46:50: [SM]   [0] SetFailState
+L 04/11/2020 - 14:46:50: [SM]   [1] Line 248, advertisements.sp::ParseAds
+L 04/11/2020 - 14:46:50: [SM]   [2] Line 57, advertisements.sp::OnMapStart
+L 04/11/2020 - 14:46:50: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 14:46:50: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 14:46:50: [SM] Call stack trace:
+L 04/11/2020 - 14:46:50: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 14:46:50: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 14:46:50: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 14:46:50: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 14:47:06: Error log file session closed.
+L 04/11/2020 - 14:47:21: SourceMod error session started
+L 04/11/2020 - 14:47:21: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 14:47:21: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 14:47:21: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 14:47:21: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 14:47:21: [SM] Exception reported: Convar "sm_noblock" was not created. A console command with the same might already exist.
+L 04/11/2020 - 14:47:21: [SM] Blaming: noblock.smx
+L 04/11/2020 - 14:47:21: [SM] Call stack trace:
+L 04/11/2020 - 14:47:21: [SM]   [0] CreateConVar
+L 04/11/2020 - 14:47:21: [SM]   [1] Line 73, /home/forums/content/files/2/5/1/4/5/9/155338.attach::OnPluginStart
+L 04/11/2020 - 14:47:21: [SM] Unable to load plugin "noblock.smx": Error detected in plugin startup (see error logs)
+L 04/11/2020 - 14:47:21: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 14:47:21: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 14:47:21: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 14:47:21: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 14:47:21: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 14:47:21: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 14:47:21: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 14:47:21: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 14:47:21: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 14:47:21: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 14:47:21: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 14:47:23: [SM] Exception reported: File Not Found: addons/sourcemod/configs/advertisements.txt
+L 04/11/2020 - 14:47:23: [SM] Blaming: advertisements.smx
+L 04/11/2020 - 14:47:23: [SM] Call stack trace:
+L 04/11/2020 - 14:47:23: [SM]   [0] SetFailState
+L 04/11/2020 - 14:47:23: [SM]   [1] Line 248, advertisements.sp::ParseAds
+L 04/11/2020 - 14:47:23: [SM]   [2] Line 57, advertisements.sp::OnMapStart
+L 04/11/2020 - 14:47:24: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 14:47:24: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 14:47:24: [SM] Call stack trace:
+L 04/11/2020 - 14:47:24: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 14:47:24: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 14:47:24: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 14:47:24: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 14:50:38: Error log file session closed.
+L 04/11/2020 - 14:50:38: SourceMod error session started
+L 04/11/2020 - 14:50:38: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 14:50:38: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 14:50:38: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 14:50:38: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 14:50:38: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 14:50:38: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 14:50:38: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 14:50:38: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 14:50:38: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 14:50:38: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 14:50:38: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 14:50:38: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 14:50:41: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 14:50:41: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 14:50:41: [SM] Call stack trace:
+L 04/11/2020 - 14:50:41: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 14:50:41: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 14:50:41: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 14:50:41: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 14:50:41: [SM] Exception reported: File Not Found: addons/sourcemod/configs/advertisements.txt
+L 04/11/2020 - 14:50:41: [SM] Blaming: advertisements.smx
+L 04/11/2020 - 14:50:41: [SM] Call stack trace:
+L 04/11/2020 - 14:50:41: [SM]   [0] SetFailState
+L 04/11/2020 - 14:50:41: [SM]   [1] Line 248, advertisements.sp::ParseAds
+L 04/11/2020 - 14:50:41: [SM]   [2] Line 57, advertisements.sp::OnMapStart
+L 04/11/2020 - 14:55:37: Error log file session closed.
+L 04/11/2020 - 14:57:31: SourceMod error session started
+L 04/11/2020 - 14:57:31: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 14:57:31: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 14:57:31: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 14:57:31: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 14:57:31: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 14:57:31: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 14:57:31: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 14:57:31: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 14:57:31: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 14:57:31: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 14:57:31: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 14:57:31: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 14:57:31: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 14:57:31: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 14:57:31: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 14:57:34: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 14:57:34: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 14:57:34: [SM] Call stack trace:
+L 04/11/2020 - 14:57:34: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 14:57:34: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 14:57:34: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 14:57:34: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 14:57:51: Error log file session closed.
+L 04/11/2020 - 14:57:51: SourceMod error session started
+L 04/11/2020 - 14:57:51: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 14:57:51: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 14:57:51: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 14:57:51: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 14:57:51: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 14:57:51: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 14:57:51: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 14:57:51: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 14:57:51: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 14:57:51: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 14:57:51: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 14:57:51: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 14:57:53: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 14:57:53: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 14:57:53: [SM] Call stack trace:
+L 04/11/2020 - 14:57:53: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 14:57:53: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 14:57:53: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 14:57:53: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 15:03:45: [SM] Exception reported: Array index out-of-bounds (index -1, limit 192)
+L 04/11/2020 - 15:03:45: [SM] Blaming: rockthevote.smx
+L 04/11/2020 - 15:03:45: [SM] Call stack trace:
+L 04/11/2020 - 15:03:45: [SM]   [1] Line 274, /home/forums/content/files/1/4/0/6/8/18128.attach::Command_Say
+L 04/11/2020 - 15:08:41: Error log file session closed.
+L 04/11/2020 - 15:09:40: SourceMod error session started
+L 04/11/2020 - 15:09:40: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 15:09:40: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 15:09:40: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 15:09:40: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 15:09:40: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 15:09:40: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 15:09:40: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 15:09:40: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 15:09:40: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 15:09:40: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 15:09:40: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 15:09:40: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 15:09:40: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 15:09:40: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 15:09:40: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 15:09:43: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 15:09:43: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 15:09:43: [SM] Call stack trace:
+L 04/11/2020 - 15:09:43: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 15:09:43: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 15:09:43: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 15:09:43: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 15:09:55: Error log file session closed.
+L 04/11/2020 - 15:09:55: SourceMod error session started
+L 04/11/2020 - 15:09:55: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 15:09:55: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 15:09:55: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 15:09:55: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 15:09:55: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 15:09:55: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 15:09:55: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 15:09:55: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 15:09:55: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 15:09:55: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 15:09:55: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 15:09:55: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 15:09:57: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 15:09:57: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 15:09:57: [SM] Call stack trace:
+L 04/11/2020 - 15:09:57: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 15:09:57: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 15:09:57: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 15:09:57: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 15:11:28: Error log file session closed.
+L 04/11/2020 - 15:12:14: SourceMod error session started
+L 04/11/2020 - 15:12:14: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 15:12:14: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 15:12:14: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 15:12:14: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 15:12:14: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 15:12:14: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 15:12:14: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 15:12:14: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 15:12:14: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 15:12:14: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 15:12:14: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 15:12:14: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 15:12:14: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 15:12:14: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 15:12:14: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 15:12:16: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 15:12:16: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 15:12:16: [SM] Call stack trace:
+L 04/11/2020 - 15:12:16: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 15:12:16: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 15:12:16: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 15:12:16: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 15:12:30: Error log file session closed.
+L 04/11/2020 - 15:12:30: SourceMod error session started
+L 04/11/2020 - 15:12:30: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 15:12:30: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 15:12:30: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 15:12:30: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 15:12:30: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 15:12:30: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 15:12:30: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 15:12:30: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 15:12:30: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 15:12:30: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 15:12:30: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 15:12:30: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 15:12:32: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 15:12:32: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 15:12:32: [SM] Call stack trace:
+L 04/11/2020 - 15:12:32: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 15:12:32: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 15:12:32: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 15:12:32: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 15:14:00: Error log file session closed.
+L 04/11/2020 - 15:16:48: SourceMod error session started
+L 04/11/2020 - 15:16:48: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 15:16:48: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 15:16:48: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 15:16:48: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 15:16:48: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 15:16:48: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 15:16:48: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 15:16:48: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 15:16:48: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 15:16:48: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 15:16:48: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 15:16:48: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 15:16:48: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 15:16:48: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 15:16:48: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 15:16:51: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 15:16:51: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 15:16:51: [SM] Call stack trace:
+L 04/11/2020 - 15:16:51: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 15:16:51: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 15:16:51: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 15:16:51: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 15:16:59: Error log file session closed.
+L 04/11/2020 - 15:16:59: SourceMod error session started
+L 04/11/2020 - 15:16:59: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 15:16:59: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 15:16:59: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 15:16:59: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 15:16:59: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 15:16:59: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 15:16:59: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 15:16:59: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 15:16:59: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 15:16:59: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 15:16:59: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 15:16:59: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 15:17:01: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 15:17:01: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 15:17:01: [SM] Call stack trace:
+L 04/11/2020 - 15:17:01: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 15:17:01: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 15:17:01: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 15:17:01: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 15:19:26: Error log file session closed.
+L 04/11/2020 - 15:21:10: SourceMod error session started
+L 04/11/2020 - 15:21:10: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 15:21:10: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 15:21:10: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 15:21:10: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 15:21:10: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 15:21:10: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 15:21:10: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 15:21:10: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 15:21:10: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 15:21:10: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 15:21:10: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 15:21:10: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 15:21:10: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 15:21:10: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 15:21:10: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 15:21:13: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 15:21:13: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 15:21:13: [SM] Call stack trace:
+L 04/11/2020 - 15:21:13: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 15:21:13: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 15:21:13: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 15:21:13: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 15:21:25: Error log file session closed.
+L 04/11/2020 - 15:21:25: SourceMod error session started
+L 04/11/2020 - 15:21:25: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 15:21:25: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 15:21:25: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 15:21:25: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 15:21:25: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 15:21:25: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 15:21:25: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 15:21:25: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 15:21:25: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 15:21:25: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 15:21:25: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 15:21:25: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 15:21:27: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 15:21:27: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 15:21:27: [SM] Call stack trace:
+L 04/11/2020 - 15:21:27: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 15:21:27: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 15:21:27: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 15:21:27: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 15:32:31: Error log file session closed.
+L 04/11/2020 - 15:33:19: SourceMod error session started
+L 04/11/2020 - 15:33:19: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 15:33:19: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 15:33:19: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 15:33:19: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 15:33:19: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 15:33:19: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 15:33:19: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 15:33:19: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 15:33:19: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 15:33:19: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 15:33:19: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 15:33:19: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 15:33:19: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 15:33:19: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 15:33:19: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 15:33:22: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 15:33:22: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 15:33:22: [SM] Call stack trace:
+L 04/11/2020 - 15:33:22: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 15:33:22: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 15:33:22: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 15:33:22: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 15:33:32: Error log file session closed.
+L 04/11/2020 - 15:33:32: SourceMod error session started
+L 04/11/2020 - 15:33:32: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 15:33:32: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 15:33:32: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 15:33:32: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 15:33:32: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 15:33:32: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 15:33:32: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 15:33:32: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 15:33:32: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 15:33:32: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 15:33:32: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 15:33:32: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 15:33:35: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 15:33:35: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 15:33:35: [SM] Call stack trace:
+L 04/11/2020 - 15:33:35: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 15:33:35: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 15:33:35: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 15:33:35: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 15:33:35: [SM] Exception reported: Invalid convar handle 1 (error 1)
+L 04/11/2020 - 15:33:35: [SM] Blaming: noblock.smx
+L 04/11/2020 - 15:33:35: [SM] Call stack trace:
+L 04/11/2020 - 15:33:35: [SM]   [0] GetConVarBool
+L 04/11/2020 - 15:33:35: [SM]   [1] Line 64, noblock.sp::Command_Noblock
+L 04/11/2020 - 15:34:03: Error log file session closed.
+L 04/11/2020 - 15:34:03: SourceMod error session started
+L 04/11/2020 - 15:34:03: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 15:34:03: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 15:34:03: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 15:34:03: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 15:34:03: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 15:34:03: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 15:34:03: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 15:34:03: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 15:34:03: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 15:34:03: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 15:34:03: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 15:34:03: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 15:34:05: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 15:34:05: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 15:34:05: [SM] Call stack trace:
+L 04/11/2020 - 15:34:05: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 15:34:05: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 15:34:05: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 15:34:05: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 15:34:05: [SM] Exception reported: Invalid convar handle 1 (error 1)
+L 04/11/2020 - 15:34:05: [SM] Blaming: noblock.smx
+L 04/11/2020 - 15:34:05: [SM] Call stack trace:
+L 04/11/2020 - 15:34:05: [SM]   [0] GetConVarBool
+L 04/11/2020 - 15:34:05: [SM]   [1] Line 64, noblock.sp::Command_Noblock
+L 04/11/2020 - 15:35:24: [SM] Exception reported: Invalid convar handle 1 (error 1)
+L 04/11/2020 - 15:35:24: [SM] Blaming: noblock.smx
+L 04/11/2020 - 15:35:24: [SM] Call stack trace:
+L 04/11/2020 - 15:35:24: [SM]   [0] GetConVarBool
+L 04/11/2020 - 15:35:24: [SM]   [1] Line 64, noblock.sp::Command_Noblock
+L 04/11/2020 - 15:37:56: Error log file session closed.
+L 04/11/2020 - 16:10:38: SourceMod error session started
+L 04/11/2020 - 16:10:38: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 16:10:38: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 16:10:38: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 16:10:38: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 16:10:38: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 16:10:38: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:10:38: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 16:10:38: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:10:38: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 16:10:38: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 16:10:38: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 16:10:38: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 16:10:38: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 16:10:38: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 16:10:38: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 16:10:40: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 16:10:40: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 16:10:40: [SM] Call stack trace:
+L 04/11/2020 - 16:10:40: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 16:10:40: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 16:10:40: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 16:10:40: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 16:10:48: Error log file session closed.
+L 04/11/2020 - 16:10:48: SourceMod error session started
+L 04/11/2020 - 16:10:48: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 16:10:48: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 16:10:48: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:10:48: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 16:10:48: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:10:48: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 16:10:48: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 16:10:48: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 16:10:48: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 16:10:48: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 16:10:48: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 16:10:48: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 16:10:50: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 16:10:50: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 16:10:50: [SM] Call stack trace:
+L 04/11/2020 - 16:10:50: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 16:10:50: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 16:10:50: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 16:10:50: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 16:17:41: Error log file session closed.
+L 04/11/2020 - 16:26:11: SourceMod error session started
+L 04/11/2020 - 16:26:11: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 16:26:11: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 16:26:11: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 16:26:11: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 16:26:11: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 16:26:11: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:26:11: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 16:26:11: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:26:11: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 16:26:11: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 16:26:11: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 16:26:11: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 16:26:11: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 16:26:11: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 16:26:11: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 16:26:13: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 16:26:13: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 16:26:13: [SM] Call stack trace:
+L 04/11/2020 - 16:26:13: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 16:26:13: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 16:26:13: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 16:26:13: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 16:26:24: Error log file session closed.
+L 04/11/2020 - 16:26:24: SourceMod error session started
+L 04/11/2020 - 16:26:24: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 16:26:24: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 16:26:24: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:26:24: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 16:26:24: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:26:24: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 16:26:24: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 16:26:24: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 16:26:24: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 16:26:24: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 16:26:24: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 16:26:24: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 16:26:27: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 16:26:27: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 16:26:27: [SM] Call stack trace:
+L 04/11/2020 - 16:26:27: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 16:26:27: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 16:26:27: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 16:26:27: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 16:27:49: Error log file session closed.
+L 04/11/2020 - 16:28:05: SourceMod error session started
+L 04/11/2020 - 16:28:05: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 16:28:05: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 16:28:05: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 16:28:05: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 16:28:05: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 16:28:05: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:28:05: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 16:28:05: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:28:05: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 16:28:05: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 16:28:05: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 16:28:05: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 16:28:05: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 16:28:05: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 16:28:05: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 16:28:07: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 16:28:07: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 16:28:07: [SM] Call stack trace:
+L 04/11/2020 - 16:28:07: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 16:28:07: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 16:28:07: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 16:28:07: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 16:28:20: Error log file session closed.
+L 04/11/2020 - 16:28:38: SourceMod error session started
+L 04/11/2020 - 16:28:38: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 16:28:38: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 16:28:38: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 16:28:38: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 16:28:38: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 16:28:38: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:28:38: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 16:28:38: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:28:38: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 16:28:38: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 16:28:38: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 16:28:38: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 16:28:38: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 16:28:38: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 16:28:38: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 16:28:41: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 16:28:41: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 16:28:41: [SM] Call stack trace:
+L 04/11/2020 - 16:28:41: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 16:28:41: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 16:28:41: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 16:28:41: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 16:35:35: Error log file session closed.
+L 04/11/2020 - 16:35:35: SourceMod error session started
+L 04/11/2020 - 16:35:35: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 16:35:35: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 16:35:35: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:35:35: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 16:35:35: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:35:35: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 16:35:35: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 16:35:35: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 16:35:35: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 16:35:35: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 16:35:35: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 16:35:35: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 16:35:37: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 16:35:37: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 16:35:37: [SM] Call stack trace:
+L 04/11/2020 - 16:35:37: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 16:35:37: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 16:35:37: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 16:35:37: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 16:41:22: Error log file session closed.
+L 04/11/2020 - 16:41:37: SourceMod error session started
+L 04/11/2020 - 16:41:37: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 16:41:37: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 16:41:37: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 16:41:37: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 16:41:37: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 16:41:37: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:41:37: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 16:41:37: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:41:37: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 16:41:37: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 16:41:37: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 16:41:37: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 16:41:37: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 16:41:37: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 16:41:37: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 16:41:40: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 16:41:40: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 16:41:40: [SM] Call stack trace:
+L 04/11/2020 - 16:41:40: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 16:41:40: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 16:41:40: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 16:41:40: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 16:42:00: Error log file session closed.
+L 04/11/2020 - 16:42:00: SourceMod error session started
+L 04/11/2020 - 16:42:00: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 16:42:00: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 16:42:00: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:42:00: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 16:42:00: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:42:00: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 16:42:00: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 16:42:00: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 16:42:00: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 16:42:00: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 16:42:00: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 16:42:00: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 16:42:02: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 16:42:02: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 16:42:02: [SM] Call stack trace:
+L 04/11/2020 - 16:42:02: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 16:42:02: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 16:42:02: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 16:42:02: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 16:52:43: Error log file session closed.
+L 04/11/2020 - 16:52:59: SourceMod error session started
+L 04/11/2020 - 16:52:59: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 16:52:59: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 16:52:59: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 16:52:59: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 16:52:59: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 16:52:59: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:52:59: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 16:52:59: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:52:59: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 16:52:59: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 16:52:59: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 16:52:59: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 16:52:59: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 16:52:59: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 16:52:59: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 16:53:01: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 16:53:01: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 16:53:01: [SM] Call stack trace:
+L 04/11/2020 - 16:53:01: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 16:53:01: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 16:53:01: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 16:53:01: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 16:53:13: Error log file session closed.
+L 04/11/2020 - 16:53:13: SourceMod error session started
+L 04/11/2020 - 16:53:13: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 16:53:13: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 16:53:13: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:53:13: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 16:53:13: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:53:13: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 16:53:13: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 16:53:13: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 16:53:13: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 16:53:13: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 16:53:13: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 16:53:13: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 16:53:16: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 16:53:16: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 16:53:16: [SM] Call stack trace:
+L 04/11/2020 - 16:53:16: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 16:53:16: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 16:53:16: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 16:53:16: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 16:57:13: Error log file session closed.
+L 04/11/2020 - 16:57:29: SourceMod error session started
+L 04/11/2020 - 16:57:29: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 16:57:29: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 16:57:29: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 16:57:29: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 16:57:29: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 16:57:29: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:57:29: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 16:57:29: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:57:29: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 16:57:29: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 16:57:29: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 16:57:29: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 16:57:29: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 16:57:29: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 16:57:29: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 16:57:32: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 16:57:32: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 16:57:32: [SM] Call stack trace:
+L 04/11/2020 - 16:57:32: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 16:57:32: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 16:57:32: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 16:57:32: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 16:57:53: Error log file session closed.
+L 04/11/2020 - 16:58:08: SourceMod error session started
+L 04/11/2020 - 16:58:08: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 16:58:08: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 16:58:08: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 16:58:08: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 16:58:09: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 16:58:09: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:58:09: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 16:58:09: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:58:09: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 16:58:09: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 16:58:09: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 16:58:09: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 16:58:09: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 16:58:09: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 16:58:09: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 16:58:11: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 16:58:11: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 16:58:11: [SM] Call stack trace:
+L 04/11/2020 - 16:58:11: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 16:58:11: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 16:58:11: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 16:58:11: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 16:59:02: Error log file session closed.
+L 04/11/2020 - 16:59:02: SourceMod error session started
+L 04/11/2020 - 16:59:02: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 16:59:02: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 16:59:02: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:59:02: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 16:59:02: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 16:59:02: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 16:59:02: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 16:59:02: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 16:59:02: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 16:59:02: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 16:59:02: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 16:59:02: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 16:59:05: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 16:59:05: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 16:59:05: [SM] Call stack trace:
+L 04/11/2020 - 16:59:05: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 16:59:05: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 16:59:05: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 16:59:05: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 17:02:02: Error log file session closed.
+L 04/11/2020 - 17:02:17: SourceMod error session started
+L 04/11/2020 - 17:02:17: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 17:02:17: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 17:02:17: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 17:02:17: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 17:02:17: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 17:02:17: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 17:02:17: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 17:02:17: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 17:02:17: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 17:02:17: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 17:02:17: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 17:02:17: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 17:02:17: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 17:02:17: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 17:02:17: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 17:02:20: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 17:02:20: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 17:02:20: [SM] Call stack trace:
+L 04/11/2020 - 17:02:20: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 17:02:20: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 17:02:20: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 17:02:20: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 17:03:25: Error log file session closed.
+L 04/11/2020 - 17:03:25: SourceMod error session started
+L 04/11/2020 - 17:03:25: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 17:03:25: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 17:03:25: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 17:03:25: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 17:03:25: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 17:03:25: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 17:03:25: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 17:03:25: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 17:03:25: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 17:03:25: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 17:03:25: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 17:03:25: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 17:03:28: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 17:03:28: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 17:03:28: [SM] Call stack trace:
+L 04/11/2020 - 17:03:28: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 17:03:28: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 17:03:28: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 17:03:28: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 17:04:46: Error log file session closed.
+L 04/11/2020 - 17:05:01: SourceMod error session started
+L 04/11/2020 - 17:05:01: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 17:05:01: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 17:05:01: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 17:05:01: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 17:05:01: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 17:05:01: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 17:05:01: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 17:05:01: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 17:05:01: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 17:05:01: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 17:05:01: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 17:05:01: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 17:05:01: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 17:05:01: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 17:05:01: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 17:05:04: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 17:05:04: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 17:05:04: [SM] Call stack trace:
+L 04/11/2020 - 17:05:04: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 17:05:04: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 17:05:04: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 17:05:04: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 17:05:11: Error log file session closed.
+L 04/11/2020 - 17:05:26: SourceMod error session started
+L 04/11/2020 - 17:05:26: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 17:05:26: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 17:05:26: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 17:05:26: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 17:05:26: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 17:05:26: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 17:05:26: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 17:05:26: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 17:05:26: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 17:05:26: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 17:05:26: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 17:05:26: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 17:05:26: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 17:05:26: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 17:05:26: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 17:05:28: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 17:05:28: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 17:05:28: [SM] Call stack trace:
+L 04/11/2020 - 17:05:28: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 17:05:28: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 17:05:28: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 17:05:28: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 17:06:29: Error log file session closed.
+L 04/11/2020 - 17:06:29: SourceMod error session started
+L 04/11/2020 - 17:06:29: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 17:06:29: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 17:06:29: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 17:06:29: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 17:06:29: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 17:06:29: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 17:06:29: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 17:06:29: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 17:06:29: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 17:06:29: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 17:06:29: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 17:06:29: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 17:06:31: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 17:06:31: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 17:06:31: [SM] Call stack trace:
+L 04/11/2020 - 17:06:31: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 17:06:31: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 17:06:31: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 17:06:31: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 17:07:08: Error log file session closed.
+L 04/11/2020 - 17:07:23: SourceMod error session started
+L 04/11/2020 - 17:07:23: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 17:07:23: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 17:07:23: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 17:07:23: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 17:07:23: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 17:07:23: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 17:07:23: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 17:07:23: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 17:07:23: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 17:07:23: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 17:07:23: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 17:07:23: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 17:07:23: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 17:07:23: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 17:07:23: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 17:07:25: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 17:07:25: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 17:07:25: [SM] Call stack trace:
+L 04/11/2020 - 17:07:25: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 17:07:25: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 17:07:25: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 17:07:25: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 17:07:59: Error log file session closed.
+L 04/11/2020 - 17:07:59: SourceMod error session started
+L 04/11/2020 - 17:07:59: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 17:07:59: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 17:07:59: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 17:07:59: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 17:07:59: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 17:07:59: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 17:07:59: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 17:07:59: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 17:07:59: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 17:07:59: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 17:07:59: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 17:07:59: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 17:08:02: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 17:08:02: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 17:08:02: [SM] Call stack trace:
+L 04/11/2020 - 17:08:02: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 17:08:02: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 17:08:02: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 17:08:02: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 17:11:01: Error log file session closed.
+L 04/11/2020 - 17:38:00: SourceMod error session started
+L 04/11/2020 - 17:38:00: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 17:38:00: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 17:38:00: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 17:38:00: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 17:38:00: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 17:38:00: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 17:38:00: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 17:38:00: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 17:38:00: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 17:38:00: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 17:38:00: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 17:38:00: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 17:38:00: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 17:38:00: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 17:38:00: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 17:38:03: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 17:38:03: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 17:38:03: [SM] Call stack trace:
+L 04/11/2020 - 17:38:03: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 17:38:03: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 17:38:03: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 17:38:03: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 17:51:17: Error log file session closed.
+L 04/11/2020 - 17:51:17: SourceMod error session started
+L 04/11/2020 - 17:51:17: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 17:51:17: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 17:51:17: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 17:51:17: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 17:51:17: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 17:51:17: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 17:51:17: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 17:51:17: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 17:51:17: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 17:51:17: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 17:51:17: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 17:51:17: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 17:51:19: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 17:51:19: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 17:51:19: [SM] Call stack trace:
+L 04/11/2020 - 17:51:19: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 17:51:19: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 17:51:19: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 17:51:19: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 19:04:05: Error log file session closed.
+L 04/11/2020 - 19:04:20: SourceMod error session started
+L 04/11/2020 - 19:04:20: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 19:04:20: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 19:04:20: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 19:04:20: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 19:04:20: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 19:04:20: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 19:04:20: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 19:04:20: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 19:04:20: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 19:04:20: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 19:04:20: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 19:04:20: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 19:04:20: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 19:04:20: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 19:04:20: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 19:04:23: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 19:04:23: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 19:04:23: [SM] Call stack trace:
+L 04/11/2020 - 19:04:23: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 19:04:23: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 19:04:23: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 19:04:23: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 19:04:52: Error log file session closed.
+L 04/11/2020 - 19:04:52: SourceMod error session started
+L 04/11/2020 - 19:04:52: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 19:04:52: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 19:04:52: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 19:04:52: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 19:04:52: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 19:04:52: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 19:04:52: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 19:04:52: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 19:04:52: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 19:04:52: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 19:04:52: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 19:04:52: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 19:04:54: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 19:04:54: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 19:04:54: [SM] Call stack trace:
+L 04/11/2020 - 19:04:54: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 19:04:54: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 19:04:54: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 19:04:54: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 19:10:30: Error log file session closed.
+L 04/11/2020 - 19:10:46: SourceMod error session started
+L 04/11/2020 - 19:10:46: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 19:10:46: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 19:10:46: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 19:10:46: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 19:10:46: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 19:10:46: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 19:10:46: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 19:10:46: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 19:10:46: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 19:10:46: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 19:10:46: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 19:10:46: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 19:10:46: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 19:10:46: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 19:10:46: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 19:10:49: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 19:10:49: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 19:10:49: [SM] Call stack trace:
+L 04/11/2020 - 19:10:49: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 19:10:49: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 19:10:49: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 19:10:49: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 19:10:57: Error log file session closed.
+L 04/11/2020 - 19:11:13: SourceMod error session started
+L 04/11/2020 - 19:11:13: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 19:11:13: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 19:11:13: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 19:11:13: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 19:11:13: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 19:11:13: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 19:11:13: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 19:11:13: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 19:11:13: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 19:11:13: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 19:11:13: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 19:11:13: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 19:11:13: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 19:11:13: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 19:11:13: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 19:11:16: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 19:11:16: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 19:11:16: [SM] Call stack trace:
+L 04/11/2020 - 19:11:16: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 19:11:16: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 19:11:16: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 19:11:16: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 19:11:25: Error log file session closed.
+L 04/11/2020 - 19:11:41: SourceMod error session started
+L 04/11/2020 - 19:11:41: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 19:11:41: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 19:11:41: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 19:11:41: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 19:11:41: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 19:11:41: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 19:11:41: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 19:11:41: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 19:11:41: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 19:11:41: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 19:11:41: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 19:11:41: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 19:11:41: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 19:11:41: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 19:11:41: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 19:11:44: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 19:11:44: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 19:11:44: [SM] Call stack trace:
+L 04/11/2020 - 19:11:44: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 19:11:44: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 19:11:44: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 19:11:44: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 19:12:03: Error log file session closed.
+L 04/11/2020 - 19:12:18: SourceMod error session started
+L 04/11/2020 - 19:12:18: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 19:12:18: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 19:12:18: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 19:12:18: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 19:12:18: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 19:12:18: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 19:12:18: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 19:12:18: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 19:12:18: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 19:12:18: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 19:12:18: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 19:12:18: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 19:12:18: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 19:12:18: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 19:12:18: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 19:12:20: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 19:12:20: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 19:12:20: [SM] Call stack trace:
+L 04/11/2020 - 19:12:20: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 19:12:20: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 19:12:20: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 19:12:20: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 19:12:29: Error log file session closed.
+L 04/11/2020 - 19:12:29: SourceMod error session started
+L 04/11/2020 - 19:12:29: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 19:12:29: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 19:12:29: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 19:12:29: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 19:12:29: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 19:12:29: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 19:12:29: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 19:12:29: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 19:12:29: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 19:12:29: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 19:12:29: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 19:12:29: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 19:12:32: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 19:12:32: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 19:12:32: [SM] Call stack trace:
+L 04/11/2020 - 19:12:32: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 19:12:32: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 19:12:32: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 19:12:32: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 19:46:48: Error log file session closed.
+L 04/11/2020 - 19:46:48: SourceMod error session started
+L 04/11/2020 - 19:46:48: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 19:46:48: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 19:46:48: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 19:46:48: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 19:46:48: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 19:46:48: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 19:46:48: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 19:46:48: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 19:46:48: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 19:46:48: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 19:46:48: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 19:46:48: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 19:46:51: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 19:46:51: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 19:46:51: [SM] Call stack trace:
+L 04/11/2020 - 19:46:51: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 19:46:51: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 19:46:51: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 19:46:51: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 19:49:34: [SM] Exception reported: Invalid key value handle a6105f5 (error 1)
+L 04/11/2020 - 19:49:34: [SM] Blaming: sm_skinchooser.smx
+L 04/11/2020 - 19:49:34: [SM] Call stack trace:
+L 04/11/2020 - 19:49:34: [SM]   [0] KvGotoFirstSubKey
+L 04/11/2020 - 19:49:34: [SM]   [1] Line 1305, E:\csgo\csgo\addons\sourcemod\scripting\sm_skinchooser.sp::BuildArmsMainMenu
+L 04/11/2020 - 19:49:34: [SM]   [2] Line 1289, E:\csgo\csgo\addons\sourcemod\scripting\sm_skinchooser.sp::CommandSecMenu
+L 04/11/2020 - 19:49:34: [SM]   [3] Line 1277, E:\csgo\csgo\addons\sourcemod\scripting\sm_skinchooser.sp::Menu_Model
+L 04/11/2020 - 19:49:52: [SM] Exception reported: Invalid key value handle a6105f5 (error 1)
+L 04/11/2020 - 19:49:52: [SM] Blaming: sm_skinchooser.smx
+L 04/11/2020 - 19:49:52: [SM] Call stack trace:
+L 04/11/2020 - 19:49:52: [SM]   [0] KvGotoFirstSubKey
+L 04/11/2020 - 19:49:52: [SM]   [1] Line 1305, E:\csgo\csgo\addons\sourcemod\scripting\sm_skinchooser.sp::BuildArmsMainMenu
+L 04/11/2020 - 19:49:52: [SM]   [2] Line 1289, E:\csgo\csgo\addons\sourcemod\scripting\sm_skinchooser.sp::CommandSecMenu
+L 04/11/2020 - 19:49:52: [SM]   [3] Line 1277, E:\csgo\csgo\addons\sourcemod\scripting\sm_skinchooser.sp::Menu_Model
+L 04/11/2020 - 19:57:49: [SM] Exception reported: Invalid key value handle a6105f5 (error 1)
+L 04/11/2020 - 19:57:49: [SM] Blaming: sm_skinchooser.smx
+L 04/11/2020 - 19:57:49: [SM] Call stack trace:
+L 04/11/2020 - 19:57:49: [SM]   [0] KvGotoFirstSubKey
+L 04/11/2020 - 19:57:49: [SM]   [1] Line 1305, E:\csgo\csgo\addons\sourcemod\scripting\sm_skinchooser.sp::BuildArmsMainMenu
+L 04/11/2020 - 19:57:49: [SM]   [2] Line 1289, E:\csgo\csgo\addons\sourcemod\scripting\sm_skinchooser.sp::CommandSecMenu
+L 04/11/2020 - 19:57:49: [SM]   [3] Line 1277, E:\csgo\csgo\addons\sourcemod\scripting\sm_skinchooser.sp::Menu_Model
+L 04/11/2020 - 19:58:04: [SM] Exception reported: Invalid key value handle a6105f5 (error 1)
+L 04/11/2020 - 19:58:04: [SM] Blaming: sm_skinchooser.smx
+L 04/11/2020 - 19:58:04: [SM] Call stack trace:
+L 04/11/2020 - 19:58:04: [SM]   [0] KvGotoFirstSubKey
+L 04/11/2020 - 19:58:04: [SM]   [1] Line 1305, E:\csgo\csgo\addons\sourcemod\scripting\sm_skinchooser.sp::BuildArmsMainMenu
+L 04/11/2020 - 19:58:04: [SM]   [2] Line 1289, E:\csgo\csgo\addons\sourcemod\scripting\sm_skinchooser.sp::CommandSecMenu
+L 04/11/2020 - 19:58:04: [SM]   [3] Line 1277, E:\csgo\csgo\addons\sourcemod\scripting\sm_skinchooser.sp::Menu_Model
+L 04/11/2020 - 19:58:12: [SM] Exception reported: Invalid key value handle a6105f5 (error 1)
+L 04/11/2020 - 19:58:12: [SM] Blaming: sm_skinchooser.smx
+L 04/11/2020 - 19:58:12: [SM] Call stack trace:
+L 04/11/2020 - 19:58:12: [SM]   [0] KvGotoFirstSubKey
+L 04/11/2020 - 19:58:12: [SM]   [1] Line 1305, E:\csgo\csgo\addons\sourcemod\scripting\sm_skinchooser.sp::BuildArmsMainMenu
+L 04/11/2020 - 19:58:12: [SM]   [2] Line 1289, E:\csgo\csgo\addons\sourcemod\scripting\sm_skinchooser.sp::CommandSecMenu
+L 04/11/2020 - 19:58:12: [SM]   [3] Line 1277, E:\csgo\csgo\addons\sourcemod\scripting\sm_skinchooser.sp::Menu_Model
+L 04/11/2020 - 19:58:16: [SM] Exception reported: Invalid key value handle a6105f5 (error 1)
+L 04/11/2020 - 19:58:16: [SM] Blaming: sm_skinchooser.smx
+L 04/11/2020 - 19:58:16: [SM] Call stack trace:
+L 04/11/2020 - 19:58:16: [SM]   [0] KvGotoFirstSubKey
+L 04/11/2020 - 19:58:16: [SM]   [1] Line 1305, E:\csgo\csgo\addons\sourcemod\scripting\sm_skinchooser.sp::BuildArmsMainMenu
+L 04/11/2020 - 19:58:16: [SM]   [2] Line 1289, E:\csgo\csgo\addons\sourcemod\scripting\sm_skinchooser.sp::CommandSecMenu
+L 04/11/2020 - 19:58:16: [SM]   [3] Line 1277, E:\csgo\csgo\addons\sourcemod\scripting\sm_skinchooser.sp::Menu_Model
+L 04/11/2020 - 19:58:41: [SM] Exception reported: Handle a6105f5 is invalid (error 3)
+L 04/11/2020 - 19:58:41: [SM] Blaming: sm_skinchooser.smx
+L 04/11/2020 - 19:58:41: [SM] Call stack trace:
+L 04/11/2020 - 19:58:41: [SM]   [0] CloseHandle
+L 04/11/2020 - 19:58:41: [SM]   [1] Line 665, E:\csgo\csgo\addons\sourcemod\scripting\sm_skinchooser.sp::OnMapEnd
+L 04/11/2020 - 19:58:42: Error log file session closed.
+L 04/11/2020 - 19:58:57: SourceMod error session started
+L 04/11/2020 - 19:58:57: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 19:58:57: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 19:58:57: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 19:58:57: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 19:58:57: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 19:58:57: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 19:58:57: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 19:58:57: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 19:58:57: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 19:58:57: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 19:58:57: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 19:58:57: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 19:58:57: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 19:58:57: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 19:58:57: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 19:58:59: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 19:58:59: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 19:58:59: [SM] Call stack trace:
+L 04/11/2020 - 19:58:59: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 19:58:59: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 19:58:59: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 19:58:59: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 19:59:03: Error log file session closed.
+L 04/11/2020 - 19:59:03: SourceMod error session started
+L 04/11/2020 - 19:59:03: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 19:59:03: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 19:59:03: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 19:59:03: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 19:59:03: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 19:59:03: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 19:59:03: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 19:59:03: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 19:59:03: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 19:59:03: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 19:59:03: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 19:59:03: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 19:59:06: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 19:59:06: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 19:59:06: [SM] Call stack trace:
+L 04/11/2020 - 19:59:06: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 19:59:06: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 19:59:06: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 19:59:06: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 20:54:46: Error log file session closed.
+L 04/11/2020 - 20:55:02: SourceMod error session started
+L 04/11/2020 - 20:55:02: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 20:55:02: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 20:55:02: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 20:55:02: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 20:55:02: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 20:55:02: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 20:55:02: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 20:55:02: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 20:55:02: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 20:55:02: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 20:55:02: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 20:55:02: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 20:55:02: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 20:55:02: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 20:55:02: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 20:55:04: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 20:55:04: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 20:55:04: [SM] Call stack trace:
+L 04/11/2020 - 20:55:04: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 20:55:04: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 20:55:04: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 20:55:04: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 20:55:54: Error log file session closed.
+L 04/11/2020 - 20:55:54: SourceMod error session started
+L 04/11/2020 - 20:55:54: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 20:55:54: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 20:55:54: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 20:55:54: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 20:55:54: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 20:55:54: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 20:55:54: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 20:55:54: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 20:55:54: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 20:55:54: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 20:55:54: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 20:55:54: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 20:55:56: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 20:55:56: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 20:55:56: [SM] Call stack trace:
+L 04/11/2020 - 20:55:56: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 20:55:56: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 20:55:56: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 20:55:56: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 21:03:21: [SM] Exception reported: Client 8 is not in game
+L 04/11/2020 - 21:03:21: [SM] Blaming: sm_skinchooser.smx
+L 04/11/2020 - 21:03:21: [SM] Call stack trace:
+L 04/11/2020 - 21:03:21: [SM]   [0] PrintHintText
+L 04/11/2020 - 21:03:21: [SM]   [1] Line 2216, E:\csgo\csgo\addons\sourcemod\scripting\sm_skinchooser.sp::CreateMessage
+L 04/11/2020 - 21:20:08: Error log file session closed.
+L 04/11/2020 - 21:20:08: SourceMod error session started
+L 04/11/2020 - 21:20:08: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 21:20:08: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 21:20:08: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 21:20:08: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 21:20:08: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 21:20:08: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 21:20:08: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 21:20:08: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 21:20:08: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 21:20:08: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 21:20:08: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 21:20:08: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 21:20:11: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 21:20:11: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 21:20:11: [SM] Call stack trace:
+L 04/11/2020 - 21:20:11: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 21:20:11: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 21:20:11: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 21:20:11: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 21:34:43: [SM] Exception reported: Client 13 is not in game
+L 04/11/2020 - 21:34:43: [SM] Blaming: sm_skinchooser.smx
+L 04/11/2020 - 21:34:43: [SM] Call stack trace:
+L 04/11/2020 - 21:34:43: [SM]   [0] PrintHintText
+L 04/11/2020 - 21:34:43: [SM]   [1] Line 2216, E:\csgo\csgo\addons\sourcemod\scripting\sm_skinchooser.sp::CreateMessage
+L 04/11/2020 - 21:35:15: [SM] Exception reported: Invalid data pack position, 48 is out of bounds (18)
+L 04/11/2020 - 21:35:15: [SM] Blaming: sm_hosties.smx
+L 04/11/2020 - 21:35:15: [SM] Call stack trace:
+L 04/11/2020 - 21:35:15: [SM]   [0] SetPackPosition
+L 04/11/2020 - 21:35:15: [SM]   [1] Line 2226, hosties/lastrequest.sp::OnWeaponDrop
+L 04/11/2020 - 21:48:43: [SM] Exception reported: Invalid data pack position, 96 is out of bounds (18)
+L 04/11/2020 - 21:48:43: [SM] Blaming: sm_hosties.smx
+L 04/11/2020 - 21:48:43: [SM] Call stack trace:
+L 04/11/2020 - 21:48:43: [SM]   [0] SetPackPosition
+L 04/11/2020 - 21:48:43: [SM]   [1] Line 1663, hosties/lastrequest.sp::LastRequest_PlayerJump
+L 04/11/2020 - 21:48:44: [SM] Exception reported: Invalid data pack position, 120 is out of bounds (18)
+L 04/11/2020 - 21:48:44: [SM] Blaming: sm_hosties.smx
+L 04/11/2020 - 21:48:44: [SM] Call stack trace:
+L 04/11/2020 - 21:48:44: [SM]   [0] SetPackPosition
+L 04/11/2020 - 21:48:44: [SM]   [1] Line 1674, hosties/lastrequest.sp::LastRequest_PlayerJump
+L 04/11/2020 - 21:48:47: [SM] Exception reported: Invalid data pack position, 72 is out of bounds (18)
+L 04/11/2020 - 21:48:47: [SM] Blaming: sm_hosties.smx
+L 04/11/2020 - 21:48:47: [SM] Call stack trace:
+L 04/11/2020 - 21:48:47: [SM]   [0] SetPackPosition
+L 04/11/2020 - 21:48:47: [SM]   [1] Line 2244, hosties/lastrequest.sp::OnWeaponDrop
+L 04/11/2020 - 21:48:54: [SM] Exception reported: Invalid data pack position, 96 is out of bounds (18)
+L 04/11/2020 - 21:48:54: [SM] Blaming: sm_hosties.smx
+L 04/11/2020 - 21:48:54: [SM] Call stack trace:
+L 04/11/2020 - 21:48:54: [SM]   [0] SetPackPosition
+L 04/11/2020 - 21:48:54: [SM]   [1] Line 1663, hosties/lastrequest.sp::LastRequest_PlayerJump
+L 04/11/2020 - 21:48:55: [SM] Exception reported: Invalid data pack position, 72 is out of bounds (18)
+L 04/11/2020 - 21:48:55: [SM] Blaming: sm_hosties.smx
+L 04/11/2020 - 21:48:55: [SM] Call stack trace:
+L 04/11/2020 - 21:48:55: [SM]   [0] SetPackPosition
+L 04/11/2020 - 21:48:55: [SM]   [1] Line 2244, hosties/lastrequest.sp::OnWeaponDrop
+L 04/11/2020 - 22:16:28: Error log file session closed.
+L 04/11/2020 - 22:16:43: SourceMod error session started
+L 04/11/2020 - 22:16:43: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 22:16:43: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 22:16:43: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 22:16:43: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 22:16:43: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 22:16:43: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 22:16:43: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 22:16:43: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 22:16:43: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 22:16:43: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 22:16:43: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 22:16:43: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 22:16:43: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 22:16:43: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 22:16:43: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 22:16:45: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 22:16:45: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 22:16:45: [SM] Call stack trace:
+L 04/11/2020 - 22:16:45: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 22:16:45: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 22:16:45: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 22:16:45: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 22:16:50: Error log file session closed.
+L 04/11/2020 - 22:16:50: SourceMod error session started
+L 04/11/2020 - 22:16:50: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 22:16:50: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 22:16:50: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 22:16:50: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 22:16:50: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 22:16:50: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 22:16:50: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 22:16:50: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 22:16:50: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 22:16:50: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 22:16:50: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 22:16:50: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 22:16:53: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 22:16:53: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 22:16:53: [SM] Call stack trace:
+L 04/11/2020 - 22:16:53: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 22:16:53: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 22:16:53: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 22:16:53: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 22:17:48: Error log file session closed.
+L 04/11/2020 - 22:17:48: SourceMod error session started
+L 04/11/2020 - 22:17:48: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 22:17:48: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 22:17:48: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 22:17:48: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 22:17:48: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 22:17:48: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 22:17:48: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 22:17:48: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 22:17:48: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 22:17:48: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 22:17:48: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 22:17:48: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 22:17:50: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 22:17:50: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 22:17:50: [SM] Call stack trace:
+L 04/11/2020 - 22:17:50: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 22:17:50: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 22:17:50: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 22:17:50: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 22:35:20: Error log file session closed.
+L 04/11/2020 - 22:47:56: SourceMod error session started
+L 04/11/2020 - 22:47:56: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 22:47:56: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 22:47:56: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 22:47:56: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 22:47:56: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 22:47:56: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 22:47:56: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 22:47:56: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 22:47:56: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 22:47:56: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 22:47:56: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 22:47:56: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 22:47:56: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 22:47:56: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 22:47:56: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 22:47:59: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 22:47:59: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 22:47:59: [SM] Call stack trace:
+L 04/11/2020 - 22:47:59: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 22:47:59: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 22:47:59: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 22:47:59: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 22:48:03: Error log file session closed.
+L 04/11/2020 - 22:48:03: SourceMod error session started
+L 04/11/2020 - 22:48:03: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 22:48:03: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 22:48:03: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 22:48:03: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 22:48:03: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 22:48:03: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 22:48:03: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 22:48:03: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 22:48:03: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 22:48:03: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 22:48:03: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 22:48:03: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 22:48:06: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 22:48:06: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 22:48:06: [SM] Call stack trace:
+L 04/11/2020 - 22:48:06: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 22:48:06: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 22:48:06: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 22:48:06: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 22:53:16: Error log file session closed.
+L 04/11/2020 - 22:53:16: SourceMod error session started
+L 04/11/2020 - 22:53:16: Info (map "de_dust2") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 22:53:16: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 22:53:16: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 22:53:16: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 22:53:16: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 22:53:16: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 22:53:16: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 22:53:16: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 22:53:16: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 22:53:16: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 22:53:16: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 22:53:16: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 22:53:19: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 22:53:19: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 22:53:19: [SM] Call stack trace:
+L 04/11/2020 - 22:53:19: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 22:53:19: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 22:53:19: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 22:53:19: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 22:59:26: Error log file session closed.
+L 04/11/2020 - 23:01:11: SourceMod error session started
+L 04/11/2020 - 23:01:11: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 23:01:11: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/11/2020 - 23:01:11: [SM] Could not parse file "/home/steam/csgo-ds/csgo/addons/sourcemod/configs/maplists.cfg"
+L 04/11/2020 - 23:01:11: [SM] Error on line 0 (col 0): Stream failed to open
+L 04/11/2020 - 23:01:11: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 23:01:11: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 23:01:11: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 23:01:11: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 23:01:11: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 23:01:11: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 23:01:11: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 23:01:11: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 23:01:11: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 23:01:11: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 23:01:11: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 23:01:14: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 23:01:14: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 23:01:14: [SM] Call stack trace:
+L 04/11/2020 - 23:01:14: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 23:01:14: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 23:01:14: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 23:01:14: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 23:02:33: Error log file session closed.
+L 04/11/2020 - 23:02:33: SourceMod error session started
+L 04/11/2020 - 23:02:33: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 23:02:33: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 23:02:33: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 23:02:33: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 23:02:33: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 23:02:33: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 23:02:33: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 23:02:33: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 23:02:33: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 23:02:33: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 23:02:33: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 23:02:33: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 23:02:36: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 23:02:36: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 23:02:36: [SM] Call stack trace:
+L 04/11/2020 - 23:02:36: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 23:02:36: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 23:02:36: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 23:02:36: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/11/2020 - 23:27:55: Error log file session closed.
+L 04/11/2020 - 23:27:55: SourceMod error session started
+L 04/11/2020 - 23:27:55: Info (map "jb_marioworld_rsc") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200411.log")
+L 04/11/2020 - 23:27:55: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/11/2020 - 23:27:55: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 23:27:55: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/11/2020 - 23:27:55: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/11/2020 - 23:27:55: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/11/2020 - 23:27:55: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/11/2020 - 23:27:55: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/11/2020 - 23:27:55: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/11/2020 - 23:27:55: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/11/2020 - 23:27:55: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/11/2020 - 23:27:55: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/11/2020 - 23:27:57: [SM] Exception reported: Invalid file handle 0 (error 4)
+L 04/11/2020 - 23:27:57: [SM] Blaming: sm_downloader.smx
+L 04/11/2020 - 23:27:57: [SM] Call stack trace:
+L 04/11/2020 - 23:27:57: [SM]   [0] ReadDirEntry
+L 04/11/2020 - 23:27:57: [SM]   [1] Line 132, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadFileFolder
+L 04/11/2020 - 23:27:57: [SM]   [2] Line 190, /home/forums/content/files/2/6/5/9/8/3/150553.attach::ReadDownloads
+L 04/11/2020 - 23:27:57: [SM]   [3] Line 112, /home/forums/content/files/2/6/5/9/8/3/150553.attach::OnMapStart
+L 04/12/2020 - 00:00:13: Error log file session closed.

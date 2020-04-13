@@ -1,0 +1,463 @@
+L 04/03/2020 - 00:02:07: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 00:02:07: [basecommands.smx] "Peace0ut48<2><STEAM_1:1:527843285><>" changed map to "ba_2016_minecraft_beta5"
+L 04/03/2020 - 00:02:10: [SM] Changed map to "ba_2016_minecraft_beta5"
+L 04/03/2020 - 00:02:12: -------- Mapchange to ba_2016_minecraft_beta5 --------
+L 04/03/2020 - 00:04:28: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 00:04:28: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 00:05:01: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "Tom<3><BOT><>"
+L 04/03/2020 - 00:05:02: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "Grant<4><BOT><>"
+L 04/03/2020 - 00:05:02: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "Paul<5><BOT><>"
+L 04/03/2020 - 00:05:02: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "Yahn<6><BOT><>"
+L 04/03/2020 - 00:05:02: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "Mike<7><BOT><>"
+L 04/03/2020 - 00:05:02: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "Dean<8><BOT><>"
+L 04/03/2020 - 00:05:02: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "Steve<9><BOT><>"
+L 04/03/2020 - 00:05:03: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "Duffy<10><BOT><>"
+L 04/03/2020 - 00:05:03: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "Scott<11><BOT><>"
+L 04/03/2020 - 00:05:04: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "Adam<12><BOT><>"
+L 04/03/2020 - 00:05:17: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "Grant<4><BOT><>"
+L 04/03/2020 - 00:05:18: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "Paul<5><BOT><>"
+L 04/03/2020 - 00:05:18: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "Yahn<6><BOT><>"
+L 04/03/2020 - 00:05:18: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "Mike<7><BOT><>"
+L 04/03/2020 - 00:05:19: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "Dean<8><BOT><>"
+L 04/03/2020 - 00:05:19: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "Steve<9><BOT><>"
+L 04/03/2020 - 00:05:20: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "Duffy<10><BOT><>"
+L 04/03/2020 - 00:05:20: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "Scott<11><BOT><>"
+L 04/03/2020 - 00:05:21: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "Adam<12><BOT><>"
+L 04/03/2020 - 00:25:15: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 00:29:56: Log file closed.
+L 04/03/2020 - 00:30:20: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 00:30:20: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 00:39:07: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 01:01:44: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 01:02:28: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 01:04:20: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 01:05:05: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 01:05:54: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 01:09:23: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 01:11:01: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 15:08:50: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 15:08:50: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 15:47:34: Log file closed.
+L 04/03/2020 - 15:49:21: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 15:49:21: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 15:55:30: [sm_hosties.smx] "Smoweday<14><STEAM_1:0:505070462><>" respawned "Grant<15><BOT><>"
+L 04/03/2020 - 15:55:32: [sm_hosties.smx] "Smoweday<14><STEAM_1:0:505070462><>" respawned "Adam<6><BOT><>"
+L 04/03/2020 - 15:55:32: [sm_hosties.smx] "Smoweday<14><STEAM_1:0:505070462><>" respawned "Keith<8><BOT><>"
+L 04/03/2020 - 15:55:33: [sm_hosties.smx] "Smoweday<14><STEAM_1:0:505070462><>" respawned "Jenssen<10><BOT><>"
+L 04/03/2020 - 15:55:33: [sm_hosties.smx] "Smoweday<14><STEAM_1:0:505070462><>" respawned "Yahn<11><BOT><>"
+L 04/03/2020 - 15:55:33: [sm_hosties.smx] "Smoweday<14><STEAM_1:0:505070462><>" respawned "Matt<12><BOT><>"
+L 04/03/2020 - 15:55:33: [sm_hosties.smx] "Smoweday<14><STEAM_1:0:505070462><>" respawned "Bill<13><BOT><>"
+L 04/03/2020 - 15:55:33: [sm_hosties.smx] "Smoweday<14><STEAM_1:0:505070462><>" respawned "Smoweday<14><STEAM_1:0:505070462><>"
+L 04/03/2020 - 15:56:32: [playercommands.smx] "Smoweday<14><STEAM_1:0:505070462><>" slayed "Harold<5><BOT><>"
+L 04/03/2020 - 15:56:32: [playercommands.smx] "Smoweday<14><STEAM_1:0:505070462><>" slayed "Ethan<7><BOT><>"
+L 04/03/2020 - 15:56:34: [playercommands.smx] "Smoweday<14><STEAM_1:0:505070462><>" slayed "Alfred<9><BOT><>"
+L 04/03/2020 - 15:56:35: [playercommands.smx] "Smoweday<14><STEAM_1:0:505070462><>" slayed "Jenssen<10><BOT><>"
+L 04/03/2020 - 15:56:35: [playercommands.smx] "Smoweday<14><STEAM_1:0:505070462><>" slayed "Bill<13><BOT><>"
+L 04/03/2020 - 15:56:35: [playercommands.smx] "Smoweday<14><STEAM_1:0:505070462><>" slayed "Smoweday<14><STEAM_1:0:505070462><>"
+L 04/03/2020 - 15:56:36: [playercommands.smx] "Smoweday<14><STEAM_1:0:505070462><>" slayed "MilkA<3><STEAM_1:0:242076907><>"
+L 04/03/2020 - 15:56:36: [playercommands.smx] "Smoweday<14><STEAM_1:0:505070462><>" slayed "Keith<8><BOT><>"
+L 04/03/2020 - 15:56:58: [playercommands.smx] "Smoweday<14><STEAM_1:0:505070462><>" slayed "MilkA<3><STEAM_1:0:242076907><>"
+L 04/03/2020 - 15:57:00: [playercommands.smx] "Smoweday<14><STEAM_1:0:505070462><>" slayed "Grant<15><BOT><>"
+L 04/03/2020 - 15:57:02: [playercommands.smx] "Smoweday<14><STEAM_1:0:505070462><>" slayed "Harold<5><BOT><>"
+L 04/03/2020 - 15:57:03: [playercommands.smx] "Smoweday<14><STEAM_1:0:505070462><>" slayed "Adam<6><BOT><>"
+L 04/03/2020 - 15:57:04: [playercommands.smx] "Smoweday<14><STEAM_1:0:505070462><>" slayed "Ethan<7><BOT><>"
+L 04/03/2020 - 15:57:05: [playercommands.smx] "Smoweday<14><STEAM_1:0:505070462><>" slayed "Keith<8><BOT><>"
+L 04/03/2020 - 15:57:06: [playercommands.smx] "Smoweday<14><STEAM_1:0:505070462><>" slayed "Jenssen<10><BOT><>"
+L 04/03/2020 - 15:57:07: [playercommands.smx] "Smoweday<14><STEAM_1:0:505070462><>" slayed "Yahn<11><BOT><>"
+L 04/03/2020 - 15:57:08: [playercommands.smx] "Smoweday<14><STEAM_1:0:505070462><>" slayed "Matt<12><BOT><>"
+L 04/03/2020 - 15:57:09: [playercommands.smx] "Smoweday<14><STEAM_1:0:505070462><>" slayed "Bill<13><BOT><>"
+L 04/03/2020 - 16:16:30: Log file closed.
+L 04/03/2020 - 16:30:19: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 16:30:19: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 16:32:05: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Peace0ut48<2><STEAM_1:1:527843285><>"
+L 04/03/2020 - 16:32:05: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Jerry<5><BOT><>"
+L 04/03/2020 - 16:32:05: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Tim<6><BOT><>"
+L 04/03/2020 - 16:32:05: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Colin<7><BOT><>"
+L 04/03/2020 - 16:32:06: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Jason<9><BOT><>"
+L 04/03/2020 - 16:32:24: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Yahn<3><BOT><>"
+L 04/03/2020 - 16:32:24: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Nate<4><BOT><>"
+L 04/03/2020 - 16:32:24: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Jerry<5><BOT><>"
+L 04/03/2020 - 16:32:24: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Tim<6><BOT><>"
+L 04/03/2020 - 16:32:25: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Colin<7><BOT><>"
+L 04/03/2020 - 16:32:25: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Ron<8><BOT><>"
+L 04/03/2020 - 16:32:25: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Jason<9><BOT><>"
+L 04/03/2020 - 16:32:25: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Mark<10><BOT><>"
+L 04/03/2020 - 16:32:25: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Jon<11><BOT><>"
+L 04/03/2020 - 16:32:25: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Martin<12><BOT><>"
+L 04/03/2020 - 16:32:26: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Smoweday<13><STEAM_1:0:505070462><>"
+L 04/03/2020 - 16:32:34: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Yahn<3><BOT><>"
+L 04/03/2020 - 16:32:34: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Nate<4><BOT><>"
+L 04/03/2020 - 16:32:34: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Jerry<5><BOT><>"
+L 04/03/2020 - 16:32:34: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Tim<6><BOT><>"
+L 04/03/2020 - 16:32:35: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Colin<7><BOT><>"
+L 04/03/2020 - 16:32:35: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Ron<8><BOT><>"
+L 04/03/2020 - 16:32:35: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Jason<9><BOT><>"
+L 04/03/2020 - 16:32:35: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Mark<10><BOT><>"
+L 04/03/2020 - 16:32:36: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Jon<11><BOT><>"
+L 04/03/2020 - 16:32:37: [playercommands.smx] "Smoweday<13><STEAM_1:0:505070462><>" slayed "Martin<12><BOT><>"
+L 04/03/2020 - 16:57:27: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 17:01:12: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 17:05:09: Log file closed.
+L 04/03/2020 - 17:05:38: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 17:05:38: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 17:16:42: Log file closed.
+L 04/03/2020 - 17:17:27: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 17:17:27: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 17:18:52: [sm_hosties.smx] "Peace0ut48<2><STEAM_1:1:527843285><>" respawned "Brandon<4><BOT><>"
+L 04/03/2020 - 17:18:52: [sm_hosties.smx] "Peace0ut48<2><STEAM_1:1:527843285><>" respawned "Calvin<10><BOT><>"
+L 04/03/2020 - 17:18:53: [sm_hosties.smx] "Peace0ut48<2><STEAM_1:1:527843285><>" respawned "Perry<6><BOT><>"
+L 04/03/2020 - 17:20:27: [basecommands.smx] "Peace0ut48<2><STEAM_1:1:527843285><>" refreshed the admin cache.
+L 04/03/2020 - 17:24:10: [basecommands.smx] "Peace0ut48<2><STEAM_1:1:527843285><>" refreshed the admin cache.
+L 04/03/2020 - 17:25:02: [basecommands.smx] "Peace0ut48<2><STEAM_1:1:527843285><>" refreshed the admin cache.
+L 04/03/2020 - 17:30:31: [basecommands.smx] "Peace0ut48<2><STEAM_1:1:527843285><>" changed map to "jb_spy_vs_spy_beta7"
+L 04/03/2020 - 17:30:34: [SM] Changed map to "jb_spy_vs_spy_beta7"
+L 04/03/2020 - 17:30:36: -------- Mapchange to jb_spy_vs_spy_beta7 --------
+L 04/03/2020 - 17:31:30: -------- Mapchange to jb_spy_vs_spy_beta7 --------
+L 04/03/2020 - 17:35:48: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 17:36:57: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 17:37:57: [funcommands.smx] "Androméďa<15><STEAM_1:0:93774482><>" toggled noclip on "Androméďa<15><STEAM_1:0:93774482><>"
+L 04/03/2020 - 17:43:59: Log file closed.
+L 04/03/2020 - 17:45:04: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 17:45:04: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 17:45:31: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/03/2020 - 17:48:53: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 17:48:53: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 17:49:10: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 17:49:18: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 17:49:27: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 17:49:33: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 17:49:36: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/03/2020 - 17:49:38: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/03/2020 - 17:49:53: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 17:50:14: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 17:50:16: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/03/2020 - 17:50:34: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/03/2020 - 17:50:38: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/03/2020 - 17:51:17: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/03/2020 - 17:51:44: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 17:52:26: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 17:53:34: [funcommands.smx] "Androméďa<2><STEAM_1:0:93774482><>" toggled noclip on "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/03/2020 - 17:53:54: [funcommands.smx] "Androméďa<2><STEAM_1:0:93774482><>" toggled noclip on "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/03/2020 - 17:54:41: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 17:54:44: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 17:55:16: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/03/2020 - 17:55:22: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/03/2020 - 17:55:29: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 18:01:17: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 18:01:17: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 18:17:42: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 18:17:59: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/03/2020 - 18:27:09: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 18:27:09: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 18:28:00: [funcommands.smx] "Androméďa<2><STEAM_1:0:93774482><>" toggled noclip on "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/03/2020 - 18:28:04: [funcommands.smx] "Androméďa<2><STEAM_1:0:93774482><>" toggled noclip on "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/03/2020 - 18:41:37: [basecommands.smx] "Androméďa<2><STEAM_1:0:93774482><>" console command (cmdline "quit")
+L 04/03/2020 - 18:41:38: Log file closed.
+L 04/03/2020 - 18:47:08: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 18:47:08: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 18:48:59: Log file closed.
+L 04/03/2020 - 18:49:44: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 18:49:44: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 19:06:05: Log file closed.
+L 04/03/2020 - 19:11:09: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 19:11:09: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 19:13:22: Log file closed.
+L 04/03/2020 - 19:15:10: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 19:15:10: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 19:18:58: Log file closed.
+L 04/03/2020 - 19:19:37: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 19:19:37: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 19:28:32: Log file closed.
+L 04/03/2020 - 19:29:13: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 19:29:13: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 19:40:28: Log file closed.
+L 04/03/2020 - 19:41:01: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 19:41:01: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 19:50:08: Log file closed.
+L 04/03/2020 - 19:50:36: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 19:50:36: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 19:52:00: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/03/2020 - 19:52:24: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/03/2020 - 19:52:36: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/03/2020 - 19:53:49: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/03/2020 - 19:58:53: Log file closed.
+L 04/03/2020 - 19:59:17: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 19:59:17: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 19:59:21: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 19:59:21: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 20:01:09: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 20:01:09: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 20:01:40: Log file closed.
+L 04/03/2020 - 20:02:07: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 20:02:07: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 20:02:10: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 20:02:10: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 20:05:03: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 20:05:03: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 20:05:22: Log file closed.
+L 04/03/2020 - 20:06:41: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 20:06:41: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 20:06:45: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 20:06:45: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 20:09:08: Log file closed.
+L 04/03/2020 - 20:09:31: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 20:09:31: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 20:09:34: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 20:09:34: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 20:14:20: Log file closed.
+L 04/03/2020 - 20:16:04: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 20:16:04: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 20:16:07: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 20:16:07: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 20:18:54: Log file closed.
+L 04/03/2020 - 20:19:10: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 20:19:10: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/03/2020 - 20:19:10: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 20:20:50: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 20:20:53: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 20:20:53: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 20:22:16: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 20:22:16: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 20:22:16: Log file closed.
+L 04/03/2020 - 20:22:31: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 20:22:31: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/03/2020 - 20:22:31: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 20:22:31: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 20:22:39: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 20:22:42: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 20:22:42: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 20:25:26: Log file closed.
+L 04/03/2020 - 20:25:46: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 20:25:46: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/03/2020 - 20:25:57: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 20:30:06: Log file closed.
+L 04/03/2020 - 20:30:24: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 20:30:24: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/03/2020 - 20:30:24: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 20:31:38: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 20:31:38: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/03/2020 - 20:31:39: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 20:31:46: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 20:31:50: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 20:31:50: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 20:31:51: Log file closed.
+L 04/03/2020 - 20:32:09: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 20:32:09: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/03/2020 - 20:32:10: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 20:32:17: Log file closed.
+L 04/03/2020 - 20:32:50: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 20:32:54: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 20:32:54: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 20:35:04: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 20:35:32: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 20:39:40: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 20:39:57: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 20:45:00: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 20:45:13: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 20:45:27: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 20:46:24: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 20:46:33: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/03/2020 - 20:47:15: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/03/2020 - 20:47:50: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 20:47:58: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 20:49:01: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/03/2020 - 20:49:06: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/03/2020 - 20:52:58: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 20:53:20: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 20:54:54: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/03/2020 - 20:54:58: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/03/2020 - 20:55:30: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 20:57:02: Log file closed.
+L 04/03/2020 - 20:57:46: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 20:57:46: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/03/2020 - 20:57:46: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 20:57:59: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 20:58:02: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 20:58:02: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 20:58:27: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 20:58:53: Log file closed.
+L 04/03/2020 - 20:59:10: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 20:59:10: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/03/2020 - 20:59:11: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 21:00:03: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 21:00:07: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 21:00:07: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 21:00:21: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 21:04:14: Log file closed.
+L 04/03/2020 - 21:04:32: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 21:04:32: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/03/2020 - 21:04:32: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 21:04:54: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 21:04:58: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 21:04:58: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 21:25:38: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 21:25:47: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 21:59:31: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 21:59:31: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/03/2020 - 21:59:32: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 21:59:32: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 21:59:41: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 21:59:41: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 21:59:41: Log file closed.
+L 04/03/2020 - 21:59:52: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 21:59:52: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/03/2020 - 21:59:53: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 21:59:53: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:00:02: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:00:02: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:00:02: Log file closed.
+L 04/03/2020 - 22:00:19: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 22:00:19: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/03/2020 - 22:00:20: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 22:00:20: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:00:26: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:00:26: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:00:26: Log file closed.
+L 04/03/2020 - 22:00:34: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 22:00:34: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/03/2020 - 22:00:34: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 22:00:34: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:00:40: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:00:40: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:00:40: Log file closed.
+L 04/03/2020 - 22:00:58: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 22:00:58: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/03/2020 - 22:00:58: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 22:00:58: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:03:33: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:03:33: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:03:33: Log file closed.
+L 04/03/2020 - 22:04:46: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 22:04:46: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/03/2020 - 22:04:46: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 22:04:46: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:05:30: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 22:05:33: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 22:05:33: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 22:20:09: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:20:09: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:20:09: Log file closed.
+L 04/03/2020 - 22:20:23: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 22:20:23: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/03/2020 - 22:20:24: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 22:20:24: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:21:16: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 22:21:20: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 22:21:20: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 22:23:18: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:23:18: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:23:18: Log file closed.
+L 04/03/2020 - 22:23:34: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 22:23:34: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/03/2020 - 22:23:34: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 22:23:34: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:24:31: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 22:24:35: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 22:24:35: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 22:28:32: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 22:28:36: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 22:28:36: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 22:29:47: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:29:47: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:29:47: Log file closed.
+L 04/03/2020 - 22:29:59: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 22:29:59: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/03/2020 - 22:29:59: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 22:29:59: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:31:01: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 22:31:05: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 22:31:05: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 22:37:17: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 22:37:23: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/03/2020 - 22:42:07: -------- Mapchange to bhop_acino --------
+L 04/03/2020 - 22:42:10: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 22:42:10: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 22:45:20: -------- Mapchange to bhop_acino --------
+L 04/03/2020 - 22:45:23: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 22:45:23: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 22:53:52: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 22:53:52: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/03/2020 - 22:53:53: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 22:53:53: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:58:59: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:58:59: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:58:59: Log file closed.
+L 04/03/2020 - 22:59:15: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 22:59:15: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/03/2020 - 22:59:16: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 22:59:16: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 22:59:51: -------- Mapchange to hns_devpark_pre --------
+L 04/03/2020 - 23:00:02: -------- Mapchange to hns_devpark_pre --------
+L 04/03/2020 - 23:00:37: -------- Mapchange to hns_devpark_pre --------
+L 04/03/2020 - 23:00:41: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 23:00:41: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 23:03:22: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 23:03:22: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 23:03:22: Log file closed.
+L 04/03/2020 - 23:13:20: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 23:13:20: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/03/2020 - 23:13:20: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 23:13:20: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 23:15:24: -------- Mapchange to hns_devpark_pre --------
+L 04/03/2020 - 23:15:36: -------- Mapchange to hns_devpark_pre --------
+L 04/03/2020 - 23:15:40: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 23:15:40: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 23:28:40: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 23:28:40: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 23:28:40: Log file closed.
+L 04/03/2020 - 23:28:56: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 23:28:56: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/03/2020 - 23:28:57: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 23:28:57: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 23:29:17: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 23:29:21: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 23:29:21: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 23:31:04: -------- Mapchange to bhop_acino --------
+L 04/03/2020 - 23:31:07: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 23:31:07: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 23:32:35: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 23:32:43: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 23:32:46: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 23:32:46: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 23:37:36: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 23:37:39: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 23:37:39: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 23:54:12: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 23:54:15: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 23:54:15: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 23:55:27: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 23:55:30: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/03/2020 - 23:55:30: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/03/2020 - 23:59:05: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 23:59:05: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/03/2020 - 23:59:05: Log file closed.
+L 04/03/2020 - 23:59:23: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200403.log") (Version "1.10.0.6478")
+L 04/03/2020 - 23:59:23: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/03/2020 - 23:59:24: [hextags.smx] [HexTags] Found Custom Chat Colors running!
+	Please avoid running it with this plugin!
+L 04/03/2020 - 23:59:24: [hextags.smx] No entries found in: "addons/sourcemod/configs/hextags.cfg"
+L 04/04/2020 - 01:15:00: Log file closed.

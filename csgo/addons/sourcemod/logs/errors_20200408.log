@@ -1,0 +1,1118 @@
+L 04/08/2020 - 10:40:52: SourceMod error session started
+L 04/08/2020 - 10:40:52: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 10:40:52: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/08/2020 - 10:40:52: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 10:40:52: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 10:40:52: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 10:40:52: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 10:40:52: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 10:40:52: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 10:40:52: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 10:40:52: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 10:40:52: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 10:40:52: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 10:40:52: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 10:40:55: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 10:40:55: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 10:40:55: [SM] Call stack trace:
+L 04/08/2020 - 10:40:55: [SM]   [0] SetFailState
+L 04/08/2020 - 10:40:55: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 10:40:55: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 11:28:53: Error log file session closed.
+L 04/08/2020 - 11:28:53: SourceMod error session started
+L 04/08/2020 - 11:28:53: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 11:28:53: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 11:28:53: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 11:28:53: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 11:28:53: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 11:28:53: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 11:28:53: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 11:28:53: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 11:28:53: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 11:28:53: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 11:28:53: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 11:28:53: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 11:28:56: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 11:28:56: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 11:28:56: [SM] Call stack trace:
+L 04/08/2020 - 11:28:56: [SM]   [0] SetFailState
+L 04/08/2020 - 11:28:56: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 11:28:56: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 11:28:56: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/08/2020 - 11:28:56: [SM] Exception reported: Mapcycle Not Found
+L 04/08/2020 - 11:28:56: [SM] Blaming: nextmap.smx
+L 04/08/2020 - 11:28:56: [SM] Call stack trace:
+L 04/08/2020 - 11:28:56: [SM]   [0] SetFailState
+L 04/08/2020 - 11:28:56: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 04/08/2020 - 11:28:56: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 04/08/2020 - 11:46:37: [SM] Exception reported: Could not open file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/MyJailbreak/Events-20-04-08.log"
+L 04/08/2020 - 11:46:37: [SM] Blaming: MyJailbreak/war.smx
+L 04/08/2020 - 11:46:37: [SM] Call stack trace:
+L 04/08/2020 - 11:46:37: [SM]   [0] LogToFileEx
+L 04/08/2020 - 11:46:37: [SM]   [1] Line 421, addons/sourcemod/scripting/MyJailbreak/war.sp::Command_SetWar
+L 04/08/2020 - 11:46:37: [SM]   [3] FakeClientCommand
+L 04/08/2020 - 11:46:37: [SM]   [4] Line 1752, addons/sourcemod/scripting/MyJailbreak/menu.sp::SetEventMenuHandler
+L 04/08/2020 - 11:52:12: [SM] Exception reported: Could not open file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/MyJailbreak/Events-20-04-08.log"
+L 04/08/2020 - 11:52:12: [SM] Blaming: MyJailbreak/freeday.smx
+L 04/08/2020 - 11:52:12: [SM] Call stack trace:
+L 04/08/2020 - 11:52:12: [SM]   [0] LogToFileEx
+L 04/08/2020 - 11:52:12: [SM]   [1] Line 360, addons/sourcemod/scripting/MyJailbreak/freeday.sp::Command_SetFreeday
+L 04/08/2020 - 11:52:12: [SM]   [3] FakeClientCommand
+L 04/08/2020 - 11:52:12: [SM]   [4] Line 1752, addons/sourcemod/scripting/MyJailbreak/menu.sp::SetEventMenuHandler
+L 04/08/2020 - 12:11:17: [SM] Exception reported: Invalid data pack position, 120 is out of bounds (18)
+L 04/08/2020 - 12:11:17: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 12:11:17: [SM] Call stack trace:
+L 04/08/2020 - 12:11:17: [SM]   [0] SetPackPosition
+L 04/08/2020 - 12:11:17: [SM]   [1] Line 1674, hosties/lastrequest.sp::LastRequest_PlayerJump
+L 04/08/2020 - 12:11:21: [SM] Exception reported: Invalid data pack position, 120 is out of bounds (18)
+L 04/08/2020 - 12:11:21: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 12:11:21: [SM] Call stack trace:
+L 04/08/2020 - 12:11:21: [SM]   [0] SetPackPosition
+L 04/08/2020 - 12:11:21: [SM]   [1] Line 1674, hosties/lastrequest.sp::LastRequest_PlayerJump
+L 04/08/2020 - 12:11:23: [SM] Exception reported: Invalid data pack position, 48 is out of bounds (18)
+L 04/08/2020 - 12:11:23: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 12:11:23: [SM] Call stack trace:
+L 04/08/2020 - 12:11:23: [SM]   [0] SetPackPosition
+L 04/08/2020 - 12:11:23: [SM]   [1] Line 2226, hosties/lastrequest.sp::OnWeaponDrop
+L 04/08/2020 - 12:26:11: [SM] Exception reported: Invalid data pack position, 96 is out of bounds (18)
+L 04/08/2020 - 12:26:11: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 12:26:11: [SM] Call stack trace:
+L 04/08/2020 - 12:26:11: [SM]   [0] SetPackPosition
+L 04/08/2020 - 12:26:11: [SM]   [1] Line 1663, hosties/lastrequest.sp::LastRequest_PlayerJump
+L 04/08/2020 - 12:26:12: [SM] Exception reported: Invalid data pack position, 96 is out of bounds (18)
+L 04/08/2020 - 12:26:12: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 12:26:12: [SM] Call stack trace:
+L 04/08/2020 - 12:26:12: [SM]   [0] SetPackPosition
+L 04/08/2020 - 12:26:12: [SM]   [1] Line 1663, hosties/lastrequest.sp::LastRequest_PlayerJump
+L 04/08/2020 - 12:26:14: [SM] Exception reported: Invalid data pack position, 96 is out of bounds (18)
+L 04/08/2020 - 12:26:14: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 12:26:14: [SM] Call stack trace:
+L 04/08/2020 - 12:26:14: [SM]   [0] SetPackPosition
+L 04/08/2020 - 12:26:14: [SM]   [1] Line 1663, hosties/lastrequest.sp::LastRequest_PlayerJump
+L 04/08/2020 - 12:26:17: [SM] Exception reported: Invalid data pack position, 96 is out of bounds (18)
+L 04/08/2020 - 12:26:17: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 12:26:17: [SM] Call stack trace:
+L 04/08/2020 - 12:26:17: [SM]   [0] SetPackPosition
+L 04/08/2020 - 12:26:17: [SM]   [1] Line 1663, hosties/lastrequest.sp::LastRequest_PlayerJump
+L 04/08/2020 - 12:26:18: [SM] Exception reported: Invalid data pack position, 96 is out of bounds (18)
+L 04/08/2020 - 12:26:18: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 12:26:18: [SM] Call stack trace:
+L 04/08/2020 - 12:26:18: [SM]   [0] SetPackPosition
+L 04/08/2020 - 12:26:18: [SM]   [1] Line 1663, hosties/lastrequest.sp::LastRequest_PlayerJump
+L 04/08/2020 - 12:26:19: [SM] Exception reported: Invalid data pack position, 96 is out of bounds (18)
+L 04/08/2020 - 12:26:19: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 12:26:19: [SM] Call stack trace:
+L 04/08/2020 - 12:26:19: [SM]   [0] SetPackPosition
+L 04/08/2020 - 12:26:19: [SM]   [1] Line 1663, hosties/lastrequest.sp::LastRequest_PlayerJump
+L 04/08/2020 - 12:26:19: [SM] Exception reported: Invalid data pack position, 96 is out of bounds (18)
+L 04/08/2020 - 12:26:19: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 12:26:19: [SM] Call stack trace:
+L 04/08/2020 - 12:26:19: [SM]   [0] SetPackPosition
+L 04/08/2020 - 12:26:19: [SM]   [1] Line 1663, hosties/lastrequest.sp::LastRequest_PlayerJump
+L 04/08/2020 - 12:26:37: [SM] Exception reported: Invalid data pack position, 48 is out of bounds (18)
+L 04/08/2020 - 12:26:37: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 12:26:37: [SM] Call stack trace:
+L 04/08/2020 - 12:26:37: [SM]   [0] SetPackPosition
+L 04/08/2020 - 12:26:37: [SM]   [1] Line 2226, hosties/lastrequest.sp::OnWeaponDrop
+L 04/08/2020 - 12:30:35: Error log file session closed.
+L 04/08/2020 - 12:30:35: SourceMod error session started
+L 04/08/2020 - 12:30:35: Info (map "jb_spy_vs_spy_beta7") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 12:30:35: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 12:30:35: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 12:30:35: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 12:30:35: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 12:30:35: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 12:30:35: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 12:30:35: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 12:30:35: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 12:30:35: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 12:30:35: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 12:30:35: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 12:30:38: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 12:30:38: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 12:30:38: [SM] Call stack trace:
+L 04/08/2020 - 12:30:38: [SM]   [0] SetFailState
+L 04/08/2020 - 12:30:38: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 12:30:38: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 12:30:38: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/08/2020 - 12:30:38: [SM] Exception reported: Mapcycle Not Found
+L 04/08/2020 - 12:30:38: [SM] Blaming: nextmap.smx
+L 04/08/2020 - 12:30:38: [SM] Call stack trace:
+L 04/08/2020 - 12:30:38: [SM]   [0] SetFailState
+L 04/08/2020 - 12:30:38: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 04/08/2020 - 12:30:38: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 04/08/2020 - 12:42:37: [SM] Exception reported: Could not open file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/MyJailbreak/Events-20-04-08.log"
+L 04/08/2020 - 12:42:37: [SM] Blaming: MyJailbreak/war.smx
+L 04/08/2020 - 12:42:37: [SM] Call stack trace:
+L 04/08/2020 - 12:42:37: [SM]   [0] LogToFileEx
+L 04/08/2020 - 12:42:37: [SM]   [1] Line 421, addons/sourcemod/scripting/MyJailbreak/war.sp::Command_SetWar
+L 04/08/2020 - 12:42:37: [SM]   [3] FakeClientCommand
+L 04/08/2020 - 12:42:37: [SM]   [4] Line 1752, addons/sourcemod/scripting/MyJailbreak/menu.sp::SetEventMenuHandler
+L 04/08/2020 - 12:57:46: [SM] Exception reported: Could not open file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/MyJailbreak/Events-20-04-08.log"
+L 04/08/2020 - 12:57:46: [SM] Blaming: MyJailbreak/noscope.smx
+L 04/08/2020 - 12:57:46: [SM] Call stack trace:
+L 04/08/2020 - 12:57:46: [SM]   [0] LogToFileEx
+L 04/08/2020 - 12:57:46: [SM]   [1] Line 402, addons/sourcemod/scripting/MyJailbreak/noscope.sp::Command_SetNoScope
+L 04/08/2020 - 12:59:15: Error log file session closed.
+L 04/08/2020 - 12:59:15: SourceMod error session started
+L 04/08/2020 - 12:59:15: Info (map "jb_spy_vs_spy_beta7") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 12:59:15: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 12:59:15: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 12:59:15: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 12:59:15: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 12:59:15: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 12:59:15: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 12:59:15: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 12:59:15: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 12:59:15: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 12:59:15: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 12:59:15: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 12:59:19: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 12:59:19: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 12:59:19: [SM] Call stack trace:
+L 04/08/2020 - 12:59:19: [SM]   [0] SetFailState
+L 04/08/2020 - 12:59:19: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 12:59:19: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 12:59:19: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/08/2020 - 12:59:19: [SM] Exception reported: Mapcycle Not Found
+L 04/08/2020 - 12:59:19: [SM] Blaming: nextmap.smx
+L 04/08/2020 - 12:59:19: [SM] Call stack trace:
+L 04/08/2020 - 12:59:19: [SM]   [0] SetFailState
+L 04/08/2020 - 12:59:19: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 04/08/2020 - 12:59:19: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 04/08/2020 - 12:59:34: Error log file session closed.
+L 04/08/2020 - 12:59:34: SourceMod error session started
+L 04/08/2020 - 12:59:34: Info (map "ba_2016_minecraft_beta5") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 12:59:34: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 12:59:34: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 12:59:34: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 12:59:34: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 12:59:34: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 12:59:34: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 12:59:34: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 12:59:34: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 12:59:34: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 12:59:34: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 12:59:34: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 12:59:51: SourceMod error session started
+L 04/08/2020 - 12:59:51: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 12:59:51: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/08/2020 - 12:59:51: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 12:59:51: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 12:59:51: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 12:59:51: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 12:59:51: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 12:59:51: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 12:59:51: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 12:59:51: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 12:59:51: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 12:59:51: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 12:59:51: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 12:59:54: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 12:59:54: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 12:59:54: [SM] Call stack trace:
+L 04/08/2020 - 12:59:54: [SM]   [0] SetFailState
+L 04/08/2020 - 12:59:54: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 12:59:54: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 13:00:15: Error log file session closed.
+L 04/08/2020 - 13:00:15: SourceMod error session started
+L 04/08/2020 - 13:00:15: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 13:00:15: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 13:00:15: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 13:00:15: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 13:00:15: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 13:00:15: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 13:00:15: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 13:00:15: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 13:00:15: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 13:00:15: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 13:00:15: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 13:00:15: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 13:00:18: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 13:00:18: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 13:00:18: [SM] Call stack trace:
+L 04/08/2020 - 13:00:18: [SM]   [0] SetFailState
+L 04/08/2020 - 13:00:18: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 13:00:18: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 13:00:18: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/08/2020 - 13:00:18: [SM] Exception reported: Mapcycle Not Found
+L 04/08/2020 - 13:00:18: [SM] Blaming: nextmap.smx
+L 04/08/2020 - 13:00:18: [SM] Call stack trace:
+L 04/08/2020 - 13:00:18: [SM]   [0] SetFailState
+L 04/08/2020 - 13:00:18: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 04/08/2020 - 13:00:18: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 04/08/2020 - 13:00:56: Error log file session closed.
+L 04/08/2020 - 13:00:56: SourceMod error session started
+L 04/08/2020 - 13:00:56: Info (map "jb_hostile2_default") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 13:00:56: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 13:00:56: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 13:00:56: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 13:00:56: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 13:00:56: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 13:00:56: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 13:00:56: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 13:00:56: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 13:00:56: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 13:00:56: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 13:00:56: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 13:00:58: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 13:00:58: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 13:00:58: [SM] Call stack trace:
+L 04/08/2020 - 13:00:58: [SM]   [0] SetFailState
+L 04/08/2020 - 13:00:58: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 13:00:58: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 13:00:58: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/08/2020 - 13:00:58: [SM] Exception reported: Mapcycle Not Found
+L 04/08/2020 - 13:00:58: [SM] Blaming: nextmap.smx
+L 04/08/2020 - 13:00:58: [SM] Call stack trace:
+L 04/08/2020 - 13:00:58: [SM]   [0] SetFailState
+L 04/08/2020 - 13:00:58: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 04/08/2020 - 13:00:58: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 04/08/2020 - 19:24:34: SourceMod error session started
+L 04/08/2020 - 19:24:34: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 19:24:34: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/08/2020 - 19:24:34: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 19:24:34: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 19:24:34: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 19:24:34: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 19:24:34: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 19:24:34: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 19:24:34: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 19:24:34: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 19:24:34: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 19:24:34: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 19:24:34: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 19:24:38: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 19:24:38: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 19:24:38: [SM] Call stack trace:
+L 04/08/2020 - 19:24:38: [SM]   [0] SetFailState
+L 04/08/2020 - 19:24:38: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 19:24:38: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 19:25:08: Error log file session closed.
+L 04/08/2020 - 19:25:08: SourceMod error session started
+L 04/08/2020 - 19:25:08: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 19:25:08: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 19:25:08: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 19:25:08: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 19:25:08: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 19:25:08: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 19:25:08: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 19:25:08: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 19:25:08: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 19:25:08: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 19:25:08: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 19:25:08: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 19:25:11: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 19:25:11: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 19:25:11: [SM] Call stack trace:
+L 04/08/2020 - 19:25:11: [SM]   [0] SetFailState
+L 04/08/2020 - 19:25:11: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 19:25:11: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 19:25:11: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/08/2020 - 19:25:11: [SM] Exception reported: Mapcycle Not Found
+L 04/08/2020 - 19:25:11: [SM] Blaming: nextmap.smx
+L 04/08/2020 - 19:25:11: [SM] Call stack trace:
+L 04/08/2020 - 19:25:11: [SM]   [0] SetFailState
+L 04/08/2020 - 19:25:11: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 04/08/2020 - 19:25:11: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 04/08/2020 - 19:30:34: [SM] Exception reported: Invalid data pack position, 96 is out of bounds (18)
+L 04/08/2020 - 19:30:34: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 19:30:34: [SM] Call stack trace:
+L 04/08/2020 - 19:30:34: [SM]   [0] SetPackPosition
+L 04/08/2020 - 19:30:34: [SM]   [1] Line 1663, hosties/lastrequest.sp::LastRequest_PlayerJump
+L 04/08/2020 - 19:30:35: [SM] Exception reported: Invalid data pack position, 48 is out of bounds (18)
+L 04/08/2020 - 19:30:35: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 19:30:35: [SM] Call stack trace:
+L 04/08/2020 - 19:30:35: [SM]   [0] SetPackPosition
+L 04/08/2020 - 19:30:35: [SM]   [1] Line 2226, hosties/lastrequest.sp::OnWeaponDrop
+L 04/08/2020 - 19:30:36: [SM] Exception reported: Invalid data pack position, 120 is out of bounds (18)
+L 04/08/2020 - 19:30:36: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 19:30:36: [SM] Call stack trace:
+L 04/08/2020 - 19:30:36: [SM]   [0] SetPackPosition
+L 04/08/2020 - 19:30:36: [SM]   [1] Line 1674, hosties/lastrequest.sp::LastRequest_PlayerJump
+L 04/08/2020 - 19:30:37: [SM] Exception reported: Invalid data pack position, 72 is out of bounds (18)
+L 04/08/2020 - 19:30:37: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 19:30:37: [SM] Call stack trace:
+L 04/08/2020 - 19:30:37: [SM]   [0] SetPackPosition
+L 04/08/2020 - 19:30:37: [SM]   [1] Line 2244, hosties/lastrequest.sp::OnWeaponDrop
+L 04/08/2020 - 19:40:47: Error log file session closed.
+L 04/08/2020 - 19:40:47: SourceMod error session started
+L 04/08/2020 - 19:40:47: Info (map "jb_marioworld_rsc") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 19:40:47: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 19:40:47: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 19:40:47: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 19:40:47: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 19:40:47: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 19:40:47: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 19:40:47: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 19:40:47: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 19:40:47: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 19:40:47: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 19:40:47: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 19:40:50: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 19:40:50: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 19:40:50: [SM] Call stack trace:
+L 04/08/2020 - 19:40:50: [SM]   [0] SetFailState
+L 04/08/2020 - 19:40:50: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 19:40:50: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 19:40:51: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/08/2020 - 19:40:51: [SM] Exception reported: Mapcycle Not Found
+L 04/08/2020 - 19:40:51: [SM] Blaming: nextmap.smx
+L 04/08/2020 - 19:40:51: [SM] Call stack trace:
+L 04/08/2020 - 19:40:51: [SM]   [0] SetFailState
+L 04/08/2020 - 19:40:51: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 04/08/2020 - 19:40:51: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 04/08/2020 - 19:55:14: SourceMod error session started
+L 04/08/2020 - 19:55:14: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 19:55:14: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/08/2020 - 19:55:14: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 19:55:14: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 19:55:14: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 19:55:14: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 19:55:14: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 19:55:14: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 19:55:14: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 19:55:14: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 19:55:14: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 19:55:14: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 19:55:14: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 19:55:21: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 19:55:21: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 19:55:21: [SM] Call stack trace:
+L 04/08/2020 - 19:55:21: [SM]   [0] SetFailState
+L 04/08/2020 - 19:55:21: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 19:55:21: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 19:55:23: Error log file session closed.
+L 04/08/2020 - 19:55:40: SourceMod error session started
+L 04/08/2020 - 19:55:40: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 19:55:40: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/08/2020 - 19:55:40: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 19:55:40: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 19:55:40: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 19:55:40: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 19:55:40: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 19:55:40: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 19:55:40: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 19:55:40: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 19:55:40: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 19:55:40: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 19:55:40: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 19:55:44: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 19:55:44: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 19:55:44: [SM] Call stack trace:
+L 04/08/2020 - 19:55:44: [SM]   [0] SetFailState
+L 04/08/2020 - 19:55:44: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 19:55:44: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 19:55:46: Error log file session closed.
+L 04/08/2020 - 19:56:05: Error log file session closed.
+L 04/08/2020 - 19:56:21: SourceMod error session started
+L 04/08/2020 - 19:56:21: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 19:56:21: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/08/2020 - 19:56:21: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 19:56:21: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 19:56:21: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 19:56:21: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 19:56:21: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 19:56:21: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 19:56:21: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 19:56:21: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 19:56:21: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 19:56:21: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 19:56:21: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 19:56:24: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 19:56:24: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 19:56:24: [SM] Call stack trace:
+L 04/08/2020 - 19:56:24: [SM]   [0] SetFailState
+L 04/08/2020 - 19:56:24: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 19:56:24: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 19:56:33: Error log file session closed.
+L 04/08/2020 - 19:56:33: SourceMod error session started
+L 04/08/2020 - 19:56:33: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 19:56:33: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 19:56:33: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 19:56:33: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 19:56:33: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 19:56:33: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 19:56:33: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 19:56:33: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 19:56:33: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 19:56:33: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 19:56:33: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 19:56:33: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 19:56:36: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 19:56:36: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 19:56:36: [SM] Call stack trace:
+L 04/08/2020 - 19:56:36: [SM]   [0] SetFailState
+L 04/08/2020 - 19:56:36: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 19:56:36: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 19:56:36: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/08/2020 - 19:56:36: [SM] Exception reported: Mapcycle Not Found
+L 04/08/2020 - 19:56:36: [SM] Blaming: nextmap.smx
+L 04/08/2020 - 19:56:36: [SM] Call stack trace:
+L 04/08/2020 - 19:56:36: [SM]   [0] SetFailState
+L 04/08/2020 - 19:56:36: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 04/08/2020 - 19:56:36: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 04/08/2020 - 20:18:03: SourceMod error session started
+L 04/08/2020 - 20:18:03: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 20:18:03: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/08/2020 - 20:18:03: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 20:18:03: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 20:18:03: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 20:18:03: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 20:18:03: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 20:18:03: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 20:18:03: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 20:18:03: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 20:18:03: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 20:18:03: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 20:18:03: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 20:18:06: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 20:18:06: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 20:18:06: [SM] Call stack trace:
+L 04/08/2020 - 20:18:06: [SM]   [0] SetFailState
+L 04/08/2020 - 20:18:06: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 20:18:06: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 20:18:15: Error log file session closed.
+L 04/08/2020 - 20:18:31: SourceMod error session started
+L 04/08/2020 - 20:18:31: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 20:18:31: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/08/2020 - 20:18:31: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 20:18:31: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 20:18:31: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 20:18:31: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 20:18:31: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 20:18:31: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 20:18:31: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 20:18:31: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 20:18:31: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 20:18:31: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 20:18:31: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 20:18:34: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 20:18:34: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 20:18:34: [SM] Call stack trace:
+L 04/08/2020 - 20:18:34: [SM]   [0] SetFailState
+L 04/08/2020 - 20:18:34: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 20:18:34: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 20:18:50: Error log file session closed.
+L 04/08/2020 - 20:18:50: SourceMod error session started
+L 04/08/2020 - 20:18:50: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 20:18:50: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 20:18:50: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 20:18:50: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 20:18:50: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 20:18:50: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 20:18:50: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 20:18:50: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 20:18:50: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 20:18:50: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 20:18:50: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 20:18:50: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 20:18:53: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 20:18:53: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 20:18:53: [SM] Call stack trace:
+L 04/08/2020 - 20:18:53: [SM]   [0] SetFailState
+L 04/08/2020 - 20:18:53: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 20:18:53: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 20:18:53: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/08/2020 - 20:18:53: [SM] Exception reported: Mapcycle Not Found
+L 04/08/2020 - 20:18:53: [SM] Blaming: nextmap.smx
+L 04/08/2020 - 20:18:53: [SM] Call stack trace:
+L 04/08/2020 - 20:18:53: [SM]   [0] SetFailState
+L 04/08/2020 - 20:18:53: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 04/08/2020 - 20:18:53: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 04/08/2020 - 20:20:36: Error log file session closed.
+L 04/08/2020 - 20:20:36: SourceMod error session started
+L 04/08/2020 - 20:20:36: Info (map "jb_summer_jail_v3") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 20:20:36: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 20:20:36: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 20:20:36: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 20:20:36: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 20:20:36: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 20:20:36: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 20:20:36: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 20:20:36: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 20:20:36: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 20:20:36: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 20:20:36: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 20:20:40: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 20:20:40: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 20:20:40: [SM] Call stack trace:
+L 04/08/2020 - 20:20:40: [SM]   [0] SetFailState
+L 04/08/2020 - 20:20:40: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 20:20:40: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 20:20:40: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/08/2020 - 20:20:40: [SM] Exception reported: Mapcycle Not Found
+L 04/08/2020 - 20:20:40: [SM] Blaming: nextmap.smx
+L 04/08/2020 - 20:20:40: [SM] Call stack trace:
+L 04/08/2020 - 20:20:40: [SM]   [0] SetFailState
+L 04/08/2020 - 20:20:40: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 04/08/2020 - 20:20:40: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 04/08/2020 - 20:21:35: Error log file session closed.
+L 04/08/2020 - 20:21:35: SourceMod error session started
+L 04/08/2020 - 20:21:35: Info (map "jb_mcrunner_v1") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 20:21:35: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 20:21:35: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 20:21:35: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 20:21:35: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 20:21:35: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 20:21:35: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 20:21:35: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 20:21:35: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 20:21:35: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 20:21:35: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 20:21:35: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 20:21:38: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 20:21:38: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 20:21:38: [SM] Call stack trace:
+L 04/08/2020 - 20:21:38: [SM]   [0] SetFailState
+L 04/08/2020 - 20:21:38: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 20:21:38: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 20:21:38: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/08/2020 - 20:21:38: [SM] Exception reported: Mapcycle Not Found
+L 04/08/2020 - 20:21:38: [SM] Blaming: nextmap.smx
+L 04/08/2020 - 20:21:38: [SM] Call stack trace:
+L 04/08/2020 - 20:21:38: [SM]   [0] SetFailState
+L 04/08/2020 - 20:21:38: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 04/08/2020 - 20:21:38: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 04/08/2020 - 20:22:21: Error log file session closed.
+L 04/08/2020 - 20:22:21: SourceMod error session started
+L 04/08/2020 - 20:22:21: Info (map "jb_clouds_final5") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 20:22:21: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 20:22:21: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 20:22:21: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 20:22:21: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 20:22:21: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 20:22:21: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 20:22:21: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 20:22:21: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 20:22:21: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 20:22:21: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 20:22:21: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 20:22:25: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 20:22:25: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 20:22:25: [SM] Call stack trace:
+L 04/08/2020 - 20:22:25: [SM]   [0] SetFailState
+L 04/08/2020 - 20:22:25: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 20:22:25: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 20:22:25: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/08/2020 - 20:22:25: [SM] Exception reported: Mapcycle Not Found
+L 04/08/2020 - 20:22:25: [SM] Blaming: nextmap.smx
+L 04/08/2020 - 20:22:25: [SM] Call stack trace:
+L 04/08/2020 - 20:22:25: [SM]   [0] SetFailState
+L 04/08/2020 - 20:22:25: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 04/08/2020 - 20:22:25: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 04/08/2020 - 20:25:06: SourceMod error session started
+L 04/08/2020 - 20:25:06: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 20:25:06: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/08/2020 - 20:25:06: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 20:25:06: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 20:25:06: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 20:25:06: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 20:25:06: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 20:25:06: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 20:25:06: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 20:25:06: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 20:25:06: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 20:25:06: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 20:25:06: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 20:25:09: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 20:25:09: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 20:25:09: [SM] Call stack trace:
+L 04/08/2020 - 20:25:09: [SM]   [0] SetFailState
+L 04/08/2020 - 20:25:09: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 20:25:09: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 20:26:42: Error log file session closed.
+L 04/08/2020 - 20:26:42: SourceMod error session started
+L 04/08/2020 - 20:26:42: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 20:26:42: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 20:26:42: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 20:26:42: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 20:26:42: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 20:26:42: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 20:26:42: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 20:26:42: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 20:26:42: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 20:26:42: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 20:26:42: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 20:26:42: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 20:26:45: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 20:26:45: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 20:26:45: [SM] Call stack trace:
+L 04/08/2020 - 20:26:45: [SM]   [0] SetFailState
+L 04/08/2020 - 20:26:45: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 20:26:45: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 20:26:45: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/08/2020 - 20:26:45: [SM] Exception reported: Mapcycle Not Found
+L 04/08/2020 - 20:26:45: [SM] Blaming: nextmap.smx
+L 04/08/2020 - 20:26:45: [SM] Call stack trace:
+L 04/08/2020 - 20:26:45: [SM]   [0] SetFailState
+L 04/08/2020 - 20:26:45: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 04/08/2020 - 20:26:45: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 04/08/2020 - 20:33:13: Error log file session closed.
+L 04/08/2020 - 20:33:29: SourceMod error session started
+L 04/08/2020 - 20:33:29: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 20:33:29: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/08/2020 - 20:33:29: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 20:33:29: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 20:33:29: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 20:33:29: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 20:33:29: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 20:33:29: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 20:33:29: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 20:33:29: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 20:33:29: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 20:33:29: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 20:33:29: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 20:33:33: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 20:33:33: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 20:33:33: [SM] Call stack trace:
+L 04/08/2020 - 20:33:33: [SM]   [0] SetFailState
+L 04/08/2020 - 20:33:33: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 20:33:33: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 20:33:40: Error log file session closed.
+L 04/08/2020 - 20:33:58: SourceMod error session started
+L 04/08/2020 - 20:33:58: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 20:33:58: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/08/2020 - 20:33:58: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 20:33:58: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 20:33:58: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 20:33:58: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 20:33:58: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 20:33:58: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 20:33:58: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 20:33:58: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 20:33:58: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 20:33:58: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 20:33:58: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 20:34:01: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 20:34:01: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 20:34:01: [SM] Call stack trace:
+L 04/08/2020 - 20:34:01: [SM]   [0] SetFailState
+L 04/08/2020 - 20:34:01: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 20:34:01: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 20:34:14: Error log file session closed.
+L 04/08/2020 - 20:34:31: SourceMod error session started
+L 04/08/2020 - 20:34:31: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 20:34:31: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/08/2020 - 20:34:31: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 20:34:31: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 20:34:31: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 20:34:31: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 20:34:31: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 20:34:31: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 20:34:31: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 20:34:31: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 20:34:31: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 20:34:31: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 20:34:31: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 20:34:36: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 20:34:36: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 20:34:36: [SM] Call stack trace:
+L 04/08/2020 - 20:34:36: [SM]   [0] SetFailState
+L 04/08/2020 - 20:34:36: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 20:34:36: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 20:34:44: Error log file session closed.
+L 04/08/2020 - 20:34:44: SourceMod error session started
+L 04/08/2020 - 20:34:44: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 20:34:44: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 20:34:44: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 20:34:44: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 20:34:44: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 20:34:44: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 20:34:44: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 20:34:44: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 20:34:44: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 20:34:44: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 20:34:44: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 20:34:44: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 20:34:47: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 20:34:47: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 20:34:47: [SM] Call stack trace:
+L 04/08/2020 - 20:34:47: [SM]   [0] SetFailState
+L 04/08/2020 - 20:34:47: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 20:34:47: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 20:34:47: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/08/2020 - 20:34:47: [SM] Exception reported: Mapcycle Not Found
+L 04/08/2020 - 20:34:47: [SM] Blaming: nextmap.smx
+L 04/08/2020 - 20:34:47: [SM] Call stack trace:
+L 04/08/2020 - 20:34:47: [SM]   [0] SetFailState
+L 04/08/2020 - 20:34:47: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 04/08/2020 - 20:34:47: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 04/08/2020 - 20:47:58: [SM] Exception reported: Client 4 is not in game
+L 04/08/2020 - 20:47:58: [SM] Blaming: sm_skinchooser.smx
+L 04/08/2020 - 20:47:58: [SM] Call stack trace:
+L 04/08/2020 - 20:47:58: [SM]   [0] PrintHintText
+L 04/08/2020 - 20:47:58: [SM]   [1] Line 2216, E:\csgo\csgo\addons\sourcemod\scripting\sm_skinchooser.sp::CreateMessage
+L 04/08/2020 - 20:49:34: [SM] Exception reported: Client 4 is not in game
+L 04/08/2020 - 20:49:34: [SM] Blaming: sm_skinchooser.smx
+L 04/08/2020 - 20:49:34: [SM] Call stack trace:
+L 04/08/2020 - 20:49:34: [SM]   [0] PrintHintText
+L 04/08/2020 - 20:49:34: [SM]   [1] Line 2216, E:\csgo\csgo\addons\sourcemod\scripting\sm_skinchooser.sp::CreateMessage
+L 04/08/2020 - 21:01:58: Error log file session closed.
+L 04/08/2020 - 21:02:13: SourceMod error session started
+L 04/08/2020 - 21:02:13: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 21:02:13: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/08/2020 - 21:02:13: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 21:02:13: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 21:02:13: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 21:02:13: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 21:02:13: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 21:02:13: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 21:02:13: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 21:02:13: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 21:02:13: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 21:02:13: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 21:02:13: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 21:02:16: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 21:02:16: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 21:02:16: [SM] Call stack trace:
+L 04/08/2020 - 21:02:16: [SM]   [0] SetFailState
+L 04/08/2020 - 21:02:16: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 21:02:16: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 21:02:22: Error log file session closed.
+L 04/08/2020 - 21:02:22: SourceMod error session started
+L 04/08/2020 - 21:02:22: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 21:02:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 21:02:22: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 21:02:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 21:02:22: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 21:02:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 21:02:22: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 21:02:22: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 21:02:22: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 21:02:22: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 21:02:22: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 21:02:22: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 21:02:25: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 21:02:25: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 21:02:25: [SM] Call stack trace:
+L 04/08/2020 - 21:02:25: [SM]   [0] SetFailState
+L 04/08/2020 - 21:02:25: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 21:02:25: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 21:02:25: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/08/2020 - 21:02:25: [SM] Exception reported: Mapcycle Not Found
+L 04/08/2020 - 21:02:25: [SM] Blaming: nextmap.smx
+L 04/08/2020 - 21:02:25: [SM] Call stack trace:
+L 04/08/2020 - 21:02:25: [SM]   [0] SetFailState
+L 04/08/2020 - 21:02:25: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 04/08/2020 - 21:02:25: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 04/08/2020 - 21:09:16: SourceMod error session started
+L 04/08/2020 - 21:09:16: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 21:09:16: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/08/2020 - 21:09:16: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 21:09:16: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 21:09:16: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 21:09:16: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 21:09:16: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 21:09:16: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 21:09:16: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 21:09:16: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 21:09:16: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 21:09:16: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 21:09:16: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 21:09:19: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 21:09:19: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 21:09:19: [SM] Call stack trace:
+L 04/08/2020 - 21:09:19: [SM]   [0] SetFailState
+L 04/08/2020 - 21:09:19: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 21:09:19: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 21:09:39: Error log file session closed.
+L 04/08/2020 - 21:09:39: SourceMod error session started
+L 04/08/2020 - 21:09:39: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 21:09:39: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 21:09:39: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 21:09:39: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 21:09:39: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 21:09:39: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 21:09:39: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 21:09:39: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 21:09:39: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 21:09:39: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 21:09:39: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 21:09:39: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 21:09:42: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 21:09:42: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 21:09:42: [SM] Call stack trace:
+L 04/08/2020 - 21:09:42: [SM]   [0] SetFailState
+L 04/08/2020 - 21:09:42: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 21:09:42: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 21:09:42: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/08/2020 - 21:09:42: [SM] Exception reported: Mapcycle Not Found
+L 04/08/2020 - 21:09:42: [SM] Blaming: nextmap.smx
+L 04/08/2020 - 21:09:42: [SM] Call stack trace:
+L 04/08/2020 - 21:09:42: [SM]   [0] SetFailState
+L 04/08/2020 - 21:09:42: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 04/08/2020 - 21:09:42: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 04/08/2020 - 21:10:47: [SM] Exception reported: Invalid data pack position, 120 is out of bounds (18)
+L 04/08/2020 - 21:10:47: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 21:10:47: [SM] Call stack trace:
+L 04/08/2020 - 21:10:47: [SM]   [0] SetPackPosition
+L 04/08/2020 - 21:10:47: [SM]   [1] Line 1674, hosties/lastrequest.sp::LastRequest_PlayerJump
+L 04/08/2020 - 21:10:51: [SM] Exception reported: Invalid data pack position, 96 is out of bounds (18)
+L 04/08/2020 - 21:10:51: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 21:10:51: [SM] Call stack trace:
+L 04/08/2020 - 21:10:51: [SM]   [0] SetPackPosition
+L 04/08/2020 - 21:10:51: [SM]   [1] Line 1663, hosties/lastrequest.sp::LastRequest_PlayerJump
+L 04/08/2020 - 21:10:57: [SM] Exception reported: Invalid data pack position, 96 is out of bounds (18)
+L 04/08/2020 - 21:10:57: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 21:10:57: [SM] Call stack trace:
+L 04/08/2020 - 21:10:57: [SM]   [0] SetPackPosition
+L 04/08/2020 - 21:10:57: [SM]   [1] Line 1663, hosties/lastrequest.sp::LastRequest_PlayerJump
+L 04/08/2020 - 21:11:05: [SM] Exception reported: Invalid data pack position, 120 is out of bounds (18)
+L 04/08/2020 - 21:11:05: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 21:11:05: [SM] Call stack trace:
+L 04/08/2020 - 21:11:05: [SM]   [0] SetPackPosition
+L 04/08/2020 - 21:11:05: [SM]   [1] Line 1674, hosties/lastrequest.sp::LastRequest_PlayerJump
+L 04/08/2020 - 21:11:06: [SM] Exception reported: Invalid data pack position, 120 is out of bounds (18)
+L 04/08/2020 - 21:11:06: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 21:11:06: [SM] Call stack trace:
+L 04/08/2020 - 21:11:06: [SM]   [0] SetPackPosition
+L 04/08/2020 - 21:11:06: [SM]   [1] Line 1674, hosties/lastrequest.sp::LastRequest_PlayerJump
+L 04/08/2020 - 21:11:08: [SM] Exception reported: Invalid data pack position, 96 is out of bounds (18)
+L 04/08/2020 - 21:11:08: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 21:11:08: [SM] Call stack trace:
+L 04/08/2020 - 21:11:08: [SM]   [0] SetPackPosition
+L 04/08/2020 - 21:11:08: [SM]   [1] Line 1663, hosties/lastrequest.sp::LastRequest_PlayerJump
+L 04/08/2020 - 21:11:12: [SM] Exception reported: Invalid data pack position, 72 is out of bounds (18)
+L 04/08/2020 - 21:11:12: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 21:11:12: [SM] Call stack trace:
+L 04/08/2020 - 21:11:12: [SM]   [0] SetPackPosition
+L 04/08/2020 - 21:11:12: [SM]   [1] Line 2244, hosties/lastrequest.sp::OnWeaponDrop
+L 04/08/2020 - 22:05:10: Error log file session closed.
+L 04/08/2020 - 22:05:10: SourceMod error session started
+L 04/08/2020 - 22:05:10: Info (map "jb_spy_vs_spy_beta7") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 22:05:10: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 22:05:10: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 22:05:10: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 22:05:10: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 22:05:10: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 22:05:10: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 22:05:10: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 22:05:10: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 22:05:10: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 22:05:10: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 22:05:10: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 22:05:13: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 22:05:13: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 22:05:13: [SM] Call stack trace:
+L 04/08/2020 - 22:05:13: [SM]   [0] SetFailState
+L 04/08/2020 - 22:05:13: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 22:05:13: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 22:05:13: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/08/2020 - 22:05:13: [SM] Exception reported: Mapcycle Not Found
+L 04/08/2020 - 22:05:13: [SM] Blaming: nextmap.smx
+L 04/08/2020 - 22:05:13: [SM] Call stack trace:
+L 04/08/2020 - 22:05:13: [SM]   [0] SetFailState
+L 04/08/2020 - 22:05:13: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 04/08/2020 - 22:05:13: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 04/08/2020 - 22:07:25: [SM] Exception reported: Invalid data pack position, 96 is out of bounds (18)
+L 04/08/2020 - 22:07:25: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 22:07:25: [SM] Call stack trace:
+L 04/08/2020 - 22:07:25: [SM]   [0] SetPackPosition
+L 04/08/2020 - 22:07:25: [SM]   [1] Line 1663, hosties/lastrequest.sp::LastRequest_PlayerJump
+L 04/08/2020 - 22:07:31: [SM] Exception reported: Invalid data pack position, 96 is out of bounds (18)
+L 04/08/2020 - 22:07:31: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 22:07:31: [SM] Call stack trace:
+L 04/08/2020 - 22:07:31: [SM]   [0] SetPackPosition
+L 04/08/2020 - 22:07:31: [SM]   [1] Line 1663, hosties/lastrequest.sp::LastRequest_PlayerJump
+L 04/08/2020 - 22:07:32: [SM] Exception reported: Invalid data pack position, 48 is out of bounds (18)
+L 04/08/2020 - 22:07:32: [SM] Blaming: sm_hosties.smx
+L 04/08/2020 - 22:07:32: [SM] Call stack trace:
+L 04/08/2020 - 22:07:32: [SM]   [0] SetPackPosition
+L 04/08/2020 - 22:07:32: [SM]   [1] Line 2226, hosties/lastrequest.sp::OnWeaponDrop
+L 04/08/2020 - 22:49:59: Error log file session closed.
+L 04/08/2020 - 22:50:00: SourceMod error session started
+L 04/08/2020 - 22:50:00: Info (map "jb_spy_vs_spy_beta7") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 22:50:00: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 22:50:00: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 22:50:00: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 22:50:00: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 22:50:00: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 22:50:00: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 22:50:00: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 22:50:00: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 22:50:00: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 22:50:00: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 22:50:00: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 22:50:03: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 22:50:03: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 22:50:03: [SM] Call stack trace:
+L 04/08/2020 - 22:50:03: [SM]   [0] SetFailState
+L 04/08/2020 - 22:50:03: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 22:50:03: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 22:50:03: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/08/2020 - 22:50:03: [SM] Exception reported: Mapcycle Not Found
+L 04/08/2020 - 22:50:03: [SM] Blaming: nextmap.smx
+L 04/08/2020 - 22:50:03: [SM] Call stack trace:
+L 04/08/2020 - 22:50:03: [SM]   [0] SetFailState
+L 04/08/2020 - 22:50:03: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 04/08/2020 - 22:50:03: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 04/08/2020 - 22:50:30: Error log file session closed.
+L 04/08/2020 - 22:50:30: SourceMod error session started
+L 04/08/2020 - 22:50:30: Info (map "jb_hostile2_default") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 22:50:30: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 22:50:30: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 22:50:30: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 22:50:30: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 22:50:30: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 22:50:30: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 22:50:30: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 22:50:30: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 22:50:30: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 22:50:30: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 22:50:30: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 22:50:33: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 22:50:33: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 22:50:33: [SM] Call stack trace:
+L 04/08/2020 - 22:50:33: [SM]   [0] SetFailState
+L 04/08/2020 - 22:50:33: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 22:50:33: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 22:50:33: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/08/2020 - 22:50:33: [SM] Exception reported: Mapcycle Not Found
+L 04/08/2020 - 22:50:33: [SM] Blaming: nextmap.smx
+L 04/08/2020 - 22:50:33: [SM] Call stack trace:
+L 04/08/2020 - 22:50:33: [SM]   [0] SetFailState
+L 04/08/2020 - 22:50:33: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 04/08/2020 - 22:50:33: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 04/08/2020 - 22:50:38: Error log file session closed.
+L 04/08/2020 - 22:50:38: SourceMod error session started
+L 04/08/2020 - 22:50:38: Info (map "jb_marioworld_rsc") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 22:50:38: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 22:50:38: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 22:50:38: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 22:50:38: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 22:50:38: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 22:50:38: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 22:50:38: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 22:50:38: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 22:50:38: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 22:50:38: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 22:50:38: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 22:50:41: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 22:50:41: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 22:50:41: [SM] Call stack trace:
+L 04/08/2020 - 22:50:41: [SM]   [0] SetFailState
+L 04/08/2020 - 22:50:41: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 22:50:41: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 22:50:42: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/08/2020 - 22:50:42: [SM] Exception reported: Mapcycle Not Found
+L 04/08/2020 - 22:50:42: [SM] Blaming: nextmap.smx
+L 04/08/2020 - 22:50:42: [SM] Call stack trace:
+L 04/08/2020 - 22:50:42: [SM]   [0] SetFailState
+L 04/08/2020 - 22:50:42: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 04/08/2020 - 22:50:42: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 04/08/2020 - 23:05:09: [SM] Exception reported: Client 2 is not connected
+L 04/08/2020 - 23:05:09: [SM] Blaming: sm_skinchooser.smx
+L 04/08/2020 - 23:05:09: [SM] Call stack trace:
+L 04/08/2020 - 23:05:09: [SM]   [0] IsFakeClient
+L 04/08/2020 - 23:05:09: [SM]   [1] Line 1903, E:\csgo\csgo\addons\sourcemod\scripting\sm_skinchooser.sp::PlayerModel
+L 04/08/2020 - 23:35:14: Error log file session closed.
+L 04/08/2020 - 23:35:14: SourceMod error session started
+L 04/08/2020 - 23:35:14: Info (map "ba_2016_minecraft_beta5") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 23:35:14: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 23:35:14: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 23:35:14: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 23:35:14: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 23:35:14: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 23:35:14: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 23:35:14: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 23:35:14: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 23:35:14: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 23:35:14: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 23:35:14: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 23:44:58: SourceMod error session started
+L 04/08/2020 - 23:44:58: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 23:44:58: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/08/2020 - 23:44:58: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 23:44:58: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 23:44:58: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 23:44:58: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 23:44:58: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 23:44:58: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 23:44:58: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 23:44:58: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 23:44:58: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 23:44:58: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 23:44:58: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 23:45:01: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 23:45:01: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 23:45:01: [SM] Call stack trace:
+L 04/08/2020 - 23:45:01: [SM]   [0] SetFailState
+L 04/08/2020 - 23:45:01: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 23:45:01: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 23:45:09: Error log file session closed.
+L 04/08/2020 - 23:45:09: SourceMod error session started
+L 04/08/2020 - 23:45:09: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 23:45:09: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 23:45:09: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 23:45:09: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 23:45:09: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 23:45:09: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 23:45:09: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 23:45:09: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 23:45:09: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 23:45:09: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 23:45:09: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 23:45:09: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 23:45:12: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 23:45:12: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 23:45:12: [SM] Call stack trace:
+L 04/08/2020 - 23:45:12: [SM]   [0] SetFailState
+L 04/08/2020 - 23:45:12: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 23:45:12: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 23:45:12: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/08/2020 - 23:45:12: [SM] Exception reported: Mapcycle Not Found
+L 04/08/2020 - 23:45:12: [SM] Blaming: nextmap.smx
+L 04/08/2020 - 23:45:12: [SM] Call stack trace:
+L 04/08/2020 - 23:45:12: [SM]   [0] SetFailState
+L 04/08/2020 - 23:45:12: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 04/08/2020 - 23:45:12: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 04/08/2020 - 23:52:42: Error log file session closed.
+L 04/08/2020 - 23:52:58: SourceMod error session started
+L 04/08/2020 - 23:52:58: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 23:52:58: [SM] Unable to load plugin "cmenu.smx": Native "EJBW_IsClientWarden" was not found
+L 04/08/2020 - 23:52:58: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 23:52:58: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 23:52:58: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 23:52:58: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 23:52:58: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 23:52:58: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 23:52:58: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 23:52:58: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 23:52:58: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 23:52:58: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 23:52:58: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 23:53:01: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 23:53:01: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 23:53:01: [SM] Call stack trace:
+L 04/08/2020 - 23:53:01: [SM]   [0] SetFailState
+L 04/08/2020 - 23:53:01: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 23:53:01: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 23:53:15: Error log file session closed.
+L 04/08/2020 - 23:53:15: SourceMod error session started
+L 04/08/2020 - 23:53:15: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200408.log")
+L 04/08/2020 - 23:53:15: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_overrides.cfg
+L 04/08/2020 - 23:53:15: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 23:53:15: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 04/08/2020 - 23:53:15: [admin-flatfile.smx]  (line 0) Stream failed to open
+L 04/08/2020 - 23:53:15: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 04/08/2020 - 23:53:15: [admin-flatfile.smx]  (line 45) Unknown group "Admins"
+L 04/08/2020 - 23:53:15: [admin-flatfile.smx]  (line 54) Unknown group "Admins"
+L 04/08/2020 - 23:53:15: [admin-flatfile.smx]  (line 63) Unknown group "Admins"
+L 04/08/2020 - 23:53:15: [admin-flatfile.smx]  (line 72) Unknown group "Admins"
+L 04/08/2020 - 23:53:15: [admin-flatfile.smx]  (line 81) Unknown group "Admins"
+L 04/08/2020 - 23:53:15: [admin-flatfile.smx]  (line 89) Unknown group "Admins"
+L 04/08/2020 - 23:53:18: [SM] Exception reported: Fatal error: Missing "Terrorists" section!
+L 04/08/2020 - 23:53:18: [SM] Blaming: csgo_skins.smx
+L 04/08/2020 - 23:53:18: [SM] Call stack trace:
+L 04/08/2020 - 23:53:18: [SM]   [0] SetFailState
+L 04/08/2020 - 23:53:18: [SM]   [1] Line 342, C:\csgo_skins.sp::PrepareConfig
+L 04/08/2020 - 23:53:18: [SM]   [2] Line 120, C:\csgo_skins.sp::OnMapStart
+L 04/08/2020 - 23:53:18: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 04/08/2020 - 23:53:18: [SM] Exception reported: Mapcycle Not Found
+L 04/08/2020 - 23:53:18: [SM] Blaming: nextmap.smx
+L 04/08/2020 - 23:53:18: [SM] Call stack trace:
+L 04/08/2020 - 23:53:18: [SM]   [0] SetFailState
+L 04/08/2020 - 23:53:18: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 04/08/2020 - 23:53:18: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 04/09/2020 - 00:20:36: Error log file session closed.

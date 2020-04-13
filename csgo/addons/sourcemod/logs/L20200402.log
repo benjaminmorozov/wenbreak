@@ -1,0 +1,284 @@
+L 04/02/2020 - 18:44:55: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200402.log") (Version "1.10.0.6478")
+L 04/02/2020 - 18:44:55: -------- Mapchange to jb_obama_v5_beta --------
+L 04/02/2020 - 21:39:21: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200402.log") (Version "1.10.0.6478")
+L 04/02/2020 - 21:39:21: -------- Mapchange to jb_obama_v5_beta --------
+L 04/02/2020 - 21:43:30: [sm_hosties.smx] "MilkA<4><STEAM_1:0:242076907><>" respawned "MilkA<4><STEAM_1:0:242076907><>"
+L 04/02/2020 - 21:44:12: [playercommands.smx] "Mrdkožrout<3><STEAM_1:1:527843285><>" slapped "✪Pesiʕ•ᴥ•ʔ (Sáruš)<6><STEAM_1:0:526491992><>" (damage "0")
+L 04/02/2020 - 21:44:13: [playercommands.smx] "Mrdkožrout<3><STEAM_1:1:527843285><>" slapped "✪Pesiʕ•ᴥ•ʔ (Sáruš)<6><STEAM_1:0:526491992><>" (damage "0")
+L 04/02/2020 - 21:44:13: [playercommands.smx] "Mrdkožrout<3><STEAM_1:1:527843285><>" slapped "✪Pesiʕ•ᴥ•ʔ (Sáruš)<6><STEAM_1:0:526491992><>" (damage "0")
+L 04/02/2020 - 21:44:13: [playercommands.smx] "Mrdkožrout<3><STEAM_1:1:527843285><>" slapped "✪Pesiʕ•ᴥ•ʔ (Sáruš)<6><STEAM_1:0:526491992><>" (damage "0")
+L 04/02/2020 - 21:44:13: [playercommands.smx] "Mrdkožrout<3><STEAM_1:1:527843285><>" slapped "✪Pesiʕ•ᴥ•ʔ (Sáruš)<6><STEAM_1:0:526491992><>" (damage "0")
+L 04/02/2020 - 21:44:13: [playercommands.smx] "Mrdkožrout<3><STEAM_1:1:527843285><>" slapped "✪Pesiʕ•ᴥ•ʔ (Sáruš)<6><STEAM_1:0:526491992><>" (damage "0")
+L 04/02/2020 - 21:44:14: [playercommands.smx] "Mrdkožrout<3><STEAM_1:1:527843285><>" slapped "✪Pesiʕ•ᴥ•ʔ (Sáruš)<6><STEAM_1:0:526491992><>" (damage "0")
+L 04/02/2020 - 21:44:14: [playercommands.smx] "Mrdkožrout<3><STEAM_1:1:527843285><>" slapped "✪Pesiʕ•ᴥ•ʔ (Sáruš)<6><STEAM_1:0:526491992><>" (damage "0")
+L 04/02/2020 - 21:44:14: [playercommands.smx] "Mrdkožrout<3><STEAM_1:1:527843285><>" slapped "✪Pesiʕ•ᴥ•ʔ (Sáruš)<6><STEAM_1:0:526491992><>" (damage "0")
+L 04/02/2020 - 21:44:14: [playercommands.smx] "Mrdkožrout<3><STEAM_1:1:527843285><>" slapped "✪Pesiʕ•ᴥ•ʔ (Sáruš)<6><STEAM_1:0:526491992><>" (damage "0")
+L 04/02/2020 - 21:44:14: [playercommands.smx] "Mrdkožrout<3><STEAM_1:1:527843285><>" slapped "✪Pesiʕ•ᴥ•ʔ (Sáruš)<6><STEAM_1:0:526491992><>" (damage "0")
+L 04/02/2020 - 21:44:50: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "Blade<7><STEAM_1:1:454998401><>"
+L 04/02/2020 - 21:46:53: [funcommands.smx] "Blade<7><STEAM_1:1:454998401><>" toggled noclip on "Blade<7><STEAM_1:1:454998401><>"
+L 04/02/2020 - 21:46:55: [funcommands.smx] "Blade<7><STEAM_1:1:454998401><>" toggled noclip on "Blade<7><STEAM_1:1:454998401><>"
+L 04/02/2020 - 21:46:55: [funcommands.smx] "Blade<7><STEAM_1:1:454998401><>" toggled noclip on "Blade<7><STEAM_1:1:454998401><>"
+L 04/02/2020 - 21:48:09: [funcommands.smx] "MilkA<4><STEAM_1:0:242076907><>" set a TimeBomb on "Smoweday<5><STEAM_1:0:505070462><>"
+L 04/02/2020 - 21:48:17: [funcommands.smx] "Smoweday<5><STEAM_1:0:505070462><>" removed a TimeBomb on "Smoweday<5><STEAM_1:0:505070462><>"
+L 04/02/2020 - 21:48:20: [funcommands.smx] "Mrdkožrout<3><STEAM_1:1:527843285><>" set a beacon on "MilkA<4><STEAM_1:0:242076907><>"
+L 04/02/2020 - 21:48:20: [funcommands.smx] "Smoweday<5><STEAM_1:0:505070462><>" set a TimeBomb on "MilkA<4><STEAM_1:0:242076907><>"
+L 04/02/2020 - 21:48:21: [funcommands.smx] "Mrdkožrout<3><STEAM_1:1:527843285><>" set a beacon on "Smoweday<5><STEAM_1:0:505070462><>"
+L 04/02/2020 - 21:48:21: [funcommands.smx] "Mrdkožrout<3><STEAM_1:1:527843285><>" set a beacon on "✪Pesiʕ•ᴥ•ʔ (Sáruš)<6><STEAM_1:0:526491992><>"
+L 04/02/2020 - 21:48:21: [funcommands.smx] "Mrdkožrout<3><STEAM_1:1:527843285><>" set a beacon on "Blade<7><STEAM_1:1:454998401><>"
+L 04/02/2020 - 21:48:38: [sm_hosties.smx] "MilkA<4><STEAM_1:0:242076907><>" respawned "MilkA<4><STEAM_1:0:242076907><>"
+L 04/02/2020 - 21:48:39: [sm_hosties.smx] "MilkA<4><STEAM_1:0:242076907><>" respawned "Blade<7><STEAM_1:1:454998401><>"
+L 04/02/2020 - 21:49:27: [movecommands.smx] "Smoweday<5><STEAM_1:0:505070462><>" was moved to CT by "Smoweday<5><STEAM_1:0:505070462><>"
+L 04/02/2020 - 21:49:35: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "Smoweday<5><STEAM_1:0:505070462><>"
+L 04/02/2020 - 21:51:03: [playercommands.smx] "MilkA<4><STEAM_1:0:242076907><>" slayed "Blade<7><STEAM_1:1:454998401><>"
+L 04/02/2020 - 21:51:10: [basecomm.smx] "MilkA<4><STEAM_1:0:242076907><>" gagged "Blade<7><STEAM_1:1:454998401><>"
+L 04/02/2020 - 21:51:15: [basecomm.smx] "MilkA<4><STEAM_1:0:242076907><>" ungagged "Blade<7><STEAM_1:1:454998401><>"
+L 04/02/2020 - 21:51:16: [basecomm.smx] "Blade<7><STEAM_1:1:454998401><>" ungagged "Blade<7><STEAM_1:1:454998401><>"
+L 04/02/2020 - 21:51:24: [basecomm.smx] "Blade<7><STEAM_1:1:454998401><>" gagged "MilkA<4><STEAM_1:0:242076907><>"
+L 04/02/2020 - 21:51:30: [basecomm.smx] "Blade<7><STEAM_1:1:454998401><>" ungagged "MilkA<4><STEAM_1:0:242076907><>"
+L 04/02/2020 - 21:52:12: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "Smoweday<5><STEAM_1:0:505070462><>"
+L 04/02/2020 - 21:52:19: [funcommands.smx] "Blade<7><STEAM_1:1:454998401><>" toggled noclip on "Smoweday<5><STEAM_1:0:505070462><>"
+L 04/02/2020 - 21:52:19: [funcommands.smx] "Blade<7><STEAM_1:1:454998401><>" toggled noclip on "Smoweday<5><STEAM_1:0:505070462><>"
+L 04/02/2020 - 21:52:20: [funcommands.smx] "Blade<7><STEAM_1:1:454998401><>" toggled noclip on "Blade<7><STEAM_1:1:454998401><>"
+L 04/02/2020 - 21:52:26: [funcommands.smx] "MilkA<4><STEAM_1:0:242076907><>" toggled noclip on "MilkA<4><STEAM_1:0:242076907><>"
+L 04/02/2020 - 21:52:30: [funcommands.smx] "Blade<7><STEAM_1:1:454998401><>" toggled noclip on "MilkA<4><STEAM_1:0:242076907><>"
+L 04/02/2020 - 21:52:37: [funcommands.smx] "MilkA<4><STEAM_1:0:242076907><>" toggled noclip on "MilkA<4><STEAM_1:0:242076907><>"
+L 04/02/2020 - 21:52:42: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "Smoweday<5><STEAM_1:0:505070462><>"
+L 04/02/2020 - 21:52:51: [playercommands.smx] "Smoweday<5><STEAM_1:0:505070462><>" slayed "MilkA<4><STEAM_1:0:242076907><>"
+L 04/02/2020 - 21:52:54: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "MilkA<4><STEAM_1:0:242076907><>"
+L 04/02/2020 - 21:52:54: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "Smoweday<5><STEAM_1:0:505070462><>"
+L 04/02/2020 - 21:53:56: [basevotes.smx] "Blade<7><STEAM_1:1:454998401><>" initiated a ban vote against "MilkA<4><STEAM_1:0:242076907><>"
+L 04/02/2020 - 21:54:07: [basebans.smx] "MilkA<4><STEAM_1:0:242076907><>" banned "Blade<7><STEAM_1:1:454998401><>" (minutes "0") (reason "")
+L 04/02/2020 - 21:54:16: [basevotes.smx] Vote failed.
+L 04/02/2020 - 21:54:19: [basebans.smx] "Smoweday<5><STEAM_1:0:505070462><>" removed ban (filter "blade")
+L 04/02/2020 - 21:54:25: [basebans.smx] "MilkA<4><STEAM_1:0:242076907><>" removed ban (filter "blade")
+L 04/02/2020 - 21:55:08: [sm_hosties.smx] "Smoweday<5><STEAM_1:0:505070462><>" respawned "Smoweday<5><STEAM_1:0:505070462><>"
+L 04/02/2020 - 21:56:04: [sm_hosties.smx] "MilkA<13><STEAM_1:0:242076907><>" respawned "MilkA<13><STEAM_1:0:242076907><>"
+L 04/02/2020 - 22:14:14: Log file closed.
+L 04/02/2020 - 22:15:20: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200402.log") (Version "1.10.0.6478")
+L 04/02/2020 - 22:15:20: -------- Mapchange to jb_obama_v5_beta --------
+L 04/02/2020 - 22:16:21: Log file closed.
+L 04/02/2020 - 22:19:34: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200402.log") (Version "1.10.0.6478")
+L 04/02/2020 - 22:19:34: -------- Mapchange to jb_obama_v5_beta --------
+L 04/02/2020 - 22:27:45: [basecommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" changed map to "ba_jail_electric_vip_v2"
+L 04/02/2020 - 22:27:48: [SM] Changed map to "ba_jail_electric_vip_v2"
+L 04/02/2020 - 22:27:50: -------- Mapchange to ba_jail_electric_vip_v2 --------
+L 04/02/2020 - 22:27:59: Log file closed.
+L 04/02/2020 - 22:28:24: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200402.log") (Version "1.10.0.6478")
+L 04/02/2020 - 22:28:24: -------- Mapchange to jb_obama_v5_beta --------
+L 04/02/2020 - 22:28:41: [basecommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" changed map to "ba_jail_electric_vip_v2"
+L 04/02/2020 - 22:28:44: [SM] Changed map to "ba_jail_electric_vip_v2"
+L 04/02/2020 - 22:28:46: -------- Mapchange to ba_jail_electric_vip_v2 --------
+L 04/02/2020 - 22:29:05: -------- Mapchange to ba_jail_electric_vip_v2 --------
+L 04/02/2020 - 22:29:22: -------- Mapchange to ba_jail_electric_vip_v2 --------
+L 04/02/2020 - 22:30:48: -------- Mapchange to ba_jail_electric_vip_v2 --------
+L 04/02/2020 - 22:30:59: Log file closed.
+L 04/02/2020 - 22:31:20: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200402.log") (Version "1.10.0.6478")
+L 04/02/2020 - 22:31:20: -------- Mapchange to jb_obama_v5_beta --------
+L 04/02/2020 - 22:32:11: [basecommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" changed map to "jb_spy_vs_spy_beta7"
+L 04/02/2020 - 22:32:14: [SM] Changed map to "jb_spy_vs_spy_beta7"
+L 04/02/2020 - 22:32:16: -------- Mapchange to jb_spy_vs_spy_beta7 --------
+L 04/02/2020 - 22:33:10: [basecommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" changed map to "ba_jail_electric_vip_v2"
+L 04/02/2020 - 22:33:13: [SM] Changed map to "ba_jail_electric_vip_v2"
+L 04/02/2020 - 22:33:14: -------- Mapchange to ba_jail_electric_vip_v2 --------
+L 04/02/2020 - 22:33:59: Log file closed.
+L 04/02/2020 - 22:34:27: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200402.log") (Version "1.10.0.6478")
+L 04/02/2020 - 22:34:27: -------- Mapchange to jb_obama_v5_beta --------
+L 04/02/2020 - 22:35:16: [basecommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" changed map to "jb_spy_vs_spy_beta7"
+L 04/02/2020 - 22:35:19: [SM] Changed map to "jb_spy_vs_spy_beta7"
+L 04/02/2020 - 22:35:20: -------- Mapchange to jb_spy_vs_spy_beta7 --------
+L 04/02/2020 - 22:36:16: [basecommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" changed map to "jb_lego_prison_v1"
+L 04/02/2020 - 22:36:19: [SM] Changed map to "jb_lego_prison_v1"
+L 04/02/2020 - 22:36:21: -------- Mapchange to jb_lego_prison_v1 --------
+L 04/02/2020 - 22:39:16: Log file closed.
+L 04/02/2020 - 22:40:22: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200402.log") (Version "1.10.0.6478")
+L 04/02/2020 - 22:40:22: -------- Mapchange to jb_obama_v5_beta --------
+L 04/02/2020 - 22:41:20: [sm_hosties.smx] "MilkA<5><STEAM_1:0:242076907><>" respawned "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 22:41:20: [basecommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" changed map to "jb_lego_jail_v8"
+L 04/02/2020 - 22:41:23: [SM] Changed map to "jb_lego_jail_v8"
+L 04/02/2020 - 22:41:24: -------- Mapchange to jb_lego_jail_v8 --------
+L 04/02/2020 - 22:42:08: Log file closed.
+L 04/02/2020 - 22:44:19: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200402.log") (Version "1.10.0.6478")
+L 04/02/2020 - 22:44:19: -------- Mapchange to jb_obama_v5_beta --------
+L 04/02/2020 - 22:44:48: [sm_hosties.smx] "Smoweday<4><STEAM_1:0:505070462><>" respawned "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/02/2020 - 22:44:55: [basecommands.smx] "MilkA<3><STEAM_1:0:242076907><>" changed map to "jb_mcrunner_v1"
+L 04/02/2020 - 22:44:58: [SM] Changed map to "jb_mcrunner_v1"
+L 04/02/2020 - 22:44:59: -------- Mapchange to jb_mcrunner_v1 --------
+L 04/02/2020 - 22:46:00: [extendedcomm.smx] Smoweday<4><STEAM_1:0:505070462><> issued an extended gag on MilkA<3><STEAM_1:0:242076907><> for 5 minutes.
+L 04/02/2020 - 22:46:28: [extendedcomm.smx] Smoweday<4><STEAM_1:0:505070462><> removed an extended gag for 5 minutes from MilkA<3><STEAM_1:0:242076907><>.
+L 04/02/2020 - 22:46:34: [extendedcomm.smx] MilkA<3><STEAM_1:0:242076907><> issued a temporary gag on Smoweday<4><STEAM_1:0:505070462><>.
+L 04/02/2020 - 22:46:35: [extendedcomm.smx] Smoweday<4><STEAM_1:0:505070462><> issued an extended gag on MilkA<3><STEAM_1:0:242076907><> for 1 minutes.
+L 04/02/2020 - 22:47:28: [extendedcomm.smx] Smoweday<4><STEAM_1:0:505070462><> removed a temporary gag from Smoweday<4><STEAM_1:0:505070462><>.
+L 04/02/2020 - 22:49:12: [basecomm.smx] "MilkA<3><STEAM_1:0:242076907><>" gagged "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/02/2020 - 22:50:13: Log file closed.
+L 04/02/2020 - 22:51:05: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200402.log") (Version "1.10.0.6478")
+L 04/02/2020 - 22:51:05: -------- Mapchange to jb_obama_v5_beta --------
+L 04/02/2020 - 22:51:36: -------- Mapchange to jb_obama_v5_beta --------
+L 04/02/2020 - 22:52:50: Log file closed.
+L 04/02/2020 - 22:57:16: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200402.log") (Version "1.10.0.6478")
+L 04/02/2020 - 22:57:16: -------- Mapchange to de_dust2 --------
+L 04/02/2020 - 22:59:12: [sm_hosties.smx] "MilkA<5><STEAM_1:0:242076907><>" respawned "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:00:03: [basecommands.smx] "MilkA<5><STEAM_1:0:242076907><>" refreshed the admin cache.
+L 04/02/2020 - 23:01:10: [basecommands.smx] "Mrdkožrout<2><STEAM_1:1:527843285><>" changed map to "jb_obama_v5_beta"
+L 04/02/2020 - 23:01:13: [SM] Changed map to "jb_obama_v5_beta"
+L 04/02/2020 - 23:01:15: -------- Mapchange to jb_obama_v5_beta --------
+L 04/02/2020 - 23:02:15: [basecommands.smx] "MilkA<5><STEAM_1:0:242076907><>" changed map to "jb_marioworld_rsc"
+L 04/02/2020 - 23:02:18: [SM] Changed map to "jb_marioworld_rsc"
+L 04/02/2020 - 23:02:20: -------- Mapchange to jb_marioworld_rsc --------
+L 04/02/2020 - 23:04:00: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:04:11: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:04:34: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:04:39: [funcommands.smx] "Smoweday<8><STEAM_1:0:505070462><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:04:40: [funcommands.smx] "Smoweday<8><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<8><STEAM_1:0:505070462><>"
+L 04/02/2020 - 23:04:40: [funcommands.smx] "Smoweday<8><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<8><STEAM_1:0:505070462><>"
+L 04/02/2020 - 23:04:42: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:04:43: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:04:48: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:04:53: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:05:01: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:05:10: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:05:16: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:05:20: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:05:49: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:05:53: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:06:04: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:06:19: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:06:24: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:06:29: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:06:59: [funcommands.smx] "Smoweday<8><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<8><STEAM_1:0:505070462><>"
+L 04/02/2020 - 23:07:01: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:07:02: [funcommands.smx] "Smoweday<8><STEAM_1:0:505070462><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:07:02: [funcommands.smx] "Smoweday<8><STEAM_1:0:505070462><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:07:03: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:07:13: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:07:15: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:07:22: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:07:24: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:07:47: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:07:49: [funcommands.smx] "Smoweday<8><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<8><STEAM_1:0:505070462><>"
+L 04/02/2020 - 23:07:51: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:07:52: [funcommands.smx] "Smoweday<8><STEAM_1:0:505070462><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:07:53: [funcommands.smx] "Smoweday<8><STEAM_1:0:505070462><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:07:56: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:08:00: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:08:00: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:08:01: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:08:03: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:08:06: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:08:07: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:08:14: [funcommands.smx] "Smoweday<8><STEAM_1:0:505070462><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:08:15: [funcommands.smx] "Smoweday<8><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<8><STEAM_1:0:505070462><>"
+L 04/02/2020 - 23:08:16: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:08:18: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:08:25: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:08:35: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:08:39: [funcommands.smx] "Smoweday<8><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<8><STEAM_1:0:505070462><>"
+L 04/02/2020 - 23:08:59: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:09:00: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:09:01: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:09:02: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:09:09: [funcommands.smx] "Smoweday<8><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<8><STEAM_1:0:505070462><>"
+L 04/02/2020 - 23:09:11: [funcommands.smx] "Smoweday<8><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<8><STEAM_1:0:505070462><>"
+L 04/02/2020 - 23:09:11: [funcommands.smx] "Smoweday<8><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<8><STEAM_1:0:505070462><>"
+L 04/02/2020 - 23:09:12: [funcommands.smx] "Smoweday<8><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<8><STEAM_1:0:505070462><>"
+L 04/02/2020 - 23:09:27: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:09:42: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:10:01: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "Smoweday<8><STEAM_1:0:505070462><>"
+L 04/02/2020 - 23:10:02: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "Smoweday<8><STEAM_1:0:505070462><>"
+L 04/02/2020 - 23:10:17: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:10:17: [basecommands.smx] "Smoweday<8><STEAM_1:0:505070462><>" refreshed the admin cache.
+L 04/02/2020 - 23:10:30: [funcommands.smx] "Smoweday<8><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<8><STEAM_1:0:505070462><>"
+L 04/02/2020 - 23:10:36: [funcommands.smx] "Smoweday<8><STEAM_1:0:505070462><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:10:37: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:10:38: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:10:39: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "Smoweday<8><STEAM_1:0:505070462><>"
+L 04/02/2020 - 23:10:41: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "Smoweday<8><STEAM_1:0:505070462><>"
+L 04/02/2020 - 23:10:44: [funcommands.smx] "Smoweday<8><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<8><STEAM_1:0:505070462><>"
+L 04/02/2020 - 23:10:49: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:10:50: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:11:15: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:11:22: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:11:23: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:11:24: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:11:31: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:11:32: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:12:08: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:12:17: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:12:30: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:12:31: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:13:32: [funcommands.smx] "Smoweday<8><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<8><STEAM_1:0:505070462><>"
+L 04/02/2020 - 23:13:44: [funcommands.smx] "Smoweday<8><STEAM_1:0:505070462><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:13:44: [funcommands.smx] "Smoweday<8><STEAM_1:0:505070462><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:13:52: [funcommands.smx] "Smoweday<8><STEAM_1:0:505070462><>" set a beacon on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:20:06: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:20:22: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:22:04: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:22:05: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:22:15: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:22:25: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:22:33: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:23:33: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:23:46: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:24:13: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:24:14: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:24:15: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:24:15: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:24:28: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:24:31: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:24:47: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:24:48: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:24:50: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:24:52: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:24:54: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:25:30: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:25:59: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:17: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:18: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:21: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:21: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:22: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:22: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:23: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:24: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:25: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:25: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:26: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:27: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:30: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:31: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:35: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:36: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:38: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:38: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:42: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:43: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:44: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:45: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:46: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:47: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:48: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:48: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:49: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:50: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:51: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:51: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:52: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:53: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:54: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:55: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:56: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:57: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:58: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:26:59: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:27:03: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:27:04: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:27:08: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:27:09: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:27:21: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:27:22: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:27:24: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:27:41: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:27:42: [funcommands.smx] "MilkA<5><STEAM_1:0:242076907><>" toggled noclip on "MilkA<5><STEAM_1:0:242076907><>"
+L 04/02/2020 - 23:56:34: Log file closed.
+L 04/02/2020 - 23:57:36: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200402.log") (Version "1.10.0.6478")
+L 04/02/2020 - 23:57:36: -------- Mapchange to jb_obama_v5_beta --------
+L 04/03/2020 - 00:02:07: Log file closed.

@@ -1,0 +1,15 @@
+L 04/02/2020 - 22:46:00: Smoweday<4><STEAM_1:0:505070462><> issued an extended gag on MilkA<3><STEAM_1:0:242076907><> for 5 minutes.
+L 04/02/2020 - 22:46:28: Smoweday<4><STEAM_1:0:505070462><> removed an extended gag for 5 minutes from MilkA<3><STEAM_1:0:242076907><>.
+L 04/02/2020 - 22:46:34: MilkA<3><STEAM_1:0:242076907><> issued a temporary gag on Smoweday<4><STEAM_1:0:505070462><>.
+L 04/02/2020 - 22:46:35: Smoweday<4><STEAM_1:0:505070462><> issued an extended gag on MilkA<3><STEAM_1:0:242076907><> for 1 minutes.
+L 04/02/2020 - 22:47:28: Smoweday<4><STEAM_1:0:505070462><> removed a temporary gag from Smoweday<4><STEAM_1:0:505070462><>.
+L 04/05/2020 - 16:50:08: Smoweday<2><STEAM_1:0:505070462><> issued an extended gag on Pepik<5><STEAM_1:1:108577430><> for 1 minutes.
+L 04/08/2020 - 12:20:09: SdSaddda<3><STEAM_1:0:505070462><> issued an extended gag on Vasilij Zajcev<7><STEAM_1:0:513557709><> for 5 minutes.
+L 04/09/2020 - 19:29:18: Smoweday<2><STEAM_1:0:505070462><> issued an extended gag on MilkA<3><STEAM_1:0:242076907><> for 1 minutes.
+L 04/09/2020 - 20:01:38: MilkA<4><STEAM_1:0:242076907><> issued a permanent gag on Smoweday<2><STEAM_1:0:505070462><>.
+L 04/09/2020 - 20:01:54: Smoweday<2><STEAM_1:0:505070462><> removed a permanent gag from Smoweday<2><STEAM_1:0:505070462><>.
+L 04/09/2020 - 23:36:31: Blade<3><STEAM_1:1:454998401><> issued a permanent mute on Smoweday<4><STEAM_1:0:505070462><>.
+L 04/09/2020 - 23:36:43: Smoweday<4><STEAM_1:0:505070462><> issued an extended gag on Blade<3><STEAM_1:1:454998401><> for 1 minutes.
+L 04/09/2020 - 23:36:55: Smoweday<4><STEAM_1:0:505070462><> removed an extended gag for 1 minutes from Blade<3><STEAM_1:1:454998401><>.
+L 04/13/2020 - 18:14:10: MilkA<4><STEAM_1:0:242076907><> issued an extended mute on MilkA<4><STEAM_1:0:242076907><> for 30 minutes.
+L 04/13/2020 - 18:14:18: MilkA<4><STEAM_1:0:242076907><> removed an extended mute for 30 minutes from MilkA<4><STEAM_1:0:242076907><>.

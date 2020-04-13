@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/custom_player/kodua/negan/zipper"
+	"$bumpmap"	"models/player/custom_player/kodua/negan/zipper_n"
+	"$translucent" "1"
+
+	"$phong" "1"
+	//"$phongexponenttexture" "models/player/custom_player/kodua/negan/"
+	"$phongexponent" "25"
+	"$phongboost" "5"
+	"$phongfresnelranges" "[.5 .8 1]"
+	"$PhongAlbedoTint" "0"
+}

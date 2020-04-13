@@ -1,0 +1,264 @@
+L 04/10/2020 - 00:33:51: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200410.log") (Version "1.10.0.6478")
+L 04/10/2020 - 00:33:51: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/10/2020 - 00:34:29: -------- Mapchange to jb_obama_v5_beta --------
+L 04/10/2020 - 00:34:32: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 00:34:32: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 01:46:52: Log file closed.
+L 04/10/2020 - 01:47:10: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200410.log") (Version "1.10.0.6478")
+L 04/10/2020 - 01:47:10: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/10/2020 - 01:47:35: -------- Mapchange to jb_obama_v5_beta --------
+L 04/10/2020 - 01:47:38: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 01:47:38: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 01:51:02: Log file closed.
+L 04/10/2020 - 01:51:17: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200410.log") (Version "1.10.0.6478")
+L 04/10/2020 - 01:51:17: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/10/2020 - 01:52:01: -------- Mapchange to jb_obama_v5_beta --------
+L 04/10/2020 - 01:52:03: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 01:52:03: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 01:54:22: Log file closed.
+L 04/10/2020 - 01:54:40: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200410.log") (Version "1.10.0.6478")
+L 04/10/2020 - 01:54:40: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/10/2020 - 01:55:26: Log file closed.
+L 04/10/2020 - 01:55:42: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200410.log") (Version "1.10.0.6478")
+L 04/10/2020 - 01:55:42: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/10/2020 - 01:56:09: -------- Mapchange to jb_obama_v5_beta --------
+L 04/10/2020 - 01:56:12: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 01:56:12: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 01:56:54: Log file closed.
+L 04/10/2020 - 19:53:53: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200410.log") (Version "1.10.0.6478")
+L 04/10/2020 - 19:53:53: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/10/2020 - 19:53:56: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 19:53:56: [mapchooser.smx] [MapChooser] Cannot find map cycle file, mapchooser not active.
+L 04/10/2020 - 19:53:56: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 19:53:56: [rockthevote.smx] [RTV] Cannot find map cycle file, RTV not active.
+L 04/10/2020 - 19:54:39: -------- Mapchange to jb_obama_v5_beta --------
+L 04/10/2020 - 19:54:42: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 19:54:42: [mapchooser.smx] [MapChooser] Cannot find map cycle file, mapchooser not active.
+L 04/10/2020 - 19:54:42: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 19:54:42: [rockthevote.smx] [RTV] Cannot find map cycle file, RTV not active.
+L 04/10/2020 - 19:55:02: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 19:55:02: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 19:55:30: -------- Mapchange to jb_obama_v5_beta --------
+L 04/10/2020 - 19:55:33: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 19:55:33: [mapchooser.smx] [MapChooser] Cannot find map cycle file, mapchooser not active.
+L 04/10/2020 - 19:55:33: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 19:55:33: [rockthevote.smx] [RTV] Cannot find map cycle file, RTV not active.
+L 04/10/2020 - 19:55:33: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 19:55:33: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 20:00:37: [sm_hosties.smx] "Androméďa<2><STEAM_1:0:93774482><>" respawned "Andy<4><BOT><>"
+L 04/10/2020 - 20:18:35: [basevotes.smx] "Androméďa<2><STEAM_1:0:93774482><>" initiated a generic vote.
+L 04/10/2020 - 20:19:11: [basecommands.smx] "Androméďa<2><STEAM_1:0:93774482><>" changed map to "bhop_acino"
+L 04/10/2020 - 20:19:14: [SM] Changed map to "bhop_acino"
+L 04/10/2020 - 20:19:15: -------- Mapchange to bhop_acino --------
+L 04/10/2020 - 20:19:18: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 20:19:18: [mapchooser.smx] [MapChooser] Cannot find map cycle file, mapchooser not active.
+L 04/10/2020 - 20:19:18: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 20:19:18: [rockthevote.smx] [RTV] Cannot find map cycle file, RTV not active.
+L 04/10/2020 - 20:19:18: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 20:19:18: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 20:22:01: Log file closed.
+L 04/10/2020 - 20:22:18: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200410.log") (Version "1.10.0.6478")
+L 04/10/2020 - 20:22:18: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/10/2020 - 20:22:21: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 20:22:21: [mapchooser.smx] [MapChooser] Cannot find map cycle file, mapchooser not active.
+L 04/10/2020 - 20:25:07: -------- Mapchange to jb_obama_v5_beta --------
+L 04/10/2020 - 20:25:15: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 20:25:15: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 20:28:24: [basecommands.smx] "LaGayBomba<2><STEAM_1:1:527843285><>" changed map to "bhop_acino"
+L 04/10/2020 - 20:28:27: [SM] Changed map to "bhop_acino"
+L 04/10/2020 - 20:28:28: -------- Mapchange to bhop_acino --------
+L 04/10/2020 - 20:28:31: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 20:28:31: [mapchooser.smx] [MapChooser] Cannot find map cycle file, mapchooser not active.
+L 04/10/2020 - 20:28:31: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 20:28:31: [rockthevote.smx] [RTV] Cannot find map cycle file, RTV not active.
+L 04/10/2020 - 20:28:31: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 20:28:31: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 20:29:01: Log file closed.
+L 04/10/2020 - 20:37:16: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200410.log") (Version "1.10.0.6478")
+L 04/10/2020 - 20:37:16: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/10/2020 - 20:37:20: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 20:37:20: [mapchooser.smx] [MapChooser] Cannot find map cycle file, mapchooser not active.
+L 04/10/2020 - 20:37:20: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 20:37:20: [rockthevote.smx] [RTV] Cannot find map cycle file, RTV not active.
+L 04/10/2020 - 20:37:51: -------- Mapchange to jb_obama_v5_beta --------
+L 04/10/2020 - 20:37:54: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 20:37:54: [mapchooser.smx] [MapChooser] Cannot find map cycle file, mapchooser not active.
+L 04/10/2020 - 20:37:54: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 20:37:54: [rockthevote.smx] [RTV] Cannot find map cycle file, RTV not active.
+L 04/10/2020 - 20:37:54: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 20:37:54: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 20:38:26: [basecommands.smx] "LaGayBomba<2><STEAM_1:1:527843285><>" changed map to "jb_jailberd_v5_final_fix"
+L 04/10/2020 - 20:38:29: [SM] Changed map to "jb_jailberd_v5_final_fix"
+L 04/10/2020 - 20:38:31: -------- Mapchange to jb_jailberd_v5_final_fix --------
+L 04/10/2020 - 20:38:35: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 20:38:35: [mapchooser.smx] [MapChooser] Cannot find map cycle file, mapchooser not active.
+L 04/10/2020 - 20:38:35: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 20:38:35: [rockthevote.smx] [RTV] Cannot find map cycle file, RTV not active.
+L 04/10/2020 - 20:38:35: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 20:38:35: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 20:40:43: [basecommands.smx] "LaGayBomba<2><STEAM_1:1:527843285><>" changed map to "ba_dreamjail_watchtower_v2-1"
+L 04/10/2020 - 20:40:47: [SM] Changed map to "ba_dreamjail_watchtower_v2-1"
+L 04/10/2020 - 20:40:48: -------- Mapchange to ba_dreamjail_watchtower_v2-1 --------
+L 04/10/2020 - 20:40:51: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 20:40:51: [mapchooser.smx] [MapChooser] Cannot find map cycle file, mapchooser not active.
+L 04/10/2020 - 20:40:51: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 20:40:51: [rockthevote.smx] [RTV] Cannot find map cycle file, RTV not active.
+L 04/10/2020 - 20:40:52: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 20:40:52: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 20:42:57: [basecommands.smx] "LaGayBomba<2><STEAM_1:1:527843285><>" changed map to "ba_jail_electric_vip_v2"
+L 04/10/2020 - 20:43:00: [SM] Changed map to "ba_jail_electric_vip_v2"
+L 04/10/2020 - 20:43:11: -------- Mapchange to ba_jail_electric_vip_v2 --------
+L 04/10/2020 - 20:43:14: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 20:43:14: [mapchooser.smx] [MapChooser] Cannot find map cycle file, mapchooser not active.
+L 04/10/2020 - 20:43:14: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 20:43:14: [rockthevote.smx] [RTV] Cannot find map cycle file, RTV not active.
+L 04/10/2020 - 20:43:14: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 20:43:14: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 20:45:24: [basecommands.smx] "LaGayBomba<2><STEAM_1:1:527843285><>" changed map to "jb_hostile2_default"
+L 04/10/2020 - 20:45:27: [SM] Changed map to "jb_hostile2_default"
+L 04/10/2020 - 20:45:28: -------- Mapchange to jb_hostile2_default --------
+L 04/10/2020 - 20:45:31: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 20:45:31: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 20:45:31: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 20:45:31: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 20:46:26: [basecommands.smx] "LaGayBomba<2><STEAM_1:1:527843285><>" changed map to "jb_summer_jail_v3"
+L 04/10/2020 - 20:46:29: [SM] Changed map to "jb_summer_jail_v3"
+L 04/10/2020 - 20:46:30: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/10/2020 - 20:46:33: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 20:46:33: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 20:46:33: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 20:46:33: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 20:51:51: Log file closed.
+L 04/10/2020 - 20:52:09: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200410.log") (Version "1.10.0.6478")
+L 04/10/2020 - 20:52:09: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/10/2020 - 20:52:12: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 20:52:12: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 20:52:34: -------- Mapchange to jb_obama_v5_beta --------
+L 04/10/2020 - 20:52:38: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 20:52:38: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 20:52:38: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 20:52:38: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 20:52:40: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/10/2020 - 21:15:37: -------- Mapchange to jb_obama_v5_beta --------
+L 04/10/2020 - 21:15:40: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 21:15:40: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 21:15:40: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 21:15:40: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 21:17:50: -------- Mapchange to jb_obama_v5_beta --------
+L 04/10/2020 - 21:17:54: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 21:17:54: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 21:17:54: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 21:17:54: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 21:20:08: [basevotes.smx] "Androméďa<3><STEAM_1:0:93774482><>" initiated a map vote.
+L 04/10/2020 - 21:20:12: [basevotes.smx] Vote failed.
+L 04/10/2020 - 21:21:36: [basevotes.smx] "Androméďa<3><STEAM_1:0:93774482><>" initiated a map vote.
+L 04/10/2020 - 21:21:39: [basevotes.smx] Changing map to jb_jailberd_v5_final_fix due to vote.
+L 04/10/2020 - 21:21:44: [SM] Changed map to "jb_jailberd_v5_final_fix"
+L 04/10/2020 - 21:21:46: -------- Mapchange to jb_jailberd_v5_final_fix --------
+L 04/10/2020 - 21:21:49: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 21:21:49: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 21:21:49: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 21:21:49: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 21:44:42: Log file closed.
+L 04/10/2020 - 21:45:01: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200410.log") (Version "1.10.0.6478")
+L 04/10/2020 - 21:45:01: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/10/2020 - 21:45:06: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 21:45:06: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 21:45:57: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/10/2020 - 21:46:00: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 21:46:00: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 21:46:20: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 21:46:20: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 21:46:22: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/10/2020 - 21:47:28: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/10/2020 - 21:47:32: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 21:47:32: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 21:47:32: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 21:47:32: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 21:48:38: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/10/2020 - 21:48:41: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/10/2020 - 21:57:48: Log file closed.
+L 04/10/2020 - 21:58:04: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200410.log") (Version "1.10.0.6478")
+L 04/10/2020 - 21:58:04: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/10/2020 - 21:58:08: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 21:58:08: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 21:59:24: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/10/2020 - 21:59:28: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 21:59:28: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 21:59:37: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 21:59:37: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 21:59:39: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/10/2020 - 22:17:20: Log file closed.
+L 04/10/2020 - 22:22:16: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200410.log") (Version "1.10.0.6478")
+L 04/10/2020 - 22:22:16: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/10/2020 - 22:22:20: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:22:20: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:23:39: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/10/2020 - 22:23:42: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:23:43: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:23:43: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 22:23:43: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 22:23:45: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/10/2020 - 22:26:10: Log file closed.
+L 04/10/2020 - 22:27:07: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200410.log") (Version "1.10.0.6478")
+L 04/10/2020 - 22:27:07: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/10/2020 - 22:27:11: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:27:11: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:27:27: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/10/2020 - 22:27:30: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:27:30: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:27:30: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 22:27:30: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 22:27:32: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/10/2020 - 22:30:44: Log file closed.
+L 04/10/2020 - 22:32:10: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200410.log") (Version "1.10.0.6478")
+L 04/10/2020 - 22:32:10: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/10/2020 - 22:32:14: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:32:14: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:33:39: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/10/2020 - 22:33:42: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:33:42: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:33:42: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 22:33:42: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 22:33:44: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/10/2020 - 22:34:02: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200410.log") (Version "1.10.0.6478")
+L 04/10/2020 - 22:34:02: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/10/2020 - 22:34:06: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:34:06: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:34:36: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/10/2020 - 22:34:40: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:34:40: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:34:40: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 22:34:40: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 22:34:42: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/10/2020 - 22:35:02: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200410.log") (Version "1.10.0.6478")
+L 04/10/2020 - 22:35:02: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/10/2020 - 22:35:06: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:35:06: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:35:08: Log file closed.
+L 04/10/2020 - 22:38:52: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200410.log") (Version "1.10.0.6478")
+L 04/10/2020 - 22:38:52: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/10/2020 - 22:38:55: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:38:55: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:39:04: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/10/2020 - 22:39:07: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:39:07: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:39:07: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 22:39:07: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 22:39:10: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/10/2020 - 22:49:36: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/10/2020 - 22:49:40: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/10/2020 - 22:54:49: Log file closed.
+L 04/10/2020 - 22:55:05: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200410.log") (Version "1.10.0.6478")
+L 04/10/2020 - 22:55:05: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/10/2020 - 22:55:08: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:55:08: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:56:19: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/10/2020 - 22:56:22: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:56:22: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/10/2020 - 22:56:22: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/10/2020 - 22:56:22: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/10/2020 - 22:56:24: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/10/2020 - 22:56:40: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/10/2020 - 22:56:43: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/11/2020 - 00:18:00: Log file closed.

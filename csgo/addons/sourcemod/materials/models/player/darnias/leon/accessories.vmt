@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/player/darnias/leon/accessories"
+	"$phongboost"             "0.1"
+	"$phongalbedoboost"       "1"
+	"$phongexponent"          "120"	
+}
+

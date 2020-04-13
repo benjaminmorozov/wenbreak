@@ -1,0 +1,779 @@
+L 04/12/2020 - 00:00:13: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 00:00:13: [sm_hosties.smx] "Blade<5><STEAM_1:1:454998401><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/12/2020 - 00:00:13: [sm_hosties.smx] "Blade<5><STEAM_1:1:454998401><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:00:54: [sm_hosties.smx] "Blade<5><STEAM_1:1:454998401><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:03:06: [sm_hosties.smx] "MilkA<6><STEAM_1:0:242076907><>" respawned "MilkA<6><STEAM_1:0:242076907><>"
+L 04/12/2020 - 00:03:16: [sm_hosties.smx] "MilkA<6><STEAM_1:0:242076907><>" respawned "MilkA<6><STEAM_1:0:242076907><>"
+L 04/12/2020 - 00:15:20: [funcommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:16:27: [sm_hosties.smx] "Blade<5><STEAM_1:1:454998401><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:16:32: [sm_hosties.smx] "Blade<5><STEAM_1:1:454998401><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:16:37: [sm_hosties.smx] "Blade<5><STEAM_1:1:454998401><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:16:38: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:16:44: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:16:48: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:16:50: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:16:55: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" slayed "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/12/2020 - 00:16:55: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" slayed "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:17:10: [funcommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:17:45: [funcommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:18:29: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:18:39: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:18:42: [sm_hosties.smx] "Blade<5><STEAM_1:1:454998401><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:18:47: [sm_hosties.smx] "Blade<5><STEAM_1:1:454998401><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:18:53: [sm_hosties.smx] "Blade<5><STEAM_1:1:454998401><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:18:55: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:19:02: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:19:06: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:19:09: [sm_hosties.smx] "Blade<5><STEAM_1:1:454998401><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:19:15: [sm_hosties.smx] "Blade<5><STEAM_1:1:454998401><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:19:18: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:19:20: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:19:27: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:19:28: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:20:14: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:21:48: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:23:25: [sm_hosties.smx] "Blade<5><STEAM_1:1:454998401><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:23:59: [sm_hosties.smx] "Androméďa<4><STEAM_1:0:93774482><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/12/2020 - 00:24:08: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:24:11: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:24:12: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:24:13: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:24:34: [sm_hosties.smx] "Blade<5><STEAM_1:1:454998401><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:25:31: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:25:31: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/12/2020 - 00:26:18: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:26:22: [sm_hosties.smx] "Blade<5><STEAM_1:1:454998401><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:26:34: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:26:35: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/12/2020 - 00:26:45: [sm_hosties.smx] "Blade<5><STEAM_1:1:454998401><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:27:05: [sm_hosties.smx] "Androméďa<4><STEAM_1:0:93774482><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/12/2020 - 00:27:23: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 00:27:26: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 00:27:56: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:27:58: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:28:19: [admin_stealth.smx] Smoweday has toggled stealth mode.
+L 04/12/2020 - 00:28:23: [admin_stealth.smx] Smoweday has toggled stealth mode.
+L 04/12/2020 - 00:28:35: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:28:35: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:28:36: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:28:36: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:28:58: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 00:29:02: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 00:29:12: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:29:12: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:29:29: [sm_hosties.smx] "Androméďa<4><STEAM_1:0:93774482><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/12/2020 - 00:29:32: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:29:54: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:29:54: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:29:54: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:29:59: [funcommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:30:00: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:30:01: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:30:01: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:30:01: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:30:02: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:30:03: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:30:04: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:30:07: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:30:08: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:30:08: [funcommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:30:51: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 00:30:51: [admin_stealth.smx] Smoweday has toggled stealth mode.
+L 04/12/2020 - 00:30:51: [admin_stealth.smx] Smoweday has toggled stealth mode.
+L 04/12/2020 - 00:30:52: [admin_stealth.smx] Smoweday has toggled stealth mode.
+L 04/12/2020 - 00:30:52: [admin_stealth.smx] Smoweday has toggled stealth mode.
+L 04/12/2020 - 00:30:58: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 00:31:05: [sm_hosties.smx] "Blade<5><STEAM_1:1:454998401><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:31:05: [admin_stealth.smx] Smoweday has toggled stealth mode.
+L 04/12/2020 - 00:31:06: [admin_stealth.smx] Smoweday has toggled stealth mode.
+L 04/12/2020 - 00:31:09: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:31:12: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:31:14: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 00:31:18: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 00:31:21: [admin_stealth.smx] Blade has toggled stealth mode.
+L 04/12/2020 - 00:31:34: [admin_stealth.smx] Blade has toggled stealth mode.
+L 04/12/2020 - 00:31:57: [admin_stealth.smx] Blade has toggled stealth mode.
+L 04/12/2020 - 00:32:00: [admin_stealth.smx] Blade has toggled stealth mode.
+L 04/12/2020 - 00:32:07: [admin_stealth.smx] Blade has toggled stealth mode.
+L 04/12/2020 - 00:32:13: [admin_stealth.smx] Blade has toggled stealth mode.
+L 04/12/2020 - 00:32:13: [admin_stealth.smx] Smoweday has toggled stealth mode.
+L 04/12/2020 - 00:32:15: [admin_stealth.smx] Smoweday has toggled stealth mode.
+L 04/12/2020 - 00:32:23: [admin_stealth.smx] Blade has toggled stealth mode.
+L 04/12/2020 - 00:32:24: [admin_stealth.smx] Blade has toggled stealth mode.
+L 04/12/2020 - 00:32:27: [admin_stealth.smx] Blade has toggled stealth mode.
+L 04/12/2020 - 00:32:31: [admin_stealth.smx] Blade has toggled stealth mode.
+L 04/12/2020 - 00:32:33: [admin_stealth.smx] Blade has toggled stealth mode.
+L 04/12/2020 - 00:32:38: [funcommands.smx] "Androméďa<4><STEAM_1:0:93774482><>" set gravity on "Smoweday<7><STEAM_1:0:505070462><>" (amount "4.000000")
+L 04/12/2020 - 00:32:40: [funcommands.smx] "Androméďa<4><STEAM_1:0:93774482><>" set gravity on "Smoweday<7><STEAM_1:0:505070462><>" (amount "4.000000")
+L 04/12/2020 - 00:32:42: [funcommands.smx] "Androméďa<4><STEAM_1:0:93774482><>" set gravity on "Smoweday<7><STEAM_1:0:505070462><>" (amount "1.000000")
+L 04/12/2020 - 00:32:48: [admin_stealth.smx] Blade has toggled stealth mode.
+L 04/12/2020 - 00:32:49: [playercommands.smx] "Blade<5><STEAM_1:1:454998401><>" slayed "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:32:49: [funcommands.smx] "Androméďa<4><STEAM_1:0:93774482><>" set blind on "Smoweday<7><STEAM_1:0:505070462><>" (amount "255")
+L 04/12/2020 - 00:32:52: [funcommands.smx] "Androméďa<4><STEAM_1:0:93774482><>" set blind on "Smoweday<7><STEAM_1:0:505070462><>" (amount "0")
+L 04/12/2020 - 00:32:56: [sm_hosties.smx] "Blade<5><STEAM_1:1:454998401><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:33:04: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:33:06: [funcommands.smx] "Androméďa<4><STEAM_1:0:93774482><>" ignited "Blade<5><STEAM_1:1:454998401><>" (seconds "20.000000")
+L 04/12/2020 - 00:33:13: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:33:15: [playercommands.smx] "Androméďa<4><STEAM_1:0:93774482><>" slapped "Blade<5><STEAM_1:1:454998401><>" (damage "99")
+L 04/12/2020 - 00:33:22: [playercommands.smx] "Blade<5><STEAM_1:1:454998401><>" slapped "Androméďa<4><STEAM_1:0:93774482><>" (damage "99")
+L 04/12/2020 - 00:33:22: [playercommands.smx] "Blade<5><STEAM_1:1:454998401><>" slapped "Smoweday<7><STEAM_1:0:505070462><>" (damage "99")
+L 04/12/2020 - 00:33:24: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:33:24: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:33:36: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" set a beacon on "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:33:36: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" set a beacon on "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/12/2020 - 00:33:36: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" set a beacon on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:33:38: [funcommands.smx] "Androméďa<4><STEAM_1:0:93774482><>" set blind on "Blade<5><STEAM_1:1:454998401><>" (amount "255")
+L 04/12/2020 - 00:33:43: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" set blind on "Blade<5><STEAM_1:1:454998401><>" (amount "0")
+L 04/12/2020 - 00:33:47: [funcommands.smx] "Androméďa<4><STEAM_1:0:93774482><>" set blind on "Blade<5><STEAM_1:1:454998401><>" (amount "0")
+L 04/12/2020 - 00:33:53: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" drugged "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/12/2020 - 00:34:39: [funcommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" removed a beacon on "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:34:39: [funcommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" removed a beacon on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:36:28: [sm_hosties.smx] "MilkA<8><STEAM_1:0:242076907><>" respawned "MilkA<8><STEAM_1:0:242076907><>"
+L 04/12/2020 - 00:37:09: [funcommands.smx] "MilkA<8><STEAM_1:0:242076907><>" toggled noclip on "MilkA<8><STEAM_1:0:242076907><>"
+L 04/12/2020 - 00:37:47: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:37:49: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:37:50: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:37:53: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:38:10: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:38:12: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:38:18: [admin_stealth.smx] Smoweday has toggled stealth mode.
+L 04/12/2020 - 00:38:18: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:38:18: [admin_stealth.smx] Smoweday has toggled stealth mode.
+L 04/12/2020 - 00:38:22: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:38:24: [admin_stealth.smx] Smoweday has toggled stealth mode.
+L 04/12/2020 - 00:38:24: [admin_stealth.smx] Smoweday has toggled stealth mode.
+L 04/12/2020 - 00:38:27: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:38:30: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:38:36: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:38:38: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:38:43: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:38:45: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:38:45: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:38:46: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:38:47: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:38:47: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:38:51: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:38:54: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:38:54: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:38:56: [sm_hosties.smx] "MilkA<8><STEAM_1:0:242076907><>" respawned "MilkA<8><STEAM_1:0:242076907><>"
+L 04/12/2020 - 00:38:57: [sm_hosties.smx] "MilkA<8><STEAM_1:0:242076907><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/12/2020 - 00:38:57: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:39:19: [sm_hosties.smx] "MilkA<8><STEAM_1:0:242076907><>" respawned "MilkA<8><STEAM_1:0:242076907><>"
+L 04/12/2020 - 00:39:46: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:39:54: [playercommands.smx] "Blade<5><STEAM_1:1:454998401><>" slayed "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:39:57: [sm_hosties.smx] "Blade<5><STEAM_1:1:454998401><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:40:00: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:40:13: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:40:32: [sm_hosties.smx] "MilkA<8><STEAM_1:0:242076907><>" respawned "MilkA<8><STEAM_1:0:242076907><>"
+L 04/12/2020 - 00:40:34: [sm_hosties.smx] "Blade<5><STEAM_1:1:454998401><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:40:38: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:40:38: [sm_hosties.smx] "Androméďa<4><STEAM_1:0:93774482><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:40:39: [sm_hosties.smx] "Androméďa<4><STEAM_1:0:93774482><>" respawned "MilkA<8><STEAM_1:0:242076907><>"
+L 04/12/2020 - 00:40:39: [sm_hosties.smx] "Androméďa<4><STEAM_1:0:93774482><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/12/2020 - 00:40:44: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:40:45: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:40:45: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "MilkA<8><STEAM_1:0:242076907><>"
+L 04/12/2020 - 00:40:45: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/12/2020 - 00:40:46: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:40:52: [sm_hosties.smx] "MilkA<8><STEAM_1:0:242076907><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:40:52: [sm_hosties.smx] "MilkA<8><STEAM_1:0:242076907><>" respawned "MilkA<8><STEAM_1:0:242076907><>"
+L 04/12/2020 - 00:40:52: [sm_hosties.smx] "MilkA<8><STEAM_1:0:242076907><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/12/2020 - 00:40:52: [sm_hosties.smx] "MilkA<8><STEAM_1:0:242076907><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:40:59: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slapped "Androméďa<4><STEAM_1:0:93774482><>" (damage "0")
+L 04/12/2020 - 00:41:00: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slapped "Androméďa<4><STEAM_1:0:93774482><>" (damage "0")
+L 04/12/2020 - 00:41:00: [sm_hosties.smx] "Blade<5><STEAM_1:1:454998401><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:41:00: [sm_hosties.smx] "Blade<5><STEAM_1:1:454998401><>" respawned "MilkA<8><STEAM_1:0:242076907><>"
+L 04/12/2020 - 00:41:01: [sm_hosties.smx] "Blade<5><STEAM_1:1:454998401><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:41:01: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slapped "Androméďa<4><STEAM_1:0:93774482><>" (damage "0")
+L 04/12/2020 - 00:41:01: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slapped "Smoweday<7><STEAM_1:0:505070462><>" (damage "0")
+L 04/12/2020 - 00:41:03: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:41:08: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:41:10: [playercommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" slapped "Blade<5><STEAM_1:1:454998401><>" (damage "0")
+L 04/12/2020 - 00:41:16: [sm_hosties.smx] "MilkA<8><STEAM_1:0:242076907><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:41:16: [sm_hosties.smx] "MilkA<8><STEAM_1:0:242076907><>" respawned "MilkA<8><STEAM_1:0:242076907><>"
+L 04/12/2020 - 00:41:16: [sm_hosties.smx] "MilkA<8><STEAM_1:0:242076907><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/12/2020 - 00:41:16: [sm_hosties.smx] "MilkA<8><STEAM_1:0:242076907><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:41:19: [funcommands.smx] "MilkA<8><STEAM_1:0:242076907><>" toggled noclip on "MilkA<8><STEAM_1:0:242076907><>"
+L 04/12/2020 - 00:41:23: [playercommands.smx] "Blade<5><STEAM_1:1:454998401><>" slayed "MilkA<8><STEAM_1:0:242076907><>"
+L 04/12/2020 - 00:41:43: [sm_hosties.smx] "MilkA<8><STEAM_1:0:242076907><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:41:43: [sm_hosties.smx] "MilkA<8><STEAM_1:0:242076907><>" respawned "MilkA<8><STEAM_1:0:242076907><>"
+L 04/12/2020 - 00:41:44: [sm_hosties.smx] "MilkA<8><STEAM_1:0:242076907><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/12/2020 - 00:41:44: [sm_hosties.smx] "MilkA<8><STEAM_1:0:242076907><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:41:49: [sm_hosties.smx] "MilkA<8><STEAM_1:0:242076907><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:41:49: [sm_hosties.smx] "MilkA<8><STEAM_1:0:242076907><>" respawned "MilkA<8><STEAM_1:0:242076907><>"
+L 04/12/2020 - 00:41:49: [sm_hosties.smx] "MilkA<8><STEAM_1:0:242076907><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/12/2020 - 00:41:50: [sm_hosties.smx] "MilkA<8><STEAM_1:0:242076907><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:42:38: [basecommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" executed config (file "server.cfg")
+L 04/12/2020 - 00:43:09: [sm_hosties.smx] "Androméďa<4><STEAM_1:0:93774482><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/12/2020 - 00:43:09: [sm_hosties.smx] "Androméďa<4><STEAM_1:0:93774482><>" respawned "MilkA<8><STEAM_1:0:242076907><>"
+L 04/12/2020 - 00:43:09: [sm_hosties.smx] "Androméďa<4><STEAM_1:0:93774482><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/12/2020 - 00:43:10: [sm_hosties.smx] "Androméďa<4><STEAM_1:0:93774482><>" respawned "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 00:43:21: Log file closed.
+L 04/12/2020 - 00:43:36: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 00:43:36: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 00:43:39: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 00:43:39: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 00:54:00: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/12/2020 - 00:54:02: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 00:54:02: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 00:54:02: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 00:54:02: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 00:54:04: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/12/2020 - 01:28:21: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slayed "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/12/2020 - 01:28:21: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slayed "MilkA<4><STEAM_1:0:242076907><>"
+L 04/12/2020 - 01:28:25: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slayed "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/12/2020 - 01:28:25: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slayed "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/12/2020 - 01:28:25: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slayed "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/12/2020 - 01:28:26: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slayed "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/12/2020 - 01:28:26: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slayed "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/12/2020 - 01:28:26: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slayed "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/12/2020 - 01:28:26: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slayed "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/12/2020 - 01:28:26: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slayed "MilkA<4><STEAM_1:0:242076907><>"
+L 04/12/2020 - 01:28:26: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slayed "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/12/2020 - 01:29:26: [playercommands.smx] "MilkA<4><STEAM_1:0:242076907><>" slayed "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/12/2020 - 01:29:26: [playercommands.smx] "MilkA<4><STEAM_1:0:242076907><>" slayed "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/12/2020 - 01:29:26: [playercommands.smx] "MilkA<4><STEAM_1:0:242076907><>" slayed "MilkA<4><STEAM_1:0:242076907><>"
+L 04/12/2020 - 01:29:39: [playercommands.smx] "MilkA<4><STEAM_1:0:242076907><>" slayed "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/12/2020 - 01:29:39: [playercommands.smx] "MilkA<4><STEAM_1:0:242076907><>" slayed "MilkA<4><STEAM_1:0:242076907><>"
+L 04/12/2020 - 01:29:45: [playercommands.smx] "MilkA<4><STEAM_1:0:242076907><>" slayed "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/12/2020 - 01:29:45: [playercommands.smx] "MilkA<4><STEAM_1:0:242076907><>" slayed "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/12/2020 - 01:29:45: [playercommands.smx] "MilkA<4><STEAM_1:0:242076907><>" slayed "MilkA<4><STEAM_1:0:242076907><>"
+L 04/12/2020 - 01:31:09: [playercommands.smx] "MilkA<4><STEAM_1:0:242076907><>" slayed "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/12/2020 - 01:31:09: [playercommands.smx] "MilkA<4><STEAM_1:0:242076907><>" slayed "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/12/2020 - 01:31:09: [playercommands.smx] "MilkA<4><STEAM_1:0:242076907><>" slayed "MilkA<4><STEAM_1:0:242076907><>"
+L 04/12/2020 - 01:33:35: [playercommands.smx] "MilkA<4><STEAM_1:0:242076907><>" slayed "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/12/2020 - 01:33:35: [playercommands.smx] "MilkA<4><STEAM_1:0:242076907><>" slayed "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/12/2020 - 01:33:35: [playercommands.smx] "MilkA<4><STEAM_1:0:242076907><>" slayed "MilkA<4><STEAM_1:0:242076907><>"
+L 04/12/2020 - 01:33:59: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 01:34:02: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 01:35:28: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slayed "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/12/2020 - 01:35:29: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slayed "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/12/2020 - 01:35:29: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slayed "MilkA<4><STEAM_1:0:242076907><>"
+L 04/12/2020 - 01:35:33: Log file closed.
+L 04/12/2020 - 01:35:48: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 01:35:48: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 01:35:50: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 01:35:50: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 01:36:09: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/12/2020 - 01:36:11: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 01:36:11: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 01:36:11: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 01:36:11: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 01:36:14: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/12/2020 - 01:39:00: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "MilkA<3><STEAM_1:0:242076907><>"
+L 04/12/2020 - 01:39:01: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/12/2020 - 01:42:28: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "Smoweday<2><STEAM_1:0:505070462><>"
+L 04/12/2020 - 01:42:28: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "MilkA<3><STEAM_1:0:242076907><>"
+L 04/12/2020 - 01:42:28: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/12/2020 - 01:42:34: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "Smoweday<2><STEAM_1:0:505070462><>"
+L 04/12/2020 - 01:42:37: [sm_hosties.smx] "Smoweday<2><STEAM_1:0:505070462><>" respawned "Smoweday<2><STEAM_1:0:505070462><>"
+L 04/12/2020 - 01:43:05: [playercommands.smx] "MilkA<3><STEAM_1:0:242076907><>" slayed "Smoweday<2><STEAM_1:0:505070462><>"
+L 04/12/2020 - 01:45:22: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 01:45:24: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 01:54:56: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 01:54:58: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 01:55:47: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 01:55:48: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 01:55:50: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 01:55:50: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 01:59:16: [sm_hosties.smx] "Smoweday<2><STEAM_1:0:505070462><>" respawned "Smoweday<2><STEAM_1:0:505070462><>"
+L 04/12/2020 - 02:00:02: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 02:00:05: [funcommands.smx] "Blade<5><STEAM_1:1:454998401><>" toggled noclip on "Blade<5><STEAM_1:1:454998401><>"
+L 04/12/2020 - 02:00:41: [admin_stealth.smx] Blade has toggled stealth mode.
+L 04/12/2020 - 02:00:42: [admin_stealth.smx] Blade has toggled stealth mode.
+L 04/12/2020 - 02:01:25: [basechat.smx] "MilkA<3><STEAM_1:0:242076907><>" triggered sm_say (text kokot)
+L 04/12/2020 - 02:01:50: [basevotes.smx] "MilkA<3><STEAM_1:0:242076907><>" initiated a generic vote.
+L 04/12/2020 - 02:02:57: [basevotes.smx] "Androméďa<4><STEAM_1:0:93774482><>" initiated a generic vote.
+L 04/12/2020 - 02:03:59: [rockthevote.smx] [RTV] Rockthevote was successfully started.
+L 04/12/2020 - 02:04:17: [SM] Changed map to "de_dust"
+L 04/12/2020 - 02:04:20: -------- Mapchange to de_dust2 --------
+L 04/12/2020 - 02:04:22: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 02:04:22: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 02:04:22: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 02:04:22: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 02:07:17: Log file closed.
+L 04/12/2020 - 14:49:25: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 14:49:25: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 14:49:27: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 14:49:28: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 14:51:44: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/12/2020 - 14:51:46: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 14:51:46: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 14:51:46: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 14:51:46: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 14:51:48: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/12/2020 - 15:04:00: [basechat.smx] "Androméďa<2><STEAM_1:0:93774482><>" triggered sm_csay (text něco)
+L 04/12/2020 - 15:18:06: [funcommands.smx] "Androméďa<2><STEAM_1:0:93774482><>" froze "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/12/2020 - 15:54:46: Log file closed.
+L 04/12/2020 - 15:55:02: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 15:55:02: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 15:55:05: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 15:55:05: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 15:55:57: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/12/2020 - 15:55:59: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 15:55:59: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 15:56:13: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 15:56:13: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 15:56:15: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/12/2020 - 15:59:35: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 15:59:39: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 16:00:04: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 16:00:07: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 16:02:07: Log file closed.
+L 04/12/2020 - 16:02:24: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 16:02:24: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 16:02:27: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 16:02:27: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 16:02:35: Log file closed.
+L 04/12/2020 - 16:02:52: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 16:02:52: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 16:02:55: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 16:02:55: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 16:03:21: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/12/2020 - 16:03:24: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 16:03:24: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 16:03:24: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 16:03:24: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 16:03:26: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/12/2020 - 16:03:42: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 16:03:57: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 16:03:57: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 16:04:00: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 16:04:00: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 16:04:28: Log file closed.
+L 04/12/2020 - 16:04:45: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 16:04:45: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 16:04:48: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 16:04:48: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 16:05:00: Log file closed.
+L 04/12/2020 - 16:05:17: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 16:05:17: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 16:05:19: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 16:05:20: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 16:05:57: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/12/2020 - 16:05:59: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 16:05:59: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 16:05:59: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 16:05:59: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 16:06:01: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/12/2020 - 16:06:18: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 16:06:22: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 16:08:43: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 16:08:44: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 16:10:16: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 16:10:18: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 16:11:48: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 16:11:52: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 16:12:39: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 16:12:43: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 16:13:46: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 16:13:50: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 16:14:06: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 16:14:09: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 16:14:40: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 16:14:41: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 16:15:00: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 16:15:03: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 16:15:12: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 16:15:19: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 16:40:38: [SM] Changed map to "de_dust"
+L 04/12/2020 - 16:40:41: -------- Mapchange to de_dust2 --------
+L 04/12/2020 - 16:40:43: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 16:40:43: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 16:40:43: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 16:40:43: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 16:52:42: Log file closed.
+L 04/12/2020 - 16:52:58: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 16:52:58: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 16:53:01: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 16:53:01: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 16:53:23: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/12/2020 - 16:53:25: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 16:53:25: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 16:53:25: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 16:53:25: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 16:53:27: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/12/2020 - 17:07:46: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 17:07:46: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 17:07:50: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 17:07:50: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 17:07:52: Log file closed.
+L 04/12/2020 - 17:07:59: Log file closed.
+L 04/12/2020 - 17:08:07: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 17:08:07: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 17:08:10: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 17:08:10: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 17:08:17: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 17:08:17: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 17:08:20: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 17:08:20: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 17:08:23: Log file closed.
+L 04/12/2020 - 17:08:38: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 17:08:38: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 17:08:41: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 17:08:41: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 17:08:50: Log file closed.
+L 04/12/2020 - 17:09:08: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 17:09:08: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 17:09:11: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 17:09:11: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 17:17:25: Log file closed.
+L 04/12/2020 - 17:17:41: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 17:17:41: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 17:19:54: Log file closed.
+L 04/12/2020 - 17:20:29: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 17:20:29: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 17:21:19: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/12/2020 - 17:21:22: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 17:21:22: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 17:28:53: Log file closed.
+L 04/12/2020 - 17:29:10: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 17:29:10: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 17:29:31: Log file closed.
+L 04/12/2020 - 17:29:47: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 17:29:47: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 17:30:00: Log file closed.
+L 04/12/2020 - 17:30:33: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 17:30:33: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 17:30:59: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/12/2020 - 17:31:01: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 17:31:01: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 17:35:34: Log file closed.
+L 04/12/2020 - 17:35:49: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 17:35:49: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 17:35:51: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 17:35:51: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 17:37:28: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/12/2020 - 17:37:31: [mapchooser.smx] [MapChooser] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 17:37:31: [rockthevote.smx] [RTV] Map Cycle Path: mapcycle.txt
+L 04/12/2020 - 17:37:31: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 17:37:31: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 17:37:33: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/12/2020 - 17:39:01: [rockthevote.smx] [RTV] Rockthevote was successfully started.
+L 04/12/2020 - 17:40:25: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 17:43:29: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 17:43:56: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 17:45:02: Log file closed.
+L 04/12/2020 - 17:45:18: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 17:45:18: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 17:45:21: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 17:45:21: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 17:45:48: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/12/2020 - 17:45:51: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 17:45:51: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 17:45:51: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 17:45:51: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 17:45:53: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/12/2020 - 17:46:48: [rockthevote.smx] [RTV] Rockthevote was successfully started.
+L 04/12/2020 - 17:46:51: [rockthevote.smx] [RTV] Rockthevote has ended, current map kept.
+L 04/12/2020 - 17:47:34: -------- Mapchange to jb_arctic_jail_v3 --------
+L 04/12/2020 - 17:47:36: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 17:47:36: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 17:47:36: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 17:47:36: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 17:49:07: -------- Mapchange to jb_clouds_final5 --------
+L 04/12/2020 - 17:49:10: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 17:49:10: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 17:49:10: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 17:49:10: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 17:50:44: -------- Mapchange to jb_coast_v2b --------
+L 04/12/2020 - 17:50:47: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 17:50:47: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 17:50:47: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 17:50:47: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 17:54:58: -------- Mapchange to jb_hostile2_default --------
+L 04/12/2020 - 17:55:01: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 17:55:01: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 17:55:01: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 17:55:01: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 17:55:46: -------- Mapchange to jb_jailberd_v5_final_fix --------
+L 04/12/2020 - 17:55:48: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 17:55:48: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 17:55:48: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 17:55:48: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 17:57:25: -------- Mapchange to jb_lego_jail_v8 --------
+L 04/12/2020 - 17:57:27: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 17:57:27: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 17:57:27: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 17:57:27: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 17:58:22: -------- Mapchange to jb_marioworld_rsc --------
+L 04/12/2020 - 17:58:24: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 17:58:24: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 17:58:24: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 17:58:24: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 17:59:28: -------- Mapchange to jb_mcrunner_v1 --------
+L 04/12/2020 - 17:59:31: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 17:59:31: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 17:59:31: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 17:59:31: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 18:00:11: -------- Mapchange to jb_moonjail_v2 --------
+L 04/12/2020 - 18:00:14: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 18:00:14: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 18:00:14: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 18:00:14: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 18:01:08: -------- Mapchange to jb_mountaincraft_v6 --------
+L 04/12/2020 - 18:01:10: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 18:01:10: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 18:01:10: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 18:01:10: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 18:02:21: -------- Mapchange to jb_putin_v2 --------
+L 04/12/2020 - 18:02:24: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 18:02:24: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 18:02:24: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 18:02:24: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 18:03:20: -------- Mapchange to jb_renegade_v5 --------
+L 04/12/2020 - 18:03:23: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 18:03:23: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 18:03:23: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 18:03:23: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 18:04:27: -------- Mapchange to jb_serene_autumn_v1 --------
+L 04/12/2020 - 18:04:30: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 18:04:30: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 18:04:30: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 18:04:30: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 18:06:13: -------- Mapchange to jb_spy_vs_spy_beta7 --------
+L 04/12/2020 - 18:06:16: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 18:06:16: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 18:06:16: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 18:06:16: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 18:08:21: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/12/2020 - 18:08:23: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 18:08:23: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 18:08:23: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 18:08:23: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 18:16:52: Log file closed.
+L 04/12/2020 - 18:17:07: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 18:17:07: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 18:17:09: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 18:17:09: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 18:18:00: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/12/2020 - 18:18:03: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 18:18:03: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 18:18:03: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 18:18:03: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 18:18:05: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/12/2020 - 18:21:04: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/12/2020 - 18:21:06: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 18:21:06: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 18:21:06: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 18:21:06: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 18:32:25: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/12/2020 - 18:32:28: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 18:32:28: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 18:32:28: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 18:32:28: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 19:16:45: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/12/2020 - 19:16:47: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 19:16:47: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 19:16:48: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 19:16:48: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 19:17:36: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/12/2020 - 19:17:39: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 19:17:39: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 19:17:39: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 19:17:39: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 19:44:31: Log file closed.
+L 04/12/2020 - 19:44:46: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 19:44:46: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 19:44:49: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 19:44:49: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 19:45:24: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/12/2020 - 19:45:27: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 19:45:27: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 19:45:27: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 19:45:27: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 19:45:29: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/12/2020 - 19:48:13: Log file closed.
+L 04/12/2020 - 19:48:29: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 19:48:29: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 19:48:32: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 19:48:32: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 19:50:01: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/12/2020 - 19:50:03: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 19:50:03: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 19:50:23: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 19:50:23: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 19:50:25: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/12/2020 - 19:50:42: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/12/2020 - 19:51:30: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/12/2020 - 19:51:45: Log file closed.
+L 04/12/2020 - 19:52:00: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 19:52:00: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 19:52:03: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 19:52:03: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 19:52:14: Log file closed.
+L 04/12/2020 - 19:52:29: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 19:52:29: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 19:52:47: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 19:52:47: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 19:53:03: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 19:53:03: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 19:53:19: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 19:53:19: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 19:53:37: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 19:53:37: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 19:53:54: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 19:53:54: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 19:54:12: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 19:54:12: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 19:54:28: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 19:54:28: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 19:55:22: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 19:55:22: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 19:55:25: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 19:55:25: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 19:55:35: Log file closed.
+L 04/12/2020 - 19:55:51: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 19:55:51: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 19:55:54: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 19:55:54: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 19:56:10: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/12/2020 - 19:56:13: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 19:56:13: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 19:56:13: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 19:56:13: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 19:56:15: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/12/2020 - 19:56:37: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/12/2020 - 19:57:02: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/12/2020 - 19:57:04: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/12/2020 - 19:57:05: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/12/2020 - 19:57:10: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/12/2020 - 19:57:22: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/12/2020 - 20:00:56: Log file closed.
+L 04/12/2020 - 20:01:10: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 20:01:10: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 20:01:13: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 20:01:13: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 20:01:46: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/12/2020 - 20:01:49: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 20:01:49: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 20:01:49: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 20:01:49: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 20:01:51: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/12/2020 - 20:04:21: Log file closed.
+L 04/12/2020 - 20:04:37: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 20:04:37: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 20:04:39: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 20:04:39: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 20:04:48: Log file closed.
+L 04/12/2020 - 20:05:03: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 20:05:03: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 20:05:06: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 20:05:06: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 20:05:24: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/12/2020 - 20:05:27: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 20:05:27: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 20:05:27: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 20:05:27: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 20:05:29: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/12/2020 - 20:06:31: Log file closed.
+L 04/12/2020 - 20:06:46: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 20:06:46: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 20:06:48: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 20:06:48: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 20:07:25: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/12/2020 - 20:07:27: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 20:07:27: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 20:07:27: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 20:07:27: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 20:07:29: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/12/2020 - 20:09:56: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/12/2020 - 20:10:11: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/12/2020 - 20:10:42: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/12/2020 - 20:11:12: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/12/2020 - 20:11:21: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 20:11:24: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 20:12:13: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 20:15:10: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 20:49:49: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 20:49:52: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 20:50:19: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/12/2020 - 20:50:57: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/12/2020 - 20:58:16: [sm_hosties.smx] "LaGayBomba<3><STEAM_1:1:527843285><>" respawned "LaGayBomba<3><STEAM_1:1:527843285><>"
+L 04/12/2020 - 20:59:56: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 20:59:58: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 21:06:57: [rockthevote.smx] [RTV] Rockthevote was successfully started.
+L 04/12/2020 - 21:07:06: [rockthevote.smx] [RTV] Rockthevote has ended, current map kept.
+L 04/12/2020 - 21:22:52: [admin_stealth.smx] LaGayBomba has toggled stealth mode.
+L 04/12/2020 - 21:22:55: [admin_stealth.smx] LaGayBomba has toggled stealth mode.
+L 04/12/2020 - 21:22:56: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 21:23:01: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 21:23:05: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 21:23:08: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 21:37:22: [rockthevote.smx] [RTV] Rockthevote was successfully started.
+L 04/12/2020 - 21:53:42: Log file closed.
+L 04/12/2020 - 21:53:57: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 21:53:57: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 21:54:00: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 21:54:00: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 21:54:18: Log file closed.
+L 04/12/2020 - 21:54:33: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 21:54:33: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 21:54:36: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 21:54:36: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 21:54:42: Log file closed.
+L 04/12/2020 - 21:55:00: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200412.log") (Version "1.10.0.6478")
+L 04/12/2020 - 21:55:00: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/12/2020 - 21:55:02: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 21:55:02: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 21:56:35: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/12/2020 - 21:56:37: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 21:56:37: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/12/2020 - 21:56:37: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/12/2020 - 21:56:37: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/12/2020 - 21:56:39: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/12/2020 - 22:10:41: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:10:43: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:11:53: [admin_stealth.smx] Blade has toggled stealth mode.
+L 04/12/2020 - 22:11:55: [admin_stealth.smx] Blade has toggled stealth mode.
+L 04/12/2020 - 22:17:25: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 22:17:26: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/12/2020 - 22:20:39: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/12/2020 - 22:20:39: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/12/2020 - 22:20:40: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:20:42: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:21:07: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:21:09: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:21:43: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:21:45: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:23:53: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:23:55: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:26:31: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:26:33: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:27:02: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:27:05: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:30:42: [rockthevote.smx] [RTV] Rockthevote was successfully started.
+L 04/12/2020 - 22:30:50: [rockthevote.smx] [RTV] Rockthevote has ended, current map kept.
+L 04/12/2020 - 22:32:24: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/12/2020 - 22:34:24: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/12/2020 - 22:37:08: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:37:11: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:41:19: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:41:24: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:41:25: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:42:07: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/12/2020 - 22:42:08: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/12/2020 - 22:42:25: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:43:13: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:43:15: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:48:49: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:48:51: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:51:14: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:51:16: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:52:13: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 22:52:17: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 23:05:50: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 23:05:52: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/12/2020 - 23:06:13: [rockthevote.smx] [RTV] Rockthevote was successfully started.
+L 04/12/2020 - 23:14:13: [admin_stealth.smx] LaGayBomba has toggled stealth mode.
+L 04/12/2020 - 23:14:19: [admin_stealth.smx] LaGayBomba has toggled stealth mode.
+L 04/12/2020 - 23:17:16: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/12/2020 - 23:24:02: [sm_hosties.smx] "Androméďa<2><STEAM_1:0:93774482><>" respawned "Colin<5><BOT><>"
+L 04/12/2020 - 23:26:00: [admin_stealth.smx] LaGayBomba has toggled stealth mode.
+L 04/12/2020 - 23:26:12: [admin_stealth.smx] LaGayBomba has toggled stealth mode.
+L 04/12/2020 - 23:38:59: [rockthevote.smx] [RTV] Rockthevote was successfully started.
+L 04/12/2020 - 23:39:14: [rockthevote.smx] [RTV] Rockthevote has ended, current map kept.
+L 04/12/2020 - 23:39:48: [rockthevote.smx] [RTV] Rockthevote was successfully started.
+L 04/12/2020 - 23:39:51: [rockthevote.smx] [RTV] Rockthevote has ended, current map kept.
+L 04/12/2020 - 23:40:35: [rockthevote.smx] [RTV] Rockthevote was successfully started.
+L 04/13/2020 - 00:01:19: Log file closed.

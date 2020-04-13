@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/custom_player/kodua/negan/eyelashes"
+	"$translucent" "1"
+	//"$alphatest" "1"
+	//"$alphatestreference" "0.1"
+	//"$nocull" "1"
+}

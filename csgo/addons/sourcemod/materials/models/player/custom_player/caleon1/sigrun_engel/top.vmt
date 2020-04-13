@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/custom_player/caleon1/sigrun_engel/top"
+	"$bumpmap" "models/player/custom_player/caleon1/sigrun_engel/top_n"
+}

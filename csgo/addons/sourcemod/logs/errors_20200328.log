@@ -1,0 +1,146 @@
+L 03/28/2020 - 14:01:27: SourceMod error session started
+L 03/28/2020 - 14:01:27: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200328.log")
+L 03/28/2020 - 14:01:27: [SM] Exception reported: Could not open file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/MyJailbreak/Freekills-20-03-28.log"
+L 03/28/2020 - 14:01:27: [SM] Blaming: MyJailbreak/request.smx
+L 03/28/2020 - 14:01:27: [SM] Call stack trace:
+L 03/28/2020 - 14:01:27: [SM]   [0] LogToFileEx
+L 03/28/2020 - 14:01:27: [SM]   [1] Line 144, addons/sourcemod/scripting/MyJailbreak/MyJailbreak/Modules/Request/freekill.sp::Command_Freekill
+L 03/28/2020 - 14:01:27: [SM]   [2] Line 143, addons/sourcemod/scripting/MyJailbreak/MyJailbreak/Modules/Request/killreason.sp::Handler_KillReason
+L 03/28/2020 - 14:01:50: [SM] Exception reported: Could not open file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/MyJailbreak/Freekills-20-03-28.log"
+L 03/28/2020 - 14:01:50: [SM] Blaming: MyJailbreak/request.smx
+L 03/28/2020 - 14:01:50: [SM] Call stack trace:
+L 03/28/2020 - 14:01:50: [SM]   [0] LogToFileEx
+L 03/28/2020 - 14:01:50: [SM]   [1] Line 144, addons/sourcemod/scripting/MyJailbreak/MyJailbreak/Modules/Request/freekill.sp::Command_Freekill
+L 03/28/2020 - 14:01:50: [SM]   [2] Line 143, addons/sourcemod/scripting/MyJailbreak/MyJailbreak/Modules/Request/killreason.sp::Handler_KillReason
+L 03/28/2020 - 14:02:04: [SM] Exception reported: Could not open file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/MyJailbreak/Freekills-20-03-28.log"
+L 03/28/2020 - 14:02:04: [SM] Blaming: MyJailbreak/request.smx
+L 03/28/2020 - 14:02:04: [SM] Call stack trace:
+L 03/28/2020 - 14:02:04: [SM]   [0] LogToFileEx
+L 03/28/2020 - 14:02:04: [SM]   [1] Line 333, addons/sourcemod/scripting/MyJailbreak/MyJailbreak/Modules/Request/freekill.sp::FreeKillHandler
+L 03/28/2020 - 21:44:07: SourceMod error session started
+L 03/28/2020 - 21:44:07: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200328.log")
+L 03/28/2020 - 21:44:07: [SM] Exception reported: Could not open file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/MyJailbreak/MyJB-20-03-28.log"
+L 03/28/2020 - 21:44:07: [SM] Blaming: MyJailbreak/warden.smx
+L 03/28/2020 - 21:44:07: [SM] Call stack trace:
+L 03/28/2020 - 21:44:07: [SM]   [0] LogToFileEx
+L 03/28/2020 - 21:44:07: [SM]   [1] Line 794, addons/sourcemod/scripting/MyJailbreak/warden.sp::AdminCommand_RemoveWarden
+L 03/28/2020 - 21:44:07: [SM]   [3] FakeClientCommand
+L 03/28/2020 - 21:44:07: [SM]   [4] Line 359, addons/sourcemod/scripting/MyJailbreak/menu.sp::Handler_AdminMenu_RemoveWarden
+L 03/28/2020 - 21:49:34: [SM] Exception reported: Cannot set m_iItemDefinitionIndex with "FollowCSGOServerGuidelines" option enabled.
+L 03/28/2020 - 21:49:34: [SM] Blaming: sm_hosties.smx
+L 03/28/2020 - 21:49:34: [SM] Call stack trace:
+L 03/28/2020 - 21:49:34: [SM]   [0] SetEntProp
+L 03/28/2020 - 21:49:34: [SM]   [1] Line 5170, hosties/lastrequest.sp::Timer_Countdown
+L 03/28/2020 - 21:52:24: Error log file session closed.
+L 03/28/2020 - 22:21:36: SourceMod error session started
+L 03/28/2020 - 22:21:36: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200328.log")
+L 03/28/2020 - 22:21:36: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 03/28/2020 - 22:21:36: [SM] Exception reported: Mapcycle Not Found
+L 03/28/2020 - 22:21:36: [SM] Blaming: nextmap.smx
+L 03/28/2020 - 22:21:36: [SM] Call stack trace:
+L 03/28/2020 - 22:21:36: [SM]   [0] SetFailState
+L 03/28/2020 - 22:21:36: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 03/28/2020 - 22:21:36: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 03/28/2020 - 22:22:34: Error log file session closed.
+L 03/28/2020 - 22:22:36: SourceMod error session started
+L 03/28/2020 - 22:22:36: Info (map "ba_jail_electric_vip_v2") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200328.log")
+L 03/28/2020 - 22:22:36: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 03/28/2020 - 22:22:36: [SM] Exception reported: Mapcycle Not Found
+L 03/28/2020 - 22:22:36: [SM] Blaming: nextmap.smx
+L 03/28/2020 - 22:22:36: [SM] Call stack trace:
+L 03/28/2020 - 22:22:36: [SM]   [0] SetFailState
+L 03/28/2020 - 22:22:36: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 03/28/2020 - 22:22:36: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 03/28/2020 - 22:26:33: Error log file session closed.
+L 03/28/2020 - 22:40:48: SourceMod error session started
+L 03/28/2020 - 22:40:48: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200328.log")
+L 03/28/2020 - 22:40:48: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 03/28/2020 - 22:40:48: [SM] Exception reported: Mapcycle Not Found
+L 03/28/2020 - 22:40:48: [SM] Blaming: nextmap.smx
+L 03/28/2020 - 22:40:48: [SM] Call stack trace:
+L 03/28/2020 - 22:40:48: [SM]   [0] SetFailState
+L 03/28/2020 - 22:40:48: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 03/28/2020 - 22:40:48: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 03/28/2020 - 22:42:32: Error log file session closed.
+L 03/28/2020 - 22:42:34: SourceMod error session started
+L 03/28/2020 - 22:42:34: Info (map "ba_jail_electric_vip_v2") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200328.log")
+L 03/28/2020 - 22:42:34: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 03/28/2020 - 22:42:34: [SM] Exception reported: Mapcycle Not Found
+L 03/28/2020 - 22:42:34: [SM] Blaming: nextmap.smx
+L 03/28/2020 - 22:42:34: [SM] Call stack trace:
+L 03/28/2020 - 22:42:34: [SM]   [0] SetFailState
+L 03/28/2020 - 22:42:34: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 03/28/2020 - 22:42:34: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 03/28/2020 - 22:43:18: Error log file session closed.
+L 03/28/2020 - 22:56:51: SourceMod error session started
+L 03/28/2020 - 22:56:51: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200328.log")
+L 03/28/2020 - 22:56:51: [SM] Exception reported: Fatal error: Unable to open generic configuration file "addons/sourcemod/configs/skins/any.cfg"!
+L 03/28/2020 - 22:56:51: [SM] Blaming: csgo_skins.smx
+L 03/28/2020 - 22:56:51: [SM] Call stack trace:
+L 03/28/2020 - 22:56:51: [SM]   [0] SetFailState
+L 03/28/2020 - 22:56:51: [SM]   [1] Line 114, C:\csgo_skins.sp::OnMapStart
+L 03/28/2020 - 22:57:50: Error log file session closed.
+L 03/28/2020 - 22:57:52: SourceMod error session started
+L 03/28/2020 - 22:57:52: Info (map "jb_obama_v5_beta") (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/errors_20200328.log")
+L 03/28/2020 - 22:57:52: [SM] Exception reported: Fatal error: Unable to open generic configuration file "addons/sourcemod/configs/skins/any.cfg"!
+L 03/28/2020 - 22:57:52: [SM] Blaming: csgo_skins.smx
+L 03/28/2020 - 22:57:52: [SM] Call stack trace:
+L 03/28/2020 - 22:57:52: [SM]   [0] SetFailState
+L 03/28/2020 - 22:57:52: [SM]   [1] Line 114, C:\csgo_skins.sp::OnMapStart
+L 03/28/2020 - 22:57:52: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 03/28/2020 - 22:57:52: [SM] Exception reported: Mapcycle Not Found
+L 03/28/2020 - 22:57:52: [SM] Blaming: nextmap.smx
+L 03/28/2020 - 22:57:52: [SM] Call stack trace:
+L 03/28/2020 - 22:57:52: [SM]   [0] SetFailState
+L 03/28/2020 - 22:57:52: [SM]   [1] Line 143, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::FindAndSetNextMap
+L 03/28/2020 - 22:57:52: [SM]   [2] Line 113, /home/builds/sourcemod/linux-1.10/build/plugins/nextmap.sp::OnConfigsExecuted
+L 03/28/2020 - 23:02:51: [SM] Exception reported: Could not open file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/MyJailbreak/Freekills-20-03-28.log"
+L 03/28/2020 - 23:02:51: [SM] Blaming: MyJailbreak/request.smx
+L 03/28/2020 - 23:02:51: [SM] Call stack trace:
+L 03/28/2020 - 23:02:51: [SM]   [0] LogToFileEx
+L 03/28/2020 - 23:02:51: [SM]   [1] Line 144, addons/sourcemod/scripting/MyJailbreak/MyJailbreak/Modules/Request/freekill.sp::Command_Freekill
+L 03/28/2020 - 23:02:51: [SM]   [2] Line 143, addons/sourcemod/scripting/MyJailbreak/MyJailbreak/Modules/Request/killreason.sp::Handler_KillReason
+L 03/28/2020 - 23:03:49: [SM] Exception reported: Could not open file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/MyJailbreak/Freekills-20-03-28.log"
+L 03/28/2020 - 23:03:49: [SM] Blaming: MyJailbreak/request.smx
+L 03/28/2020 - 23:03:49: [SM] Call stack trace:
+L 03/28/2020 - 23:03:49: [SM]   [0] LogToFileEx
+L 03/28/2020 - 23:03:49: [SM]   [1] Line 144, addons/sourcemod/scripting/MyJailbreak/MyJailbreak/Modules/Request/freekill.sp::Command_Freekill
+L 03/28/2020 - 23:03:49: [SM]   [2] Line 143, addons/sourcemod/scripting/MyJailbreak/MyJailbreak/Modules/Request/killreason.sp::Handler_KillReason
+L 03/28/2020 - 23:10:21: [SM] Exception reported: Could not open file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/MyJailbreak/Freekills-20-03-28.log"
+L 03/28/2020 - 23:10:21: [SM] Blaming: MyJailbreak/request.smx
+L 03/28/2020 - 23:10:21: [SM] Call stack trace:
+L 03/28/2020 - 23:10:21: [SM]   [0] LogToFileEx
+L 03/28/2020 - 23:10:21: [SM]   [1] Line 144, addons/sourcemod/scripting/MyJailbreak/MyJailbreak/Modules/Request/freekill.sp::Command_Freekill
+L 03/28/2020 - 23:10:21: [SM]   [2] Line 143, addons/sourcemod/scripting/MyJailbreak/MyJailbreak/Modules/Request/killreason.sp::Handler_KillReason
+L 03/28/2020 - 23:18:09: [SM] Exception reported: Could not open file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/MyJailbreak/Freekills-20-03-28.log"
+L 03/28/2020 - 23:18:09: [SM] Blaming: MyJailbreak/request.smx
+L 03/28/2020 - 23:18:09: [SM] Call stack trace:
+L 03/28/2020 - 23:18:09: [SM]   [0] LogToFileEx
+L 03/28/2020 - 23:18:09: [SM]   [1] Line 144, addons/sourcemod/scripting/MyJailbreak/MyJailbreak/Modules/Request/freekill.sp::Command_Freekill
+L 03/28/2020 - 23:18:09: [SM]   [2] Line 143, addons/sourcemod/scripting/MyJailbreak/MyJailbreak/Modules/Request/killreason.sp::Handler_KillReason
+L 03/28/2020 - 23:24:08: [SM] Exception reported: Invalid data pack position, 72 is out of bounds (18)
+L 03/28/2020 - 23:24:08: [SM] Blaming: sm_hosties.smx
+L 03/28/2020 - 23:24:08: [SM] Call stack trace:
+L 03/28/2020 - 23:24:08: [SM]   [0] SetPackPosition
+L 03/28/2020 - 23:24:08: [SM]   [1] Line 2184, hosties/lastrequest.sp::OnWeaponDrop
+L 03/28/2020 - 23:24:09: [SM] Exception reported: Invalid data pack position, 96 is out of bounds (18)
+L 03/28/2020 - 23:24:09: [SM] Blaming: sm_hosties.smx
+L 03/28/2020 - 23:24:09: [SM] Call stack trace:
+L 03/28/2020 - 23:24:09: [SM]   [0] SetPackPosition
+L 03/28/2020 - 23:24:09: [SM]   [1] Line 1600, hosties/lastrequest.sp::LastRequest_PlayerJump
+L 03/28/2020 - 23:24:10: [SM] Exception reported: Invalid data pack position, 48 is out of bounds (18)
+L 03/28/2020 - 23:24:10: [SM] Blaming: sm_hosties.smx
+L 03/28/2020 - 23:24:10: [SM] Call stack trace:
+L 03/28/2020 - 23:24:10: [SM]   [0] SetPackPosition
+L 03/28/2020 - 23:24:10: [SM]   [1] Line 2166, hosties/lastrequest.sp::OnWeaponDrop
+L 03/28/2020 - 23:24:14: [SM] Exception reported: Could not open file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/MyJailbreak/Freekills-20-03-28.log"
+L 03/28/2020 - 23:24:14: [SM] Blaming: MyJailbreak/request.smx
+L 03/28/2020 - 23:24:14: [SM] Call stack trace:
+L 03/28/2020 - 23:24:14: [SM]   [0] LogToFileEx
+L 03/28/2020 - 23:24:14: [SM]   [1] Line 144, addons/sourcemod/scripting/MyJailbreak/MyJailbreak/Modules/Request/freekill.sp::Command_Freekill
+L 03/28/2020 - 23:24:14: [SM]   [2] Line 134, addons/sourcemod/scripting/MyJailbreak/MyJailbreak/Modules/Request/killreason.sp::Handler_KillReason
+L 03/28/2020 - 23:32:56: [SM] Exception reported: Client index 0 is not valid
+L 03/28/2020 - 23:32:56: [SM] Blaming: MyJailbreak/freeday.smx
+L 03/28/2020 - 23:32:56: [SM] Call stack trace:
+L 03/28/2020 - 23:32:56: [SM]   [0] CS_RespawnPlayer
+L 03/28/2020 - 23:32:56: [SM]   [1] Line 878, addons/sourcemod/scripting/MyJailbreak/freeday.sp::Timer_Respawn

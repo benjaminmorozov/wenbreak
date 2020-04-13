@@ -1,0 +1,24 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"		"1.2.3"
+			"Previous"		"1.2.2"
+		}
+
+		"Notes"	"Changes in 1.2.3:"
+		"Notes"	"Added proper support for workshop maps"
+		"Notes"	"Fixed a few issues with skins after controlling a bot"
+		"Notes"	"Fixed a bug when some players without access could get admin skins"
+		"Notes"	"Optimized plugin a bit"
+		"Notes"	"Compiled against SM 1.5.0"
+	}
+
+	"Files"
+	{
+		"Plugin"		"Path_SM/plugins/csgo_skins.smx"
+		"Source"		"Path_SM/scripting/csgo_skins.sp"
+	}
+}

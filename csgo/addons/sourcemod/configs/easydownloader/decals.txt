@@ -1,0 +1,13 @@
+//Decals
+materials\models\player\custom_player\hekut\maverick\Maverick_Bag.vmt
+materials\models\player\custom_player\hekut\maverick\Maverick_Bag_D.vtf
+materials\models\player\custom_player\hekut\maverick\Maverick_Bag_N.vtf
+materials\models\player\custom_player\hekut\maverick\Maverick_Hair.vmt
+materials\models\player\custom_player\hekut\maverick\Maverick_Hair_D.vtf
+materials\models\player\custom_player\hekut\maverick\Maverick_Hair_N.vtf
+materials\models\player\custom_player\hekut\maverick\Maverick_Head.vmt
+materials\models\player\custom_player\hekut\maverick\Maverick_Head_D.vtf
+materials\models\player\custom_player\hekut\maverick\Maverick_Head_N.vtf
+materials\models\player\custom_player\hekut\maverick\Maverick_HekuT.vmt
+materials\models\player\custom_player\hekut\maverick\Maverick_HekuT_D.vtf
+materials\models\player\custom_player\hekut\maverick\Maverick_HekuT_N.vtf

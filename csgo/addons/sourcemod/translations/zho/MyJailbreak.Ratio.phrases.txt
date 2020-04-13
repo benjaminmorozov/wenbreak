@@ -1,0 +1,16 @@
+// Exported from SourceMod Translator
+// Date: 2019-01-09 21:28:16 UTC
+// Language: Chinese (Traditional) (zho)
+// 
+// To view other translations for this plugin, please visit:
+// http://translator.mitchdempsey.com/sourcemod_plugins/201
+//
+"Phrases"
+{
+
+	"ratio_notaccept"
+	{
+		"zho"		"不,我並不想成為警衛."
+	}
+
+}

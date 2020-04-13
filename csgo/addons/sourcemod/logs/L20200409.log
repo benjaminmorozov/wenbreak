@@ -1,0 +1,714 @@
+L 04/09/2020 - 00:20:36: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 00:20:36: Log file closed.
+L 04/09/2020 - 00:20:54: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 00:20:54: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 00:21:09: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 00:21:12: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 00:21:12: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 00:21:32: [hextags.smx] Smoweday<3><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/09/2020 - 00:22:47: [hextags.smx] MilkA<4><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/09/2020 - 00:25:38: Log file closed.
+L 04/09/2020 - 00:25:54: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 00:25:54: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 00:26:04: Log file closed.
+L 04/09/2020 - 00:26:22: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 00:26:22: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 00:26:35: Log file closed.
+L 04/09/2020 - 00:26:50: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 00:26:50: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 00:27:04: Log file closed.
+L 04/09/2020 - 00:27:22: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 00:27:22: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 00:27:55: Log file closed.
+L 04/09/2020 - 00:32:03: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 00:32:03: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 00:32:44: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 00:32:47: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 00:32:47: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 00:46:23: Log file closed.
+L 04/09/2020 - 00:46:39: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 00:46:39: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 00:47:03: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 00:47:06: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 00:47:06: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 00:51:20: [sm_hosties.smx] "Smoweday<4><STEAM_1:0:505070462><>" respawned "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/09/2020 - 00:51:49: [sm_hosties.smx] "Smoweday<4><STEAM_1:0:505070462><>" respawned "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/09/2020 - 00:52:01: [sm_hosties.smx] "Smoweday<4><STEAM_1:0:505070462><>" respawned "MilkA<3><STEAM_1:0:242076907><>"
+L 04/09/2020 - 00:52:11: [funcommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/09/2020 - 00:52:17: [funcommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/09/2020 - 00:52:19: [funcommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/09/2020 - 00:52:20: [funcommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/09/2020 - 00:55:50: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 00:55:50: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 00:55:56: Log file closed.
+L 04/09/2020 - 00:57:47: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 00:57:47: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 00:57:59: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 00:58:02: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 00:58:02: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 00:58:33: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 00:58:33: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:00:13: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 01:00:16: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 01:00:16: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 01:00:36: [hextags.smx] MilkA<3><STEAM_1:0:242076907><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/09/2020 - 01:00:52: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:00:52: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:00:57: Log file closed.
+L 04/09/2020 - 01:01:29: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:01:29: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:01:45: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 01:01:49: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 01:01:49: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 01:02:42: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:02:42: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:04:30: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 01:04:33: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 01:04:33: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 01:06:08: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:06:08: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:09:37: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 01:09:40: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 01:09:40: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 01:09:45: [hextags.smx] Smoweday<2><STEAM_1:0:505070462><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/09/2020 - 01:10:14: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:10:14: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:11:19: Log file closed.
+L 04/09/2020 - 01:11:35: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:11:35: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:11:54: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 01:11:58: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 01:11:58: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 01:12:55: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:12:55: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:13:16: Log file closed.
+L 04/09/2020 - 01:13:32: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:13:32: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:14:51: Log file closed.
+L 04/09/2020 - 01:15:07: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:15:07: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:15:23: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 01:15:26: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 01:15:26: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 01:16:04: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:16:04: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:16:20: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 01:16:23: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 01:16:23: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 01:17:04: [funcommands.smx] "MilkA<2><STEAM_1:0:242076907><>" toggled noclip on "MilkA<2><STEAM_1:0:242076907><>"
+L 04/09/2020 - 01:17:14: [funcommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" toggled noclip on "MilkA<2><STEAM_1:0:242076907><>"
+L 04/09/2020 - 01:17:15: [funcommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/09/2020 - 01:17:16: [funcommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/09/2020 - 01:17:27: [movecommands.smx] "MilkA<2><STEAM_1:0:242076907><>" was moved to CT by "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/09/2020 - 01:17:27: [movecommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" was moved to CT by "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/09/2020 - 01:17:42: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:17:42: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:17:47: Log file closed.
+L 04/09/2020 - 01:18:03: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:18:03: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:18:27: Log file closed.
+L 04/09/2020 - 01:18:42: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:18:42: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:18:54: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 01:18:57: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 01:18:57: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 01:19:21: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:19:21: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:20:37: Log file closed.
+L 04/09/2020 - 01:20:53: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:20:53: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:21:05: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 01:21:08: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 01:21:08: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 01:21:41: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:21:41: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:23:30: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 01:23:33: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 01:23:33: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 01:24:05: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:24:05: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:27:07: Log file closed.
+L 04/09/2020 - 01:30:18: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:30:18: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:30:28: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 01:30:31: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 01:30:31: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 01:30:52: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:30:52: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:31:08: Log file closed.
+L 04/09/2020 - 01:31:29: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:31:29: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:31:39: Log file closed.
+L 04/09/2020 - 01:31:57: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:31:57: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:32:08: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 01:32:10: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 01:32:10: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 01:33:00: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:33:00: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:33:04: Log file closed.
+L 04/09/2020 - 01:36:14: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:36:14: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:36:32: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 01:36:35: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 01:36:35: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 01:46:43: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:46:43: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:46:59: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 01:47:02: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 01:47:02: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 01:47:36: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:47:36: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:47:47: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 01:47:51: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 01:47:51: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 01:48:38: [sm_hosties.smx] "MilkA<2><STEAM_1:0:242076907><>" respawned "MilkA<2><STEAM_1:0:242076907><>"
+L 04/09/2020 - 01:52:17: [sm_hosties.smx] "Smoweday<3><STEAM_1:0:505070462><>" respawned "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/09/2020 - 01:53:35: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:53:35: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:53:48: Log file closed.
+L 04/09/2020 - 01:54:04: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 01:54:04: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 01:54:24: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 01:54:27: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 01:54:27: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 02:01:49: Log file closed.
+L 04/09/2020 - 02:02:08: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 02:02:08: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 02:02:22: Log file closed.
+L 04/09/2020 - 02:02:37: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 02:02:37: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 02:02:47: Log file closed.
+L 04/09/2020 - 02:03:03: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 02:03:03: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 02:03:26: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 02:03:29: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 02:03:29: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 02:12:45: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 02:13:53: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 02:13:53: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 02:22:32: Log file closed.
+L 04/09/2020 - 02:22:47: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 02:22:47: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 02:23:16: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 02:23:26: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 02:23:26: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 02:29:21: Log file closed.
+L 04/09/2020 - 02:29:36: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 02:29:36: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 02:29:47: Log file closed.
+L 04/09/2020 - 02:30:01: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 02:30:01: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 02:30:13: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 02:30:16: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 02:30:16: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 02:41:03: Log file closed.
+L 04/09/2020 - 02:41:19: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 02:41:19: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 02:41:29: Log file closed.
+L 04/09/2020 - 02:41:45: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 02:41:45: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 02:41:57: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 02:42:00: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 02:42:00: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 02:44:00: Log file closed.
+L 04/09/2020 - 02:44:16: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 02:44:16: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 02:44:55: Log file closed.
+L 04/09/2020 - 02:45:12: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 02:45:12: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 02:45:22: Log file closed.
+L 04/09/2020 - 02:45:37: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 02:45:37: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 02:46:04: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 02:46:07: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 02:46:07: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 02:46:47: [hextags.smx] Androméďa<2><STEAM_1:0:93774482><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/09/2020 - 02:47:14: Log file closed.
+L 04/09/2020 - 02:47:29: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 02:47:29: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 02:48:02: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 02:48:05: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 02:48:05: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 02:48:21: [hextags.smx] Androméďa<2><STEAM_1:0:93774482><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/09/2020 - 02:49:42: Log file closed.
+L 04/09/2020 - 02:49:58: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 02:49:58: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 02:50:17: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 02:50:20: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 02:50:20: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 02:50:35: [hextags.smx] Androméďa<2><STEAM_1:0:93774482><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/09/2020 - 02:51:00: [hextags.smx] Androméďa<2><STEAM_1:0:93774482><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/09/2020 - 02:51:35: [hextags.smx] Androméďa<2><STEAM_1:0:93774482><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/09/2020 - 02:54:00: Log file closed.
+L 04/09/2020 - 02:54:18: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 02:54:18: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 02:54:36: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 02:54:40: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 02:54:40: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 02:55:05: [hextags.smx] Androméďa<2><STEAM_1:0:93774482><> was changed by an external plugin, forcing him back to the HexTags' default one!
+L 04/09/2020 - 02:57:19: Log file closed.
+L 04/09/2020 - 02:57:35: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 02:57:35: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 02:58:10: Log file closed.
+L 04/09/2020 - 02:58:27: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 02:58:27: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 02:59:39: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 02:59:43: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 02:59:43: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 14:31:53: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 14:31:53: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 14:32:11: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 14:32:14: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 14:32:14: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 14:33:30: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 14:33:30: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 14:34:23: Log file closed.
+L 04/09/2020 - 14:35:02: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 14:35:02: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 14:35:24: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 14:35:28: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 14:35:28: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 14:47:47: Log file closed.
+L 04/09/2020 - 14:48:03: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 14:48:03: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 14:48:27: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 14:48:31: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 14:48:31: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 15:00:12: Log file closed.
+L 04/09/2020 - 15:00:27: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:00:27: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:02:19: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 15:02:22: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 15:02:22: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 15:07:53: Log file closed.
+L 04/09/2020 - 15:12:20: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:12:20: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:12:36: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 15:12:40: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 15:12:40: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 15:16:50: Log file closed.
+L 04/09/2020 - 15:17:06: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:17:06: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:17:21: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 15:17:24: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 15:17:24: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 15:31:52: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 15:32:03: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 15:34:54: [sm_hosties.smx] "Peace0ut48<5><STEAM_1:1:527843285><>" respawned "Peace0ut48<5><STEAM_1:1:527843285><>"
+L 04/09/2020 - 15:35:03: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/09/2020 - 15:35:07: [admin_stealth.smx] Peace0ut48 has toggled stealth mode.
+L 04/09/2020 - 15:39:59: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:39:59: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:40:15: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:40:15: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:40:31: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:40:31: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:41:22: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:41:22: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:41:36: Log file closed.
+L 04/09/2020 - 15:41:54: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:41:54: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:42:23: Log file closed.
+L 04/09/2020 - 15:42:38: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:42:38: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:42:56: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:42:56: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:43:12: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:43:12: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:43:32: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:43:32: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:43:50: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:43:50: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:44:08: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:44:08: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:44:27: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:44:27: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:44:44: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:44:44: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:45:02: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:45:02: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:45:20: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:45:20: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:45:42: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:45:42: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:45:59: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:45:59: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:46:15: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:46:15: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:46:32: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:46:32: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:46:48: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:46:48: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:47:05: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:47:05: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:50:29: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 15:50:32: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 15:50:32: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 15:54:23: [funcommands.smx] "Blade<2><STEAM_1:1:454998401><>" toggled noclip on "Blade<2><STEAM_1:1:454998401><>"
+L 04/09/2020 - 15:54:27: [funcommands.smx] "Blade<2><STEAM_1:1:454998401><>" toggled noclip on "Blade<2><STEAM_1:1:454998401><>"
+L 04/09/2020 - 15:54:28: [funcommands.smx] "Blade<2><STEAM_1:1:454998401><>" toggled noclip on "Blade<2><STEAM_1:1:454998401><>"
+L 04/09/2020 - 15:54:29: [funcommands.smx] "Blade<2><STEAM_1:1:454998401><>" toggled noclip on "Blade<2><STEAM_1:1:454998401><>"
+L 04/09/2020 - 15:54:41: [funcommands.smx] "Blade<2><STEAM_1:1:454998401><>" toggled noclip on "Blade<2><STEAM_1:1:454998401><>"
+L 04/09/2020 - 15:54:46: [funcommands.smx] "Blade<2><STEAM_1:1:454998401><>" toggled noclip on "Blade<2><STEAM_1:1:454998401><>"
+L 04/09/2020 - 15:54:47: [funcommands.smx] "Blade<2><STEAM_1:1:454998401><>" toggled noclip on "Blade<2><STEAM_1:1:454998401><>"
+L 04/09/2020 - 15:55:06: [funcommands.smx] "Blade<2><STEAM_1:1:454998401><>" toggled noclip on "Blade<2><STEAM_1:1:454998401><>"
+L 04/09/2020 - 15:55:07: [funcommands.smx] "Blade<2><STEAM_1:1:454998401><>" toggled noclip on "Blade<2><STEAM_1:1:454998401><>"
+L 04/09/2020 - 15:55:08: [funcommands.smx] "Blade<2><STEAM_1:1:454998401><>" toggled noclip on "Blade<2><STEAM_1:1:454998401><>"
+L 04/09/2020 - 15:56:15: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 15:56:18: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 15:56:18: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 15:57:18: Log file closed.
+L 04/09/2020 - 15:57:33: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 15:57:33: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 15:58:59: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 15:59:02: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 15:59:02: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 15:59:54: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 15:59:56: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 16:05:07: Log file closed.
+L 04/09/2020 - 16:05:23: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 16:05:23: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 16:05:36: Log file closed.
+L 04/09/2020 - 16:05:51: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 16:05:51: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 16:06:00: Log file closed.
+L 04/09/2020 - 16:06:17: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 16:06:17: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 16:06:31: Log file closed.
+L 04/09/2020 - 16:06:47: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 16:06:47: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 16:06:58: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 16:07:01: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 16:07:01: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 16:08:07: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 16:08:09: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 16:23:04: Log file closed.
+L 04/09/2020 - 16:28:18: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 16:28:18: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 16:28:32: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 16:28:35: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 16:28:35: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 16:28:57: Log file closed.
+L 04/09/2020 - 16:31:49: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 16:31:49: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 16:32:05: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 16:32:08: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 16:32:08: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 16:46:50: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 16:46:50: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 16:47:01: [sm_hosties.smx] "Peace0ut48<3><STEAM_1:1:527843285><>" respawned "ten co hraje 24/7<4><STEAM_1:0:538526570><>"
+L 04/09/2020 - 16:47:02: Log file closed.
+L 04/09/2020 - 16:47:50: [basecommands.smx] "Peace0ut48<3><STEAM_1:1:527843285><>" kicked "ten co hraje 24/7<4><STEAM_1:0:538526570><>" (reason "")
+L 04/09/2020 - 16:57:07: Log file closed.
+L 04/09/2020 - 16:57:23: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 16:57:23: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 16:57:55: Log file closed.
+L 04/09/2020 - 16:58:10: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 16:58:10: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 16:58:35: Log file closed.
+L 04/09/2020 - 16:58:51: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 16:58:51: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 16:59:05: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 16:59:08: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 16:59:08: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 17:07:09: Log file closed.
+L 04/09/2020 - 17:07:26: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 17:07:26: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 17:07:42: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 17:07:46: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 17:07:46: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 17:10:22: Log file closed.
+L 04/09/2020 - 17:10:37: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 17:10:37: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 18:58:37: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 18:58:37: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 18:59:22: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 18:59:25: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 18:59:25: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 19:01:09: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 19:01:11: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 19:04:28: [basecommands.smx] "MilkA<2><STEAM_1:0:242076907><>" changed map to "jb_marioworld_rsc"
+L 04/09/2020 - 19:04:31: [SM] Changed map to "jb_marioworld_rsc"
+L 04/09/2020 - 19:04:33: -------- Mapchange to jb_marioworld_rsc --------
+L 04/09/2020 - 19:04:36: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 19:04:36: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 19:05:26: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 19:05:29: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 19:05:33: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 19:05:48: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 19:08:01: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 19:08:04: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 19:08:06: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 19:08:10: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 19:10:54: [sm_hosties.smx] "Smoweday<7><STEAM_1:0:505070462><>" respawned "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/09/2020 - 19:10:59: [funcommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/09/2020 - 19:11:02: [funcommands.smx] "Smoweday<7><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<7><STEAM_1:0:505070462><>"
+L 04/09/2020 - 19:13:35: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 19:13:37: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 19:13:40: [admin_stealth.smx] Smoweday has toggled stealth mode.
+L 04/09/2020 - 19:13:45: [admin_stealth.smx] Smoweday has toggled stealth mode.
+L 04/09/2020 - 19:15:32: Log file closed.
+L 04/09/2020 - 19:15:47: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 19:15:47: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 19:15:58: Log file closed.
+L 04/09/2020 - 19:16:14: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 19:16:14: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 19:16:25: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 19:16:28: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 19:16:28: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 19:17:24: [sm_hosties.smx] "MilkA<14><STEAM_1:0:242076907><>" respawned "MilkA<14><STEAM_1:0:242076907><>"
+L 04/09/2020 - 19:18:35: [sm_hosties.smx] "Smoweday<15><STEAM_1:0:505070462><>" respawned "Smoweday<15><STEAM_1:0:505070462><>"
+L 04/09/2020 - 19:19:45: Log file closed.
+L 04/09/2020 - 19:20:00: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 19:20:00: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 19:20:12: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 19:20:15: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 19:20:15: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 19:21:05: [sm_hosties.smx] "Androméďa<4><STEAM_1:0:93774482><>" respawned "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/09/2020 - 19:21:25: [sm_hosties.smx] "Smoweday<2><STEAM_1:0:505070462><>" respawned "Smoweday<2><STEAM_1:0:505070462><>"
+L 04/09/2020 - 19:22:48: [sm_hosties.smx] "Smoweday<2><STEAM_1:0:505070462><>" respawned "Smoweday<2><STEAM_1:0:505070462><>"
+L 04/09/2020 - 19:22:56: [sm_hosties.smx] "Smoweday<2><STEAM_1:0:505070462><>" respawned "Smoweday<2><STEAM_1:0:505070462><>"
+L 04/09/2020 - 19:23:02: [sm_hosties.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "MilkA<3><STEAM_1:0:242076907><>"
+L 04/09/2020 - 19:23:02: [sm_hosties.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "Androméďa<4><STEAM_1:0:93774482><>"
+L 04/09/2020 - 19:23:10: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 19:23:12: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 19:23:23: [sm_hosties.smx] "Smoweday<2><STEAM_1:0:505070462><>" respawned "Smoweday<2><STEAM_1:0:505070462><>"
+L 04/09/2020 - 19:24:25: [sm_hosties.smx] "Smoweday<2><STEAM_1:0:505070462><>" respawned "Smoweday<2><STEAM_1:0:505070462><>"
+L 04/09/2020 - 19:29:18: [extendedcomm.smx] Smoweday<2><STEAM_1:0:505070462><> issued an extended gag on MilkA<3><STEAM_1:0:242076907><> for 1 minutes.
+L 04/09/2020 - 19:31:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 04/09/2020 - 19:33:06: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slayed "MilkA<3><STEAM_1:0:242076907><>"
+L 04/09/2020 - 19:35:32: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/09/2020 - 19:35:32: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/09/2020 - 19:35:32: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "Smoweday<2><STEAM_1:0:505070462><>" (damage "0")
+L 04/09/2020 - 19:35:33: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "MilkA<3><STEAM_1:0:242076907><>" (damage "0")
+L 04/09/2020 - 19:35:33: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "MilkA<3><STEAM_1:0:242076907><>" (damage "0")
+L 04/09/2020 - 19:35:33: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "MilkA<3><STEAM_1:0:242076907><>" (damage "0")
+L 04/09/2020 - 19:35:33: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "MilkA<3><STEAM_1:0:242076907><>" (damage "0")
+L 04/09/2020 - 19:35:33: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "MilkA<3><STEAM_1:0:242076907><>" (damage "0")
+L 04/09/2020 - 19:35:33: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "MilkA<3><STEAM_1:0:242076907><>" (damage "0")
+L 04/09/2020 - 19:35:33: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "MilkA<3><STEAM_1:0:242076907><>" (damage "0")
+L 04/09/2020 - 19:35:34: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "MilkA<3><STEAM_1:0:242076907><>" (damage "0")
+L 04/09/2020 - 19:35:34: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "MilkA<3><STEAM_1:0:242076907><>" (damage "0")
+L 04/09/2020 - 19:35:34: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "MilkA<3><STEAM_1:0:242076907><>" (damage "0")
+L 04/09/2020 - 19:35:34: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "MilkA<3><STEAM_1:0:242076907><>" (damage "0")
+L 04/09/2020 - 19:35:34: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "MilkA<3><STEAM_1:0:242076907><>" (damage "0")
+L 04/09/2020 - 19:35:34: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "MilkA<3><STEAM_1:0:242076907><>" (damage "0")
+L 04/09/2020 - 19:35:35: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "MilkA<3><STEAM_1:0:242076907><>" (damage "0")
+L 04/09/2020 - 19:35:35: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "MilkA<3><STEAM_1:0:242076907><>" (damage "0")
+L 04/09/2020 - 19:35:35: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "MilkA<3><STEAM_1:0:242076907><>" (damage "0")
+L 04/09/2020 - 19:35:35: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "MilkA<3><STEAM_1:0:242076907><>" (damage "0")
+L 04/09/2020 - 19:35:35: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "MilkA<3><STEAM_1:0:242076907><>" (damage "0")
+L 04/09/2020 - 19:35:35: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "MilkA<3><STEAM_1:0:242076907><>" (damage "0")
+L 04/09/2020 - 19:35:35: [playercommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" slapped "MilkA<3><STEAM_1:0:242076907><>" (damage "0")
+L 04/09/2020 - 19:36:06: [basecommands.smx] "Smoweday<2><STEAM_1:0:505070462><>" changed map to "ba_2016_minecraft_beta5"
+L 04/09/2020 - 19:36:09: [SM] Changed map to "ba_2016_minecraft_beta5"
+L 04/09/2020 - 19:36:11: -------- Mapchange to ba_2016_minecraft_beta5 --------
+L 04/09/2020 - 19:36:30: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 19:36:30: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 19:36:48: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 19:36:51: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 19:36:51: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 19:37:41: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 19:37:43: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 19:39:19: [funcommands.smx] "Androméďa<2><STEAM_1:0:93774482><>" toggled noclip on "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/09/2020 - 19:39:22: [funcommands.smx] "Androméďa<2><STEAM_1:0:93774482><>" toggled noclip on "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/09/2020 - 19:44:16: Log file closed.
+L 04/09/2020 - 19:44:33: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 19:44:33: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 19:44:41: Log file closed.
+L 04/09/2020 - 19:44:58: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 19:44:58: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 19:45:12: Log file closed.
+L 04/09/2020 - 19:45:28: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 19:45:28: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 19:45:49: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 19:45:52: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 19:45:52: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 19:46:12: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 19:46:13: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 19:47:40: [sm_hosties.smx] "MilkA<4><STEAM_1:0:242076907><>" respawned "MilkA<4><STEAM_1:0:242076907><>"
+L 04/09/2020 - 19:56:38: [sm_hosties.smx] "MilkA<4><STEAM_1:0:242076907><>" slayed "Smoweday<2><STEAM_1:0:505070462><>"
+L 04/09/2020 - 19:56:40: [sm_hosties.smx] "Smoweday<2><STEAM_1:0:505070462><>" respawned "Smoweday<2><STEAM_1:0:505070462><>"
+L 04/09/2020 - 19:56:41: [sm_hosties.smx] "Smoweday<2><STEAM_1:0:505070462><>" respawned "MilkA<4><STEAM_1:0:242076907><>"
+L 04/09/2020 - 19:57:15: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 19:57:18: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 19:57:53: [playercommands.smx] "MilkA<4><STEAM_1:0:242076907><>" slayed "Smoweday<2><STEAM_1:0:505070462><>"
+L 04/09/2020 - 20:01:38: [extendedcomm.smx] MilkA<4><STEAM_1:0:242076907><> issued a permanent gag on Smoweday<2><STEAM_1:0:505070462><>.
+L 04/09/2020 - 20:01:54: [extendedcomm.smx] Smoweday<2><STEAM_1:0:505070462><> removed a permanent gag from Smoweday<2><STEAM_1:0:505070462><>.
+L 04/09/2020 - 20:02:19: [funcommands.smx] "MilkA<4><STEAM_1:0:242076907><>" toggled noclip on "MilkA<4><STEAM_1:0:242076907><>"
+L 04/09/2020 - 20:02:23: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 20:02:27: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 20:02:35: [funcommands.smx] "MilkA<4><STEAM_1:0:242076907><>" toggled noclip on "MilkA<4><STEAM_1:0:242076907><>"
+L 04/09/2020 - 20:02:36: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 20:02:38: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 20:03:00: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 20:03:01: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 20:03:07: [funcommands.smx] "MilkA<4><STEAM_1:0:242076907><>" toggled noclip on "MilkA<4><STEAM_1:0:242076907><>"
+L 04/09/2020 - 20:03:31: [funcommands.smx] "MilkA<4><STEAM_1:0:242076907><>" toggled noclip on "MilkA<4><STEAM_1:0:242076907><>"
+L 04/09/2020 - 20:03:38: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 20:03:42: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 20:04:07: [funcommands.smx] "MilkA<4><STEAM_1:0:242076907><>" toggled noclip on "MilkA<4><STEAM_1:0:242076907><>"
+L 04/09/2020 - 20:04:13: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 20:04:17: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 20:04:33: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 20:04:41: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 20:04:54: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 20:05:00: [funcommands.smx] "MilkA<4><STEAM_1:0:242076907><>" toggled noclip on "MilkA<4><STEAM_1:0:242076907><>"
+L 04/09/2020 - 20:05:23: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 20:05:23: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 20:05:37: Log file closed.
+L 04/09/2020 - 20:05:54: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 20:05:54: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 20:06:18: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 20:06:22: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 20:06:22: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 20:06:33: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 20:06:34: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 20:15:23: Log file closed.
+L 04/09/2020 - 20:18:09: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 20:18:09: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 20:18:54: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 20:18:57: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 20:18:57: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 21:29:18: Log file closed.
+L 04/09/2020 - 21:37:03: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 21:37:03: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 21:42:25: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 21:42:29: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 21:42:29: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 21:43:57: Log file closed.
+L 04/09/2020 - 21:44:33: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 21:44:33: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 21:44:49: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 21:44:52: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 21:44:52: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 21:48:24: Log file closed.
+L 04/09/2020 - 21:48:40: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 21:48:40: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 21:54:52: Log file closed.
+L 04/09/2020 - 21:55:08: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 21:55:08: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 21:55:19: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 21:55:22: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 21:55:22: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 22:08:03: Log file closed.
+L 04/09/2020 - 22:08:18: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 22:08:18: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 22:08:36: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 22:08:39: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 22:08:39: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 22:22:24: Log file closed.
+L 04/09/2020 - 22:22:40: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 22:22:40: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 22:22:54: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 22:22:58: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 22:22:58: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 22:32:09: Log file closed.
+L 04/09/2020 - 22:32:25: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 22:32:25: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 22:32:40: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 22:32:43: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 22:32:43: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 22:36:54: Log file closed.
+L 04/09/2020 - 22:37:09: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 22:37:09: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 22:37:20: Log file closed.
+L 04/09/2020 - 22:37:38: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 22:37:38: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 22:37:53: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 22:37:56: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 22:37:56: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 22:39:46: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 22:39:49: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 22:39:49: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 22:46:17: Log file closed.
+L 04/09/2020 - 22:46:35: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 22:46:35: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 22:46:56: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 22:46:59: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 22:46:59: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 22:50:36: [sm_hosties.smx] "Smoweday<3><STEAM_1:0:505070462><>" respawned "Smoweday<3><STEAM_1:0:505070462><>"
+L 04/09/2020 - 23:04:36: Log file closed.
+L 04/09/2020 - 23:04:54: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 23:04:54: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 23:05:11: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 23:05:14: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 23:05:14: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 23:14:49: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 23:14:52: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 23:14:52: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 23:23:00: Log file closed.
+L 04/09/2020 - 23:23:17: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 23:23:17: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 23:23:32: Log file closed.
+L 04/09/2020 - 23:23:49: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 23:23:49: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 23:24:19: -------- Mapchange to jb_obama_v5_beta --------
+L 04/09/2020 - 23:24:22: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 23:24:22: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 23:32:24: [sm_hosties.smx] "Smoweday<4><STEAM_1:0:505070462><>" respawned "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/09/2020 - 23:32:33: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/09/2020 - 23:32:34: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/09/2020 - 23:32:54: [sm_hosties.smx] "Smoweday<4><STEAM_1:0:505070462><>" respawned "Blade<3><STEAM_1:1:454998401><>"
+L 04/09/2020 - 23:32:57: [playercommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" slayed "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/09/2020 - 23:32:58: [sm_hosties.smx] "Smoweday<4><STEAM_1:0:505070462><>" respawned "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/09/2020 - 23:33:04: [playercommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" slayed "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/09/2020 - 23:33:07: [sm_hosties.smx] "Smoweday<4><STEAM_1:0:505070462><>" respawned "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/09/2020 - 23:36:19: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" ignited "Smoweday<4><STEAM_1:0:505070462><>" (seconds "20.000000")
+L 04/09/2020 - 23:36:31: [extendedcomm.smx] Blade<3><STEAM_1:1:454998401><> issued a permanent mute on Smoweday<4><STEAM_1:0:505070462><>.
+L 04/09/2020 - 23:36:43: [extendedcomm.smx] Smoweday<4><STEAM_1:0:505070462><> issued an extended gag on Blade<3><STEAM_1:1:454998401><> for 1 minutes.
+L 04/09/2020 - 23:36:55: [extendedcomm.smx] Smoweday<4><STEAM_1:0:505070462><> removed an extended gag for 1 minutes from Blade<3><STEAM_1:1:454998401><>.
+L 04/09/2020 - 23:37:03: [funcommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/09/2020 - 23:37:06: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/09/2020 - 23:37:08: [funcommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/09/2020 - 23:37:10: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/09/2020 - 23:37:10: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/09/2020 - 23:37:10: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/09/2020 - 23:37:28: [movecommands.smx] "Androméďa<2><STEAM_1:0:93774482><>" was moved to T by "Blade<3><STEAM_1:1:454998401><>"
+L 04/09/2020 - 23:37:58: [playercommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" slayed "Blade<3><STEAM_1:1:454998401><>"
+L 04/09/2020 - 23:38:11: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/09/2020 - 23:38:12: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/09/2020 - 23:38:13: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/09/2020 - 23:38:13: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/09/2020 - 23:38:14: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/09/2020 - 23:38:17: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 23:38:19: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/09/2020 - 23:38:21: [admin_stealth.smx] Smoweday has toggled stealth mode.
+L 04/09/2020 - 23:38:28: [admin_stealth.smx] Smoweday has toggled stealth mode.
+L 04/09/2020 - 23:38:33: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/09/2020 - 23:41:36: [funcommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" drugged "Blade<3><STEAM_1:1:454998401><>"
+L 04/09/2020 - 23:41:36: [funcommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" drugged "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/09/2020 - 23:41:50: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" undrugged "Androméďa<2><STEAM_1:0:93774482><>"
+L 04/09/2020 - 23:41:50: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" undrugged "Blade<3><STEAM_1:1:454998401><>"
+L 04/09/2020 - 23:43:56: [playercommands.smx] "Blade<3><STEAM_1:1:454998401><>" slayed "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/09/2020 - 23:43:58: [playercommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" slayed "Blade<3><STEAM_1:1:454998401><>"
+L 04/09/2020 - 23:45:50: [sm_hosties.smx] "Smoweday<4><STEAM_1:0:505070462><>" respawned "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/09/2020 - 23:46:52: [basecommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" changed map to "jb_clouds_final5"
+L 04/09/2020 - 23:46:55: [SM] Changed map to "jb_clouds_final5"
+L 04/09/2020 - 23:46:57: -------- Mapchange to jb_clouds_final5 --------
+L 04/09/2020 - 23:47:01: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/09/2020 - 23:47:01: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/09/2020 - 23:48:37: [sm_hosties.smx] "Blade<3><STEAM_1:1:454998401><>" respawned "Blade<3><STEAM_1:1:454998401><>"
+L 04/09/2020 - 23:48:51: [playercommands.smx] "Blade<3><STEAM_1:1:454998401><>" slayed "Blade<3><STEAM_1:1:454998401><>"
+L 04/09/2020 - 23:48:53: [sm_hosties.smx] "Blade<3><STEAM_1:1:454998401><>" respawned "Blade<3><STEAM_1:1:454998401><>"
+L 04/09/2020 - 23:48:58: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/09/2020 - 23:49:14: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/09/2020 - 23:49:15: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/09/2020 - 23:49:40: [funcommands.smx] "Blade<3><STEAM_1:1:454998401><>" toggled noclip on "Blade<3><STEAM_1:1:454998401><>"
+L 04/09/2020 - 23:49:46: [funcommands.smx] "Smoweday<4><STEAM_1:0:505070462><>" toggled noclip on "Smoweday<4><STEAM_1:0:505070462><>"
+L 04/09/2020 - 23:51:32: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 23:51:32: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 23:51:44: Log file closed.
+L 04/09/2020 - 23:52:00: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 23:52:00: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 23:52:10: Log file closed.
+L 04/09/2020 - 23:52:26: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 23:52:26: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 23:52:49: Log file closed.
+L 04/09/2020 - 23:53:04: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 23:53:04: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 23:53:37: Log file closed.
+L 04/09/2020 - 23:54:05: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200409.log") (Version "1.10.0.6478")
+L 04/09/2020 - 23:54:05: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2020 - 23:57:58: Log file closed.

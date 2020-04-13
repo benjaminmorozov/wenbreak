@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/player/darnias/leon/head"
+	"$bumpmap" "models/player/darnias/leon/head_n"
+}
+

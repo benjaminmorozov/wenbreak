@@ -1,0 +1,325 @@
+L 04/13/2020 - 00:22:02: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200413.log") (Version "1.10.0.6478")
+L 04/13/2020 - 00:22:02: [movecommands.smx] "Androméďa<6><STEAM_1:0:93774482><>" was moved to T by "Androméďa<6><STEAM_1:0:93774482><>"
+L 04/13/2020 - 00:22:02: [movecommands.smx] "Jenssen<8><BOT><>" was moved to CT by "Androméďa<6><STEAM_1:0:93774482><>"
+L 04/13/2020 - 00:22:02: [movecommands.smx] "Colin<5><BOT><>" was moved to CT by "Androméďa<6><STEAM_1:0:93774482><>"
+L 04/13/2020 - 00:22:02: [movecommands.smx] "Orin<9><BOT><>" was moved to CT by "Androméďa<6><STEAM_1:0:93774482><>"
+L 04/13/2020 - 00:22:11: [movecommands.smx] "Androméďa<6><STEAM_1:0:93774482><>" was moved to CT by "Androméďa<6><STEAM_1:0:93774482><>"
+L 04/13/2020 - 00:22:11: [movecommands.smx] "Jenssen<8><BOT><>" was moved to T by "Androméďa<6><STEAM_1:0:93774482><>"
+L 04/13/2020 - 00:22:11: [movecommands.smx] "Colin<5><BOT><>" was moved to T by "Androméďa<6><STEAM_1:0:93774482><>"
+L 04/13/2020 - 00:22:11: [movecommands.smx] "Orin<9><BOT><>" was moved to T by "Androméďa<6><STEAM_1:0:93774482><>"
+L 04/13/2020 - 00:22:22: [movecommands.smx] "Colin<5><BOT><>" was moved to CT by "Androméďa<6><STEAM_1:0:93774482><>"
+L 04/13/2020 - 00:37:34: [movecommands.smx] "Jenssen<8><BOT><>" was moved to CT by "Androméďa<6><STEAM_1:0:93774482><>"
+L 04/13/2020 - 00:40:51: [SM] Changed map to "jb_arctic_jail_v3"
+L 04/13/2020 - 00:40:52: -------- Mapchange to jb_arctic_jail_v3 --------
+L 04/13/2020 - 00:40:55: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 00:40:55: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 00:40:55: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/13/2020 - 00:40:55: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/13/2020 - 00:42:46: [movecommands.smx] "Androméďa<6><STEAM_1:0:93774482><>" was moved to CT by "Androméďa<6><STEAM_1:0:93774482><>"
+L 04/13/2020 - 00:42:50: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/13/2020 - 00:42:52: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/13/2020 - 00:52:25: [movecommands.smx] "Androméďa<6><STEAM_1:0:93774482><>" was moved to T by "Androméďa<6><STEAM_1:0:93774482><>"
+L 04/13/2020 - 00:52:25: [movecommands.smx] "Ron<10><BOT><>" was moved to CT by "Androméďa<6><STEAM_1:0:93774482><>"
+L 04/13/2020 - 00:52:25: [movecommands.smx] "Calvin<11><BOT><>" was moved to CT by "Androméďa<6><STEAM_1:0:93774482><>"
+L 04/13/2020 - 00:52:25: [movecommands.smx] "Henry<12><BOT><>" was moved to CT by "Androméďa<6><STEAM_1:0:93774482><>"
+L 04/13/2020 - 00:56:27: Log file closed.
+L 04/13/2020 - 00:56:43: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200413.log") (Version "1.10.0.6478")
+L 04/13/2020 - 00:56:43: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/13/2020 - 00:56:46: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 00:56:46: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 00:57:25: Log file closed.
+L 04/13/2020 - 00:57:39: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200413.log") (Version "1.10.0.6478")
+L 04/13/2020 - 00:57:39: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/13/2020 - 00:57:42: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 00:57:42: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 00:58:36: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/13/2020 - 00:58:39: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 00:58:39: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 00:58:39: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/13/2020 - 00:58:39: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/13/2020 - 00:58:41: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/13/2020 - 01:00:22: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/13/2020 - 01:00:26: [admin_stealth.smx] Androméďa has toggled stealth mode.
+L 04/13/2020 - 01:11:58: Log file closed.
+L 04/13/2020 - 01:12:14: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200413.log") (Version "1.10.0.6478")
+L 04/13/2020 - 01:12:14: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/13/2020 - 01:12:17: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 01:12:17: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 01:12:29: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/13/2020 - 01:12:32: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 01:12:32: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 01:12:32: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/13/2020 - 01:12:32: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/13/2020 - 01:12:34: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/13/2020 - 01:20:26: Log file closed.
+L 04/13/2020 - 01:20:42: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200413.log") (Version "1.10.0.6478")
+L 04/13/2020 - 01:20:42: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/13/2020 - 01:20:45: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 01:20:45: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 01:21:08: Log file closed.
+L 04/13/2020 - 01:21:23: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200413.log") (Version "1.10.0.6478")
+L 04/13/2020 - 01:21:23: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/13/2020 - 01:21:26: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 01:21:26: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 01:23:02: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/13/2020 - 01:23:05: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 01:23:05: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 01:23:05: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/13/2020 - 01:23:05: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/13/2020 - 01:23:07: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/13/2020 - 01:27:33: Log file closed.
+L 04/13/2020 - 01:27:50: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200413.log") (Version "1.10.0.6478")
+L 04/13/2020 - 01:27:50: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/13/2020 - 01:27:52: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 01:27:52: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 01:28:08: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/13/2020 - 01:28:10: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 01:28:10: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 01:28:10: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/13/2020 - 01:28:10: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/13/2020 - 01:28:12: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/13/2020 - 01:28:24: Log file closed.
+L 04/13/2020 - 13:43:20: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200413.log") (Version "1.10.0.6478")
+L 04/13/2020 - 13:43:20: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/13/2020 - 13:43:23: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 13:43:23: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 13:44:22: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/13/2020 - 13:44:24: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 13:44:24: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 13:44:24: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/13/2020 - 13:44:24: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/13/2020 - 13:44:26: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/13/2020 - 13:47:57: [funcommands.smx] "Blade<2><STEAM_1:1:454998401><>" toggled noclip on "Androméďa<3><STEAM_1:0:93774482><>"
+L 04/13/2020 - 13:52:50: [admin_stealth.smx] Blade has toggled stealth mode.
+L 04/13/2020 - 13:52:51: [admin_stealth.smx] Blade has toggled stealth mode.
+L 04/13/2020 - 13:57:10: [admin_stealth.smx] Blade has toggled stealth mode.
+L 04/13/2020 - 13:57:13: [admin_stealth.smx] Blade has toggled stealth mode.
+L 04/13/2020 - 13:57:52: [admin_stealth.smx] Blade has toggled stealth mode.
+L 04/13/2020 - 13:57:54: [admin_stealth.smx] Blade has toggled stealth mode.
+L 04/13/2020 - 14:03:49: [sm_hosties.smx] "LaGayBomba<7><STEAM_1:1:527843285><>" respawned "LaGayBomba<7><STEAM_1:1:527843285><>"
+L 04/13/2020 - 14:36:01: [rockthevote.smx] [RTV] Rockthevote was successfully started.
+L 04/13/2020 - 14:48:12: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/13/2020 - 14:48:15: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 14:48:15: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 14:48:15: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/13/2020 - 14:48:15: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/13/2020 - 14:50:35: [rockthevote.smx] [RTV] Rockthevote was successfully started.
+L 04/13/2020 - 14:50:41: [rockthevote.smx] [RTV] Rockthevote has ended, changing to map jb_putin_v2.
+L 04/13/2020 - 14:50:47: -------- Mapchange to jb_putin_v2 --------
+L 04/13/2020 - 14:50:50: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 14:50:50: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 14:50:50: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/13/2020 - 14:50:50: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/13/2020 - 16:12:46: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200413.log") (Version "1.10.0.6478")
+L 04/13/2020 - 16:12:46: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/13/2020 - 16:12:54: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 16:12:54: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 16:13:12: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/13/2020 - 16:13:18: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 16:13:18: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 16:13:23: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/13/2020 - 16:13:23: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/13/2020 - 16:13:25: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/13/2020 - 16:27:49: Log file closed.
+L 04/13/2020 - 16:36:10: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200413.log") (Version "1.10.0.6478")
+L 04/13/2020 - 16:36:10: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/13/2020 - 16:36:20: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 16:36:20: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 16:36:55: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/13/2020 - 16:37:00: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 16:37:00: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 16:37:00: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/13/2020 - 16:37:00: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/13/2020 - 16:37:02: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/13/2020 - 16:38:53: Log file closed.
+L 04/13/2020 - 16:42:54: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200413.log") (Version "1.10.0.6478")
+L 04/13/2020 - 16:42:54: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/13/2020 - 16:43:01: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 16:43:01: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 16:43:13: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/13/2020 - 16:43:20: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 16:43:20: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 16:43:20: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/13/2020 - 16:43:20: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/13/2020 - 16:43:22: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/13/2020 - 16:47:10: Log file closed.
+L 04/13/2020 - 16:48:11: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200413.log") (Version "1.10.0.6478")
+L 04/13/2020 - 16:48:11: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/13/2020 - 16:48:21: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 16:48:21: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 16:48:34: Log file closed.
+L 04/13/2020 - 16:48:53: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200413.log") (Version "1.10.0.6478")
+L 04/13/2020 - 16:48:53: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/13/2020 - 16:49:02: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 16:49:02: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 16:51:04: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/13/2020 - 16:51:12: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 16:51:12: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 16:51:12: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/13/2020 - 16:51:12: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/13/2020 - 16:51:15: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/13/2020 - 16:56:56: Log file closed.
+L 04/13/2020 - 16:58:17: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200413.log") (Version "1.10.0.6478")
+L 04/13/2020 - 16:58:17: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/13/2020 - 16:58:26: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 16:58:26: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 16:58:47: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/13/2020 - 16:58:53: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 16:58:53: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 16:58:53: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/13/2020 - 16:58:53: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/13/2020 - 16:58:55: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/13/2020 - 17:00:00: Log file closed.
+L 04/13/2020 - 17:00:49: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200413.log") (Version "1.10.0.6478")
+L 04/13/2020 - 17:00:49: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/13/2020 - 17:00:55: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 17:00:55: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 17:04:11: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/13/2020 - 17:04:16: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 17:04:17: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 17:04:17: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/13/2020 - 17:04:17: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/13/2020 - 17:04:19: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/13/2020 - 17:23:33: [rockthevote.smx] [RTV] Rockthevote was successfully started.
+L 04/13/2020 - 17:23:39: [rockthevote.smx] [RTV] Rockthevote has ended, current map kept.
+L 04/13/2020 - 17:59:50: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/13/2020 - 18:00:22: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:23: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:23: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:23: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:23: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:23: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:24: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:24: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:24: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:24: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:24: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:25: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:26: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:26: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:26: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:26: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:26: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:27: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:27: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:28: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:28: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:28: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:28: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:28: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:28: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:29: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/13/2020 - 18:00:30: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:30: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:30: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:30: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:31: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:31: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:39: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:39: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:40: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:40: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:40: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:40: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:41: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:41: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:41: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:41: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:41: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:41: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:42: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:43: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:44: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:44: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:45: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:45: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:46: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:46: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/13/2020 - 18:00:46: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:46: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:48: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:53: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/13/2020 - 18:00:59: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:00:59: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:00: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:01: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:01: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:02: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:03: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:03: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:04: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:04: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:05: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:06: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:06: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:07: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:07: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:08: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:09: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:10: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:11: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:12: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:13: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:14: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:14: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:15: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:15: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:15: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:16: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:16: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:16: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:17: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:17: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:17: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:18: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:18: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:18: [playercommands.smx] "LaGayBomba<4><STEAM_1:1:527843285><>" slapped "LaGayBomba<4><STEAM_1:1:527843285><>" (damage "0")
+L 04/13/2020 - 18:01:36: Log file closed.
+L 04/13/2020 - 18:01:59: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200413.log") (Version "1.10.0.6478")
+L 04/13/2020 - 18:01:59: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/13/2020 - 18:02:11: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 18:02:11: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 18:02:32: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/13/2020 - 18:02:40: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 18:02:40: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 18:02:40: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/13/2020 - 18:02:40: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/13/2020 - 18:02:43: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/13/2020 - 18:03:30: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/13/2020 - 18:04:19: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/13/2020 - 18:04:33: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 04/13/2020 - 18:12:05: [sm_hosties.smx] "MilkA<4><STEAM_1:0:242076907><>" respawned "MilkA<4><STEAM_1:0:242076907><>"
+L 04/13/2020 - 18:13:19: [sm_hosties.smx] "MilkA<4><STEAM_1:0:242076907><>" respawned "MilkA<4><STEAM_1:0:242076907><>"
+L 04/13/2020 - 18:14:10: [extendedcomm.smx] MilkA<4><STEAM_1:0:242076907><> issued an extended mute on MilkA<4><STEAM_1:0:242076907><> for 30 minutes.
+L 04/13/2020 - 18:14:18: [extendedcomm.smx] MilkA<4><STEAM_1:0:242076907><> removed an extended mute for 30 minutes from MilkA<4><STEAM_1:0:242076907><>.
+L 04/13/2020 - 18:15:39: [playercommands.smx] "MilkA<4><STEAM_1:0:242076907><>" slayed "LaGayBomba<3><STEAM_1:1:527843285><>"
+L 04/13/2020 - 18:16:12: [playercommands.smx] "MilkA<4><STEAM_1:0:242076907><>" slayed "LaGayBomba<3><STEAM_1:1:527843285><>"
+L 04/13/2020 - 18:21:06: [SM] Changed map to "jb_arctic_jail_v3"
+L 04/13/2020 - 18:21:11: -------- Mapchange to jb_arctic_jail_v3 --------
+L 04/13/2020 - 18:21:20: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 18:21:20: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 18:21:21: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/13/2020 - 18:21:21: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/13/2020 - 18:51:14: Log file closed.
+L 04/13/2020 - 18:52:36: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200413.log") (Version "1.10.0.6478")
+L 04/13/2020 - 18:52:36: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/13/2020 - 18:52:44: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 18:52:44: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 18:53:06: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/13/2020 - 18:53:12: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 18:53:12: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 18:53:12: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/13/2020 - 18:53:12: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/13/2020 - 18:53:15: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/13/2020 - 18:54:55: Log file closed.
+L 04/13/2020 - 18:55:40: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200413.log") (Version "1.10.0.6478")
+L 04/13/2020 - 18:55:40: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/13/2020 - 18:55:49: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 18:55:50: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 18:56:05: -------- Mapchange to jb_summer_jail_v3 --------
+L 04/13/2020 - 18:56:13: [mapchooser.smx] [MapChooser] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 18:56:13: [rockthevote.smx] [RTV] Map Cycle Path: addons/sourcemod/configs/maps.ini
+L 04/13/2020 - 18:56:14: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 04/13/2020 - 18:56:14: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 04/13/2020 - 18:56:16: [mapchooser.smx] [MapChooser] g_hCheckTimer not INVALID_HANDLE in Timer_DelayStart! Why not? Check logs!
+L 04/13/2020 - 19:13:11: Log file closed.

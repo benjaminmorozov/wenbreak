@@ -1,0 +1,40 @@
+L 03/29/2020 - 16:24:37: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200329.log") (Version "1.10.0.6478")
+L 03/29/2020 - 16:24:37: -------- Mapchange to jb_obama_v5_beta --------
+L 03/29/2020 - 16:26:25: [movecommands.smx] "Blade<2><STEAM_1:1:454998401><>" was moved to T by "Blade<2><STEAM_1:1:454998401><>"
+L 03/29/2020 - 16:34:29: [movecommands.smx] "Blade<2><STEAM_1:1:454998401><>" was moved to CT by "Blade<2><STEAM_1:1:454998401><>"
+L 03/29/2020 - 16:34:29: [movecommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" was moved to T by "Blade<2><STEAM_1:1:454998401><>"
+L 03/29/2020 - 16:39:07: [movecommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" was moved to CT by "Blade<2><STEAM_1:1:454998401><>"
+L 03/29/2020 - 16:39:53: [basecommands.smx] "Blade<2><STEAM_1:1:454998401><>" executed config (file "server.cfg")
+L 03/29/2020 - 16:40:56: [basecommands.smx] "Blade<2><STEAM_1:1:454998401><>" changed map to "jb_obama_v5_beta"
+L 03/29/2020 - 16:41:00: [SM] Changed map to "jb_obama_v5_beta"
+L 03/29/2020 - 16:41:01: -------- Mapchange to jb_obama_v5_beta --------
+L 03/29/2020 - 16:43:57: [basecommands.smx] "Blade<2><STEAM_1:1:454998401><>" changed map to "jb_obama_v5_beta"
+L 03/29/2020 - 16:44:00: [SM] Changed map to "jb_obama_v5_beta"
+L 03/29/2020 - 16:44:01: -------- Mapchange to jb_obama_v5_beta --------
+L 03/29/2020 - 16:44:17: [basecommands.smx] "Blade<2><STEAM_1:1:454998401><>" executed config (file "server.cfg")
+L 03/29/2020 - 16:44:54: Log file closed.
+L 03/29/2020 - 16:45:12: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200329.log") (Version "1.10.0.6478")
+L 03/29/2020 - 16:45:12: -------- Mapchange to jb_obama_v5_beta --------
+L 03/29/2020 - 16:49:11: Log file closed.
+L 03/29/2020 - 16:52:02: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200329.log") (Version "1.10.0.6478")
+L 03/29/2020 - 16:52:02: -------- Mapchange to jb_obama_v5_beta --------
+L 03/29/2020 - 16:58:21: Log file closed.
+L 03/29/2020 - 16:58:36: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200329.log") (Version "1.10.0.6478")
+L 03/29/2020 - 16:58:36: -------- Mapchange to jb_obama_v5_beta --------
+L 03/29/2020 - 17:01:22: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slayed "Blade<2><STEAM_1:1:454998401><>"
+L 03/29/2020 - 17:04:41: [movecommands.smx] "Blade<2><STEAM_1:1:454998401><>" was moved to T by "Smoweday<3><STEAM_1:0:505070462><>"
+L 03/29/2020 - 17:04:41: [movecommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" was moved to CT by "Smoweday<3><STEAM_1:0:505070462><>"
+L 03/29/2020 - 17:04:52: [movecommands.smx] "Blade<2><STEAM_1:1:454998401><>" was moved to CT by "Smoweday<3><STEAM_1:0:505070462><>"
+L 03/29/2020 - 17:04:52: [movecommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" was moved to T by "Smoweday<3><STEAM_1:0:505070462><>"
+L 03/29/2020 - 17:04:57: [funcommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" drugged "Blade<2><STEAM_1:1:454998401><>"
+L 03/29/2020 - 17:05:14: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" renamed "Blade<2><STEAM_1:1:454998401><>" (to "lalld")
+L 03/29/2020 - 17:05:25: [playercommands.smx] "Smoweday<3><STEAM_1:0:505070462><>" slayed "Smoweday<3><STEAM_1:0:505070462><>"
+L 03/29/2020 - 17:12:08: Log file closed.
+L 03/29/2020 - 17:12:22: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200329.log") (Version "1.10.0.6478")
+L 03/29/2020 - 17:12:22: -------- Mapchange to jb_obama_v5_beta --------
+L 03/29/2020 - 17:27:21: Log file closed.
+L 03/29/2020 - 17:27:36: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200329.log") (Version "1.10.0.6478")
+L 03/29/2020 - 17:27:36: -------- Mapchange to jb_obama_v5_beta --------
+L 03/29/2020 - 17:29:09: Log file closed.
+L 03/29/2020 - 17:29:20: SourceMod log file session started (file "/home/steam/csgo-ds/csgo/addons/sourcemod/logs/L20200329.log") (Version "1.10.0.6478")
+L 03/29/2020 - 17:29:20: -------- Mapchange to jb_obama_v5_beta --------
